@@ -1,0 +1,38 @@
+[
+    {
+        "symbol": "HON",
+        "price": 210.0,
+        "expiration": "weekly",
+        "type": "calls"
+    },
+    {
+        "symbol": "HON",
+        "price": 215.0,
+        "expiration": "weekly",
+        "type": "calls"
+    },
+    {
+        "symbol": "IBM",
+        "price": 267.5,
+        "expiration": "weekly",
+        "type": "puts"
+    },
+    {
+        "symbol": "IBM",
+        "price": 265.0,
+        "expiration": "weekly",
+        "type": "puts"
+    },
+    {
+        "symbol": "TSLA",
+        "price": 427.5,
+        "expiration": "weekly",
+        "type": "puts"
+    },
+    {
+        "symbol": "TSLA",
+        "price": 422.5,
+        "expiration": "weekly",
+        "type": "puts"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "symbol": "F",
+        "price": 12.5,
+        "expiration": "weekly",
+        "type": "calls"
+    },
+    {
+        "symbol": "PG",
+        "price": 155.0,
+        "expiration": "weekly",
+        "type": "calls"
+    },
+    {
+        "symbol": "PG",
+        "price": 157.5,
+        "expiration": "weekly",
+        "type": "calls"
+    },
+    {
+        "symbol": "INTC",
+        "price": 39.5,
+        "expiration": "weekly",
+        "type": "calls"
+    },
+    {
+        "symbol": "INTC",
+        "price": 40.5,
+        "expiration": "weekly",
+        "type": "calls"
+    },
+    {
+        "symbol": "NEM",
+        "price": 85.0,
+        "expiration": "weekly",
+        "type": "puts"
+    },
+    {
+        "symbol": "NEM",
+        "price": 84.0,
+        "expiration": "weekly",
+        "type": "puts"
+    }
+]
