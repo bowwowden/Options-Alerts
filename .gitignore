@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+instance/
+config.py
+venv/
+
+# Node / Frontend
+node_modules/
+dist/
+build/
+*.lock
+*.env
+*.DS_Store
+
+# OS / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*.bak
+*.tmp
+Thumbs.db
+
+# JSON snapshots / temporary data
+TSLA_chain_*.json
