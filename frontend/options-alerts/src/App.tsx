@@ -5,6 +5,7 @@ import PostDetail from "./pages/PostDetail";
 import Chat from "./pages/Chat";
 import Trade from "./pages/Trade";
 import Portfolio from "./pages/Portfolio";
+import Search from "./pages/Search";
 import Sidebar from "./components/Sidebar";
 import ChatCharacter from "./components/ChatCharacter";
 
@@ -32,6 +33,7 @@ const AppContent: React.FC = () => {
           <Route path="/" element={<Home />} />
           <Route path="/post/:id" element={<PostDetail />} />
           <Route path="/chat" element={<Chat />} />
+          <Route path="/search" element={<Search />} />
           <Route path="/trade" element={<Trade />} />
           <Route path="/portfolio" element={<Portfolio />} />
         </Routes>

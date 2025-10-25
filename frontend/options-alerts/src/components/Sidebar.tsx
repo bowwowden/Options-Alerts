@@ -16,6 +16,7 @@ const Sidebar: React.FC = () => {
 
   const menuItems = [
     { path: "/", label: "Home", icon: "🏠" },
+    { path: "/search", label: "Search", icon: "🔍" },
     { path: "/trade", label: "Trade", icon: "📊" },
     { path: "/portfolio", label: "Portfolio", icon: "💼" },
   ];

@@ -53,7 +53,7 @@ from alpaca.data.requests import OptionChainRequest
 # example tesla chain, gigantic. website prolly needs a simple feature to view option chains.
 import time
 import json
-from datetime import datetime
+from datetime import datetime, timezone
 
 
 def fetch_chains_sixty_minutes():
@@ -94,12 +94,63 @@ def fetch_chains_sixty_minutes():
 
 from alpaca.data.requests import OptionSnapshotRequest
 
-# Next let's fetch a snapshot
-for contract in orders:
-    print("For contract")
-    print(contract)
+# # Next let's fetch a snapshot
+# for contract in orders:
+#     print("For contract")
+#     print(contract)
+#
+#     snapshot_request = OptionSnapshotRequest(symbol_or_symbols=contract)
+#
+#     snapshot = option_client.get_option_snapshot(snapshot_request)
+#     print(snapshot)
 
-    snapshot_request = OptionSnapshotRequest(symbol_or_symbols=contract)
+# Historical Options Bars
 
-    snapshot = option_client.get_option_snapshot(snapshot_request)
-    print(snapshot)
+from alpaca.data.requests import OptionBarsRequest
+
+from alpaca.data import OptionHistoricalDataClient
+from alpaca.data.timeframe import TimeFrame
+option_client = OptionHistoricalDataClient(api_key, secret_key)
+
+contract = orders[0]
+print(contract)
+request_params = OptionBarsRequest(symbol_or_symbols=contract,
+                                   timeframe=TimeFrame.Minute,
+                                   start=datetime(2025,10,24, 13, 30, tzinfo=timezone.utc), # 9:30 am et
+                                   end=datetime(2025,10,24, 20, 0, tzinfo=timezone.utc)  # 4:00 pm et
+                                   )
+
+
+bars =  option_client.get_option_bars(request_params)
+# Convert bars to JSON-serializable format
+print("bars")
+print(type(bars))
+
+# timestamped filename
+ts = datetime.now().strftime("%Y%m%d_%H%M%S")
+filename = f"{contract}_chain_{ts}.json"
+
+bars_list = []
+
+# BarSet is keyed by symbol, but since we requested one contract we can just iterate
+for bar in bars[contract]:  # iterate over Bar objects
+    bars_list.append({
+        'symbol': bar.symbol,
+        'timestamp': bar.timestamp.isoformat(),  # Bar.timestamp is a datetime
+        'open': bar.open,
+        'high': bar.high,
+        'low': bar.low,
+        'close': bar.close,
+        'volume': bar.volume,
+        'trade_count': getattr(bar, 'trade_count', None),
+        'vwap': getattr(bar, 'vwap', None),
+    })
+
+# Wrap in dict keyed by contract symbol
+data_to_write = {contract: bars_list}
+
+# Write to JSON file
+with open(filename, 'w') as f:
+    json.dump(data_to_write, f, indent=2)
+
+print(f"Saved {len(bars_list)} bars to {filename}")
