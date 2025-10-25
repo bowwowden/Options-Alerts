@@ -13,7 +13,7 @@ const Chat: React.FC = () => {
   const [messages, setMessages] = useState<Message[]>([
     {
       id: 1,
-      text: "Hey there! I'm here to help you find the best options plays. What can I do for you today?",
+      text: "Hey there! I'm here to help you with options trading. How can I assist you today?",
       sender: "horseshoe",
       timestamp: new Date(),
     },
@@ -31,27 +31,38 @@ const Chat: React.FC = () => {
     };
 
     setMessages([...messages, userMessage]);
+    const userInput = inputValue.toLowerCase();
     setInputValue("");
 
-    // Simulate horseshoe response
     setTimeout(() => {
-      const responses = [
-        "That's a great question! Let me analyze that for you...",
-        "I'm processing the latest market data to give you the best answer.",
-        "Interesting! Based on current market trends, here's what I think...",
-        "Let me check the options flow for that symbol.",
-        "I'm seeing some strong signals in the market right now!",
-      ];
-      const randomResponse = responses[Math.floor(Math.random() * responses.length)];
+      let response = "";
+
+      // Check for submit trade questions
+      if (userInput.includes("submit") || userInput.includes("trade") || userInput.includes("execute")) {
+        response = "To submit a trade:\n\n1. Navigate to the home page\n2. Click on a post with an options play\n3. Review the details and strike price\n4. Click 'View on Yahoo Finance' to see current pricing\n5. Execute the trade through your broker\n\nAlways verify the strike price, expiration date, and premium before placing your order!";
+      }
+      // Check for fresh plays questions
+      else if (userInput.includes("fresh") || userInput.includes("plays") || userInput.includes("today")) {
+        response = "Here are today's fresh plays:\n\n📈 AAPL $200 Calls - Strong bullish momentum\n📉 TSLA $250 Puts - Bearish setup forming\n🎯 SPY Iron Condor - Market consolidating\n\nClick 'Back to Home' to see full details on each play!";
+      }
+      // Check for ITM/OTM questions
+      else if (userInput.includes("itm") || userInput.includes("otm") ||
+          userInput.includes("in the money") || userInput.includes("out of the money")) {
+        response = "To determine if an option is ITM or OTM:\n\n• CALL options:\n  - ITM: Stock price > Strike price\n  - OTM: Stock price < Strike price\n\n• PUT options:\n  - ITM: Stock price < Strike price\n  - OTM: Stock price > Strike price\n\nTell me the symbol, strike price, and option type (call/put), and I can help you check!";
+      }
+      // Default help message
+      else {
+        response = "I can help you with:\n\n1. How to submit a trade\n2. Check if an option is ITM/OTM\n3. Today's fresh plays\n\nJust ask me about any of these topics!";
+      }
 
       const botMessage: Message = {
         id: messages.length + 2,
-        text: randomResponse,
+        text: response,
         sender: "horseshoe",
         timestamp: new Date(),
       };
       setMessages((prev) => [...prev, botMessage]);
-    }, 1000);
+    }, 800);
   };
 
   const handleKeyPress = (e: React.KeyboardEvent) => {
@@ -139,7 +150,7 @@ const Chat: React.FC = () => {
                 color: message.sender === "user" ? "white" : "#333",
               }}
             >
-              <p style={{ margin: 0 }}>{message.text}</p>
+              <p style={{ margin: 0, whiteSpace: "pre-line" }}>{message.text}</p>
               <span
                 style={{
                   fontSize: "11px",
@@ -172,7 +183,7 @@ const Chat: React.FC = () => {
           value={inputValue}
           onChange={(e) => setInputValue(e.target.value)}
           onKeyPress={handleKeyPress}
-          placeholder="Ask about options plays..."
+          placeholder="Type your question here..."
           style={{
             flex: 1,
             padding: "12px",

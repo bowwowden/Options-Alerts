@@ -112,7 +112,7 @@ def write_fresh_plays_files(filename):
     # 2️⃣ Combine with date
     filename = f"Fresh_Plays_{date_str}.txt"
 
-    with open(f"utils/positions/{filename}", "w") as f:
+    with open(f"backend/utils/positions/{filename}", "w") as f:
         json.dump(data, f, indent=4)
 
     return data

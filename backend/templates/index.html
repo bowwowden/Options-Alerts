@@ -43,30 +43,338 @@
     </script>
 
 
-  <div class="max-w-md mx-auto p-4">
+  <div class="max-w-4xl mx-auto p-4">
     <h1 class="text-2xl font-bold mb-4 text-center">📢 Stock Alerts</h1>
 
-    <div class="space-y-3 overflow-y-auto h-[80vh]">
-      {% for alert in alerts %}
-      <div class="bg-white p-4 rounded-xl shadow hover:shadow-md transition">
-        <div class="flex justify-between items-center mb-2">
-          <h2 class="font-semibold text-lg">{{ alert.symbol }} {{ alert.type | capitalize }}</h2>
-          <span class="text-sm text-gray-500">{{ alert.expiration }}</span>
-        </div>
-        <p class="text-gray-700 mb-1">💰 Price: {{ alert.price }}</p>
-        {% if alert.change %}
-        <p class="text-sm {% if alert.change >= 0 %}text-green-500{% else %}text-red-500{% endif %}">
-          📊 {{ alert.change }}%
-        </p>
-        {% endif %}
-        <p class="text-gray-600 text-sm">{{ alert.detail }}</p>
+    <!-- Options Snapshot Fetcher -->
+    <div class="bg-white p-6 rounded-xl shadow-md mb-6">
+      <h2 class="text-xl font-semibold mb-2">🔍 Fetch Options Snapshot</h2>
+      <p class="text-gray-600 text-sm mb-4">
+        Fetch real-time options snapshot data for a given OCC symbol. Enter a symbol in the format:
+        <code class="bg-gray-100 px-1 rounded">[UNDERLYING][YYMMDD][C/P][strike*1000]</code>
+        (e.g., TSLA251024P00422500)
+      </p>
+      <div class="flex gap-2 mb-4">
+        <input
+          type="text"
+          id="occ-symbol"
+          placeholder="Enter OCC Symbol (e.g., TSLA251024P00422500)"
+          class="flex-1 px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
+        />
+        <button
+          id="fetch-btn"
+          class="bg-blue-500 text-white px-6 py-2 rounded-lg hover:bg-blue-600 transition"
+        >
+          Fetch
+        </button>
       </div>
-      {% endfor %}
+
+      <!-- Loading State -->
+      <div id="loading" class="hidden text-center py-4">
+        <div class="inline-block animate-spin rounded-full h-8 w-8 border-b-2 border-blue-500"></div>
+        <p class="text-gray-600 mt-2">Fetching snapshot...</p>
+      </div>
+
+      <!-- Error State -->
+      <div id="error" class="hidden bg-red-50 border border-red-200 text-red-700 px-4 py-3 rounded-lg"></div>
+
+      <!-- Results -->
+      <div id="results" class="hidden">
+        <h3 class="font-semibold text-lg mb-2">Snapshot Data:</h3>
+        <div class="bg-gray-50 p-4 rounded-lg overflow-x-auto">
+          <pre id="snapshot-data" class="text-sm text-gray-800"></pre>
+        </div>
+      </div>
     </div>
 
-    <footer class="text-center text-xs text-gray-400 mt-4">
-      <a href="/about" class="text-blue-500 hover:underline">About</a>
-    </footer>
+    <!-- Save Snapshot to Database -->
+    <div class="bg-white p-6 rounded-xl shadow-md mb-6">
+      <h2 class="text-xl font-semibold mb-2">💾 Save Snapshot to Database</h2>
+      <p class="text-gray-600 text-sm mb-4">
+        Fetch a snapshot from Alpaca and save it to the database for historical tracking.
+      </p>
+      <div class="flex gap-2 mb-4">
+        <input
+          type="text"
+          id="save-symbol"
+          placeholder="Enter OCC Symbol (e.g., TSLA251024P00422500)"
+          class="flex-1 px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-green-500"
+        />
+        <button
+          id="save-btn"
+          class="bg-green-500 text-white px-6 py-2 rounded-lg hover:bg-green-600 transition"
+        >
+          Fetch & Save
+        </button>
+      </div>
+
+      <!-- Loading State -->
+      <div id="save-loading" class="hidden text-center py-4">
+        <div class="inline-block animate-spin rounded-full h-8 w-8 border-b-2 border-green-500"></div>
+        <p class="text-gray-600 mt-2">Fetching and saving...</p>
+      </div>
+
+      <!-- Error State -->
+      <div id="save-error" class="hidden bg-red-50 border border-red-200 text-red-700 px-4 py-3 rounded-lg"></div>
+
+      <!-- Success State -->
+      <div id="save-success" class="hidden bg-green-50 border border-green-200 text-green-700 px-4 py-3 rounded-lg"></div>
+    </div>
+
+    <!-- View Database Snapshots -->
+    <div class="bg-white p-6 rounded-xl shadow-md mb-6">
+      <h2 class="text-xl font-semibold mb-2">📊 View Database Snapshots</h2>
+      <p class="text-gray-600 text-sm mb-4">
+        Retrieve saved snapshots from the database. Filter by symbol or view all.
+      </p>
+      <div class="flex gap-2 mb-4">
+        <input
+          type="text"
+          id="filter-symbol"
+          placeholder="Filter by symbol (optional)"
+          class="flex-1 px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-500"
+        />
+        <button
+          id="view-btn"
+          class="bg-purple-500 text-white px-6 py-2 rounded-lg hover:bg-purple-600 transition"
+        >
+          View Snapshots
+        </button>
+      </div>
+
+      <!-- Loading State -->
+      <div id="view-loading" class="hidden text-center py-4">
+        <div class="inline-block animate-spin rounded-full h-8 w-8 border-b-2 border-purple-500"></div>
+        <p class="text-gray-600 mt-2">Loading snapshots...</p>
+      </div>
+
+      <!-- Error State -->
+      <div id="view-error" class="hidden bg-red-50 border border-red-200 text-red-700 px-4 py-3 rounded-lg"></div>
+
+      <!-- Results -->
+      <div id="view-results" class="hidden">
+        <h3 class="font-semibold text-lg mb-2">Database Snapshots (<span id="snapshot-count">0</span>):</h3>
+        <div class="bg-gray-50 p-4 rounded-lg overflow-x-auto max-h-96 overflow-y-auto">
+          <div id="snapshots-list"></div>
+        </div>
+      </div>
+    </div>
+
+
   </div>
+
+  <script>
+    const fetchBtn = document.getElementById('fetch-btn');
+    const occSymbol = document.getElementById('occ-symbol');
+    const loading = document.getElementById('loading');
+    const error = document.getElementById('error');
+    const results = document.getElementById('results');
+    const snapshotData = document.getElementById('snapshot-data');
+
+    fetchBtn.addEventListener('click', async () => {
+      const symbol = occSymbol.value.trim();
+
+      if (!symbol) {
+        showError('Please enter an OCC symbol');
+        return;
+      }
+
+      // Reset states
+      loading.classList.remove('hidden');
+      error.classList.add('hidden');
+      results.classList.add('hidden');
+
+      try {
+        const response = await fetch(`/api/fetch-options-snapshot?symbol=${encodeURIComponent(symbol)}`);
+        const data = await response.json();
+
+        loading.classList.add('hidden');
+
+        if (data.success) {
+          snapshotData.textContent = JSON.stringify(data.data, null, 2);
+          results.classList.remove('hidden');
+        } else {
+          showError(data.error || 'Failed to fetch snapshot');
+        }
+      } catch (err) {
+        loading.classList.add('hidden');
+        showError('Network error: ' + err.message);
+      }
+    });
+
+    function showError(message) {
+      error.textContent = message;
+      error.classList.remove('hidden');
+    }
+
+    // Allow Enter key to trigger fetch
+    occSymbol.addEventListener('keypress', (e) => {
+      if (e.key === 'Enter') {
+        fetchBtn.click();
+      }
+    });
+
+    // ========== Save Snapshot to Database ==========
+    const saveBtn = document.getElementById('save-btn');
+    const saveSymbol = document.getElementById('save-symbol');
+    const saveLoading = document.getElementById('save-loading');
+    const saveError = document.getElementById('save-error');
+    const saveSuccess = document.getElementById('save-success');
+
+    saveBtn.addEventListener('click', async () => {
+      const symbol = saveSymbol.value.trim();
+
+      if (!symbol) {
+        showSaveError('Please enter an OCC symbol');
+        return;
+      }
+
+      // Reset states
+      saveLoading.classList.remove('hidden');
+      saveError.classList.add('hidden');
+      saveSuccess.classList.add('hidden');
+
+      try {
+        // First, fetch the snapshot from Alpaca
+        const fetchResponse = await fetch(`/api/fetch-options-snapshot?symbol=${encodeURIComponent(symbol)}`);
+        const fetchData = await fetchResponse.json();
+
+        if (!fetchData.success) {
+          saveLoading.classList.add('hidden');
+          showSaveError(fetchData.error || 'Failed to fetch snapshot');
+          return;
+        }
+
+        // Get the snapshot data for the symbol
+        const snapshotData = fetchData.data[symbol];
+
+        // Now save it to the database
+        const saveResponse = await fetch('/api/save-snapshot', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify({
+            symbol: symbol,
+            snapshot_data: snapshotData
+          })
+        });
+
+        const saveData = await saveResponse.json();
+        saveLoading.classList.add('hidden');
+
+        if (saveData.success) {
+          showSaveSuccess(`Snapshot saved successfully! ID: ${saveData.id}`);
+        } else {
+          showSaveError(saveData.error || 'Failed to save snapshot');
+        }
+      } catch (err) {
+        saveLoading.classList.add('hidden');
+        showSaveError('Network error: ' + err.message);
+      }
+    });
+
+    function showSaveError(message) {
+      saveError.textContent = message;
+      saveError.classList.remove('hidden');
+    }
+
+    function showSaveSuccess(message) {
+      saveSuccess.textContent = message;
+      saveSuccess.classList.remove('hidden');
+    }
+
+    saveSymbol.addEventListener('keypress', (e) => {
+      if (e.key === 'Enter') {
+        saveBtn.click();
+      }
+    });
+
+    // ========== View Database Snapshots ==========
+    const viewBtn = document.getElementById('view-btn');
+    const filterSymbol = document.getElementById('filter-symbol');
+    const viewLoading = document.getElementById('view-loading');
+    const viewError = document.getElementById('view-error');
+    const viewResults = document.getElementById('view-results');
+    const snapshotCount = document.getElementById('snapshot-count');
+    const snapshotsList = document.getElementById('snapshots-list');
+
+    viewBtn.addEventListener('click', async () => {
+      const symbol = filterSymbol.value.trim();
+
+      // Reset states
+      viewLoading.classList.remove('hidden');
+      viewError.classList.add('hidden');
+      viewResults.classList.add('hidden');
+
+      try {
+        let url = '/api/snapshots';
+        if (symbol) {
+          url += `?symbol=${encodeURIComponent(symbol)}`;
+        }
+
+        const response = await fetch(url);
+        const data = await response.json();
+
+        viewLoading.classList.add('hidden');
+
+        if (data.success) {
+          snapshotCount.textContent = data.count;
+
+          if (data.count === 0) {
+            snapshotsList.innerHTML = '<p class="text-gray-500 text-center py-4">No snapshots found</p>';
+          } else {
+            // Display snapshots as cards
+            snapshotsList.innerHTML = data.data.map(snapshot => `
+              <div class="mb-4 p-4 border border-gray-200 rounded-lg bg-white">
+                <div class="flex justify-between items-start mb-2">
+                  <h4 class="font-semibold text-lg">${snapshot.symbol}</h4>
+                  <span class="text-xs text-gray-500">ID: ${snapshot.id}</span>
+                </div>
+                <div class="grid grid-cols-2 gap-2 text-sm mb-2">
+                  <div>
+                    <span class="font-medium">Ask:</span> $${snapshot.latest_quote.ask_price !== null && snapshot.latest_quote.ask_price !== undefined ? snapshot.latest_quote.ask_price : 'N/A'}
+                  </div>
+                  <div>
+                    <span class="font-medium">Bid:</span> $${snapshot.latest_quote.bid_price !== null && snapshot.latest_quote.bid_price !== undefined ? snapshot.latest_quote.bid_price : 'N/A'}
+                  </div>
+                  ${snapshot.latest_trade ? `
+                  <div>
+                    <span class="font-medium">Last Trade:</span> $${snapshot.latest_trade.price !== null && snapshot.latest_trade.price !== undefined ? snapshot.latest_trade.price : 'N/A'}
+                  </div>
+                  <div>
+                    <span class="font-medium">Size:</span> ${snapshot.latest_trade.size !== null && snapshot.latest_trade.size !== undefined ? snapshot.latest_trade.size : 'N/A'}
+                  </div>
+                  ` : ''}
+                </div>
+                <div class="text-xs text-gray-500">
+                  <div>Quote Time: ${snapshot.latest_quote.timestamp || 'N/A'}</div>
+                  <div>Saved: ${new Date(snapshot.created_at).toLocaleString()}</div>
+                </div>
+              </div>
+            `).join('');
+          }
+
+          viewResults.classList.remove('hidden');
+        } else {
+          showViewError(data.error || 'Failed to load snapshots');
+        }
+      } catch (err) {
+        viewLoading.classList.add('hidden');
+        showViewError('Network error: ' + err.message);
+      }
+    });
+
+    function showViewError(message) {
+      viewError.textContent = message;
+      viewError.classList.remove('hidden');
+    }
+
+    filterSymbol.addEventListener('keypress', (e) => {
+      if (e.key === 'Enter') {
+        viewBtn.click();
+      }
+    });
+  </script>
 </body>
 </html>

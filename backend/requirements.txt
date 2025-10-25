@@ -1,0 +1,5 @@
+flask
+flask-sqlalchemy
+alpaca-py
+requests
+beautifulsoup4

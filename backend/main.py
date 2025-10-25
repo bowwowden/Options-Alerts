@@ -2,7 +2,7 @@
 # Wrap everything together
 
 # 1. Scrape article
-from backend import utils as scraper
+from backend.utils import scraper
 import backend.utils.order_reader as order_fetcher
 
 # Skip this for now.
