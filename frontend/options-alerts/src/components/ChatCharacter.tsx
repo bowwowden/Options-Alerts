@@ -4,10 +4,61 @@ import horseshoeImg from "../assets/horseshoe.png";
 
 const ChatCharacter: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);
+  const [isMinimized, setIsMinimized] = useState(false);
 
   const toggleChat = () => {
     setIsOpen(!isOpen);
   };
+
+  const handleMinimize = () => {
+    setIsMinimized(true);
+    setIsOpen(false);
+  };
+
+  const handleExpand = () => {
+    setIsMinimized(false);
+  };
+
+  // Render minimized state (small up arrow)
+  if (isMinimized) {
+    return (
+      <div style={{
+        position: "fixed",
+        bottom: "10px",
+        right: "10px",
+        zIndex: 1000
+      }}>
+        <button
+          onClick={handleExpand}
+          style={{
+            width: "22px",
+            height: "22px",
+            borderRadius: "50%",
+            backgroundColor: "#646cff",
+            color: "white",
+            border: "none",
+            cursor: "pointer",
+            fontSize: "14px",
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "center",
+            boxShadow: "0 2px 6px rgba(0, 0, 0, 0.2)",
+            transition: "all 0.2s"
+          }}
+          onMouseEnter={(e) => {
+            e.currentTarget.style.backgroundColor = "#535bf2";
+            e.currentTarget.style.transform = "scale(1.1)";
+          }}
+          onMouseLeave={(e) => {
+            e.currentTarget.style.backgroundColor = "#646cff";
+            e.currentTarget.style.transform = "scale(1)";
+          }}
+        >
+          ↑
+        </button>
+      </div>
+    );
+  }
 
   return (
     <div style={{
@@ -63,24 +114,61 @@ const ChatCharacter: React.FC = () => {
         </div>
       )}
 
-      {/* Character Image */}
-      <img
-        src={horseshoeImg}
-        alt="Horseshoe character"
-        onClick={toggleChat}
-        style={{
-          width: "min(120px, 20vw)",
-          height: "min(120px, 20vw)",
-          cursor: "pointer",
-          transition: "transform 0.2s"
-        }}
-        onMouseEnter={(e) => {
-          e.currentTarget.style.transform = "scale(1.1)";
-        }}
-        onMouseLeave={(e) => {
-          e.currentTarget.style.transform = "scale(1)";
-        }}
-      />
+      {/* Character Container with Controls */}
+      <div style={{ position: "relative" }}>
+        {/* Minimize Button (down arrow) */}
+        <button
+          onClick={handleMinimize}
+          style={{
+            position: "absolute",
+            bottom: "0px",
+            right: "0px",
+            width: "22px",
+            height: "22px",
+            borderRadius: "50%",
+            backgroundColor: "#646cff",
+            color: "white",
+            border: "none",
+            cursor: "pointer",
+            fontSize: "14px",
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "center",
+            boxShadow: "0 2px 6px rgba(0, 0, 0, 0.2)",
+            zIndex: 1001,
+            transition: "all 0.2s"
+          }}
+          onMouseEnter={(e) => {
+            e.currentTarget.style.backgroundColor = "#535bf2";
+            e.currentTarget.style.transform = "scale(1.1)";
+          }}
+          onMouseLeave={(e) => {
+            e.currentTarget.style.backgroundColor = "#646cff";
+            e.currentTarget.style.transform = "scale(1)";
+          }}
+        >
+          ↓
+        </button>
+
+        {/* Character Image */}
+        <img
+          src={horseshoeImg}
+          alt="Horseshoe character"
+          onClick={toggleChat}
+          style={{
+            width: "min(120px, 20vw)",
+            height: "min(120px, 20vw)",
+            cursor: "pointer",
+            transition: "transform 0.2s"
+          }}
+          onMouseEnter={(e) => {
+            e.currentTarget.style.transform = "scale(1.1)";
+          }}
+          onMouseLeave={(e) => {
+            e.currentTarget.style.transform = "scale(1)";
+          }}
+        />
+      </div>
     </div>
   );
 };

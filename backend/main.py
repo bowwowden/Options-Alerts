@@ -2,12 +2,13 @@
 # Wrap everything together
 
 # 1. Scrape article
-from backend.utils import scraper
-import backend.utils.order_reader as order_fetcher
+from utils import scraper
+import utils.order_reader as order_fetcher
 
 # Skip this for now.
-# scraper.scrape_article()
+scraper.scrape_article()
 
+exit()
 # Need text
 print("Extract options Positions: ")
 data = scraper.write_fresh_plays_files("backend/utils/articles/Thursdays_Runs_5-Pack_of_New_Chances_10-24-2025.txt")

@@ -50,12 +50,20 @@ def convert_fresh_options_to_json(fresh_lines):
     data = []
 
     for line in fresh_lines:
+        # Remove any trailing asterisks or notes
+        line = re.sub(r'\*.*$', '', line).strip()
+
         # Extract symbol, type, price range
-        # Pattern: SYMBOL Weekly $START-END Calls/Puts
-        match = re.match(r"(\w+)\s+Weekly\s+\$?([\d.]+)-?([\d.]*)\s+(Calls|Puts)", line, re.IGNORECASE)
+        # Pattern 1: SYMBOL Weekly $START-END Calls/Puts
+        # Pattern 2: SYMBOL MM/DD $START-END Calls/Puts
+        match = re.match(r"(\w+)\s+(Weekly|\d{1,2}/\d{1,2})\s+\$?([\d.]+)-?([\d.]*)\s+(Calls|Puts)", line, re.IGNORECASE)
         if match:
-            symbol, start_price, end_price, option_type = match.groups()
-            expiration = "weekly"
+            symbol, expiration, start_price, end_price, option_type = match.groups()
+
+            # Normalize expiration - keep as-is (either "weekly" or "MM/DD")
+            if expiration.lower() == "weekly":
+                expiration = "weekly"
+            # else keep the date format as-is
 
             # Convert prices to float
             start_price = float(start_price)
@@ -112,7 +120,7 @@ def write_fresh_plays_files(filename):
     # 2️⃣ Combine with date
     filename = f"Fresh_Plays_{date_str}.txt"
 
-    with open(f"backend/utils/positions/{filename}", "w") as f:
+    with open(f"utils/positions/{filename}", "w") as f:
         json.dump(data, f, indent=4)
 
     return data

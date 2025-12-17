@@ -1,0 +1,32 @@
+[
+    {
+        "symbol": "LTM",
+        "price": 45.0,
+        "expiration": "weekly",
+        "type": "calls"
+    },
+    {
+        "symbol": "XPEV",
+        "price": 24.5,
+        "expiration": "weekly",
+        "type": "puts"
+    },
+    {
+        "symbol": "XPEV",
+        "price": 24.0,
+        "expiration": "weekly",
+        "type": "puts"
+    },
+    {
+        "symbol": "ARMK",
+        "price": 36.0,
+        "expiration": "weekly",
+        "type": "puts"
+    },
+    {
+        "symbol": "ARMK",
+        "price": 35.0,
+        "expiration": "weekly",
+        "type": "puts"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "symbol": "TJX",
+        "price": 150.0,
+        "expiration": "weekly",
+        "type": "calls"
+    },
+    {
+        "symbol": "LOW",
+        "price": 230.0,
+        "expiration": "weekly",
+        "type": "calls"
+    },
+    {
+        "symbol": "LOW",
+        "price": 232.5,
+        "expiration": "weekly",
+        "type": "calls"
+    },
+    {
+        "symbol": "TGT",
+        "price": 88.0,
+        "expiration": "weekly",
+        "type": "puts"
+    },
+    {
+        "symbol": "TGT",
+        "price": 86.0,
+        "expiration": "weekly",
+        "type": "puts"
+    }
+]

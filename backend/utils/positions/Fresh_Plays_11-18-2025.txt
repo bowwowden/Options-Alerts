@@ -1,0 +1,50 @@
+[
+    {
+        "symbol": "SPY",
+        "price": 664.0,
+        "expiration": "11/18",
+        "type": "puts"
+    },
+    {
+        "symbol": "SPY",
+        "price": 663.0,
+        "expiration": "11/18",
+        "type": "puts"
+    },
+    {
+        "symbol": "HD",
+        "price": 347.5,
+        "expiration": "weekly",
+        "type": "puts"
+    },
+    {
+        "symbol": "HD",
+        "price": 345.0,
+        "expiration": "weekly",
+        "type": "puts"
+    },
+    {
+        "symbol": "PDD",
+        "price": 127.0,
+        "expiration": "weekly",
+        "type": "puts"
+    },
+    {
+        "symbol": "PDD",
+        "price": 125.0,
+        "expiration": "weekly",
+        "type": "puts"
+    },
+    {
+        "symbol": "BIDU",
+        "price": 111.0,
+        "expiration": "weekly",
+        "type": "puts"
+    },
+    {
+        "symbol": "BIDU",
+        "price": 110.0,
+        "expiration": "weekly",
+        "type": "puts"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "symbol": "SPY",
+        "price": 681.0,
+        "expiration": "10/27",
+        "type": "calls"
+    },
+    {
+        "symbol": "SPY",
+        "price": 683.0,
+        "expiration": "10/27",
+        "type": "calls"
+    },
+    {
+        "symbol": "KDP",
+        "price": 29.0,
+        "expiration": "weekly",
+        "type": "calls"
+    },
+    {
+        "symbol": "KDP",
+        "price": 30.0,
+        "expiration": "weekly",
+        "type": "calls"
+    },
+    {
+        "symbol": "RVTY",
+        "price": 95.0,
+        "expiration": "11/21",
+        "type": "puts"
+    },
+    {
+        "symbol": "BOH",
+        "price": 65.0,
+        "expiration": "11/21",
+        "type": "calls"
+    }
+]

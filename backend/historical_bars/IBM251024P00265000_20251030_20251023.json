@@ -1,0 +1,129 @@
+{
+  "symbol": "IBM251024P00265000",
+  "start_time": "2025-10-23T20:46:16.561990+00:00",
+  "end_time": "2025-10-30T20:31:16.561990+00:00",
+  "bar_count": 11,
+  "bars": [
+    {
+      "timestamp": "2025-10-24T13:30:00+00:00",
+      "open": 0.05,
+      "high": 0.36,
+      "low": 0.01,
+      "close": 0.01,
+      "volume": 101.0,
+      "trade_count": 43.0,
+      "vwap": 0.032277,
+      "symbol": "IBM251024P00265000"
+    },
+    {
+      "timestamp": "2025-10-24T14:00:00+00:00",
+      "open": 0.01,
+      "high": 0.03,
+      "low": 0.01,
+      "close": 0.01,
+      "volume": 44.0,
+      "trade_count": 15.0,
+      "vwap": 0.014545,
+      "symbol": "IBM251024P00265000"
+    },
+    {
+      "timestamp": "2025-10-24T14:30:00+00:00",
+      "open": 0.01,
+      "high": 0.02,
+      "low": 0.01,
+      "close": 0.02,
+      "volume": 22.0,
+      "trade_count": 5.0,
+      "vwap": 0.011818,
+      "symbol": "IBM251024P00265000"
+    },
+    {
+      "timestamp": "2025-10-24T15:00:00+00:00",
+      "open": 0.01,
+      "high": 0.12,
+      "low": 0.01,
+      "close": 0.01,
+      "volume": 17.0,
+      "trade_count": 10.0,
+      "vwap": 0.023529,
+      "symbol": "IBM251024P00265000"
+    },
+    {
+      "timestamp": "2025-10-24T15:30:00+00:00",
+      "open": 0.01,
+      "high": 0.01,
+      "low": 0.01,
+      "close": 0.01,
+      "volume": 3.0,
+      "trade_count": 3.0,
+      "vwap": 0.01,
+      "symbol": "IBM251024P00265000"
+    },
+    {
+      "timestamp": "2025-10-24T16:30:00+00:00",
+      "open": 0.01,
+      "high": 0.03,
+      "low": 0.01,
+      "close": 0.03,
+      "volume": 57.0,
+      "trade_count": 4.0,
+      "vwap": 0.010351,
+      "symbol": "IBM251024P00265000"
+    },
+    {
+      "timestamp": "2025-10-24T17:00:00+00:00",
+      "open": 0.01,
+      "high": 0.03,
+      "low": 0.01,
+      "close": 0.01,
+      "volume": 30.0,
+      "trade_count": 4.0,
+      "vwap": 0.027333,
+      "symbol": "IBM251024P00265000"
+    },
+    {
+      "timestamp": "2025-10-24T17:30:00+00:00",
+      "open": 0.01,
+      "high": 0.01,
+      "low": 0.01,
+      "close": 0.01,
+      "volume": 1.0,
+      "trade_count": 1.0,
+      "vwap": 0.01,
+      "symbol": "IBM251024P00265000"
+    },
+    {
+      "timestamp": "2025-10-24T18:00:00+00:00",
+      "open": 0.01,
+      "high": 0.01,
+      "low": 0.01,
+      "close": 0.01,
+      "volume": 11.0,
+      "trade_count": 2.0,
+      "vwap": 0.01,
+      "symbol": "IBM251024P00265000"
+    },
+    {
+      "timestamp": "2025-10-24T18:30:00+00:00",
+      "open": 0.03,
+      "high": 0.03,
+      "low": 0.01,
+      "close": 0.01,
+      "volume": 3.0,
+      "trade_count": 3.0,
+      "vwap": 0.016667,
+      "symbol": "IBM251024P00265000"
+    },
+    {
+      "timestamp": "2025-10-24T19:30:00+00:00",
+      "open": 0.01,
+      "high": 0.03,
+      "low": 0.01,
+      "close": 0.03,
+      "volume": 11.0,
+      "trade_count": 7.0,
+      "vwap": 0.019091,
+      "symbol": "IBM251024P00265000"
+    }
+  ]
+}

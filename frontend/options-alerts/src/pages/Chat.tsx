@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import horseshoeImg from "../assets/horseshoe.png";
 
 type Message = {
@@ -7,9 +7,17 @@ type Message = {
   text: string;
   sender: "user" | "horseshoe";
   timestamp: Date;
+  occSymbol?: {
+    fullSymbol: string;
+    ticker: string;
+    optionType: string;
+    strikePrice: string;
+    expirationDate: string;
+  };
 };
 
 const Chat: React.FC = () => {
+  const navigate = useNavigate();
   const [messages, setMessages] = useState<Message[]>([
     {
       id: 1,
@@ -37,8 +45,46 @@ const Chat: React.FC = () => {
     setTimeout(() => {
       let response = "";
 
+      // Check for OCC symbol format (e.g., BMNR251114C00050000)
+      // Pattern: Letters + 6 digits (YYMMDD) + C or P + 8 digits (strike price * 1000)
+      const occSymbolPattern = /[A-Z]{2,6}\d{6}[CP]\d{8}/;
+      const occSymbolMatch = inputValue.match(occSymbolPattern);
+
+      if (occSymbolMatch) {
+        const symbol = occSymbolMatch[0];
+        // Parse the symbol to extract details
+        const ticker = symbol.match(/[A-Z]+/)?.[0] || "";
+        const dateStr = symbol.match(/\d{6}/)?.[0] || "";
+        const optionType = symbol.includes("C") ? "Call" : "Put";
+        const strikeMatch = symbol.match(/[CP](\d{8})/);
+        const strikePrice = strikeMatch ? (parseInt(strikeMatch[1]) / 1000).toFixed(2) : "0";
+
+        // Parse date
+        const year = "20" + dateStr.substring(0, 2);
+        const month = dateStr.substring(2, 4);
+        const day = dateStr.substring(4, 6);
+        const expirationDate = `${month}/${day}/${year}`;
+
+        response = "I found an options symbol! Click the card below to view details:";
+
+        const botMessage: Message = {
+          id: messages.length + 2,
+          text: response,
+          sender: "horseshoe",
+          timestamp: new Date(),
+          occSymbol: {
+            fullSymbol: symbol,
+            ticker,
+            optionType,
+            strikePrice,
+            expirationDate,
+          },
+        };
+        setMessages((prev) => [...prev, botMessage]);
+        return;
+      }
       // Check for submit trade questions
-      if (userInput.includes("submit") || userInput.includes("trade") || userInput.includes("execute")) {
+      else if (userInput.includes("submit") || userInput.includes("trade") || userInput.includes("execute")) {
         response = "To submit a trade:\n\n1. Navigate to the home page\n2. Click on a post with an options play\n3. Review the details and strike price\n4. Click 'View on Yahoo Finance' to see current pricing\n5. Execute the trade through your broker\n\nAlways verify the strike price, expiration date, and premium before placing your order!";
       }
       // Check for fresh plays questions
@@ -52,7 +98,7 @@ const Chat: React.FC = () => {
       }
       // Default help message
       else {
-        response = "I can help you with:\n\n1. How to submit a trade\n2. Check if an option is ITM/OTM\n3. Today's fresh plays\n\nJust ask me about any of these topics!";
+        response = "I can help you with:\n\n1. How to submit a trade\n2. Check if an option is ITM/OTM\n3. Today's fresh plays\n4. Analyze options symbols (just paste the symbol!)\n\nJust ask me about any of these topics!";
       }
 
       const botMessage: Message = {
@@ -68,6 +114,48 @@ const Chat: React.FC = () => {
   const handleKeyPress = (e: React.KeyboardEvent) => {
     if (e.key === "Enter") {
       handleSend();
+    }
+  };
+
+  const handleSymbolClick = async (occSymbol: NonNullable<Message['occSymbol']>) => {
+    try {
+      // Parse expiration date from MM/DD/YYYY to MM/DD format for the DB
+      const [month, day] = occSymbol.expirationDate.split('/');
+      const expirationForDB = `${month}/${day}`;
+
+      // Create the fresh play in the database
+      const response = await fetch("http://192.168.0.129:5000/api/fresh-plays/create", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          symbol: occSymbol.ticker,
+          price: parseFloat(occSymbol.strikePrice),
+          expiration: expirationForDB,
+          type: occSymbol.optionType.toLowerCase() + 's', // "call" -> "calls"
+          play_date: new Date().toISOString().split('T')[0],
+        }),
+      });
+
+      const data = await response.json();
+
+      if (data.success && data.data) {
+        // Navigate to the post detail page with the play ID
+        const play = data.data;
+        navigate(`/post/${play.id}`, {
+          state: {
+            title: `${occSymbol.ticker} ${occSymbol.optionType} Option`,
+            content: `Options contract for ${occSymbol.ticker}`,
+            symbol: occSymbol.ticker,
+            plays: [play]
+          }
+        });
+      } else {
+        alert(`Failed to create play: ${data.error}`);
+      }
+    } catch (error) {
+      alert(`Error creating play: ${error instanceof Error ? error.message : "Unknown error"}`);
     }
   };
 
@@ -143,27 +231,69 @@ const Chat: React.FC = () => {
             <div
               style={{
                 maxWidth: "70%",
-                padding: "12px 16px",
-                borderRadius: "12px",
-                backgroundColor:
-                  message.sender === "user" ? "#646cff" : "#f0f0f0",
-                color: message.sender === "user" ? "white" : "#333",
               }}
             >
-              <p style={{ margin: 0, whiteSpace: "pre-line" }}>{message.text}</p>
-              <span
+              <div
                 style={{
-                  fontSize: "11px",
-                  opacity: 0.7,
-                  marginTop: "4px",
-                  display: "block",
+                  padding: "12px 16px",
+                  borderRadius: "12px",
+                  backgroundColor:
+                    message.sender === "user" ? "#646cff" : "#f0f0f0",
+                  color: message.sender === "user" ? "white" : "#333",
                 }}
               >
-                {message.timestamp.toLocaleTimeString([], {
-                  hour: "2-digit",
-                  minute: "2-digit",
-                })}
-              </span>
+                <p style={{ margin: 0, whiteSpace: "pre-line" }}>{message.text}</p>
+                <span
+                  style={{
+                    fontSize: "11px",
+                    opacity: 0.7,
+                    marginTop: "4px",
+                    display: "block",
+                  }}
+                >
+                  {message.timestamp.toLocaleTimeString([], {
+                    hour: "2-digit",
+                    minute: "2-digit",
+                  })}
+                </span>
+              </div>
+
+              {/* OCC Symbol Card */}
+              {message.occSymbol && (
+                <div
+                  onClick={() => handleSymbolClick(message.occSymbol!)}
+                  style={{
+                    marginTop: "8px",
+                    padding: "16px",
+                    backgroundColor: "rgba(100, 108, 255, 0.1)",
+                    border: "2px solid #646cff",
+                    borderRadius: "12px",
+                    cursor: "pointer",
+                    transition: "all 0.2s ease",
+                  }}
+                  onMouseEnter={(e) => {
+                    e.currentTarget.style.backgroundColor = "rgba(100, 108, 255, 0.2)";
+                    e.currentTarget.style.transform = "translateX(4px)";
+                  }}
+                  onMouseLeave={(e) => {
+                    e.currentTarget.style.backgroundColor = "rgba(100, 108, 255, 0.1)";
+                    e.currentTarget.style.transform = "translateX(0)";
+                  }}
+                >
+                  <div style={{ fontSize: "18px", fontWeight: "700", color: "#646cff", marginBottom: "8px" }}>
+                    {message.occSymbol.ticker} {message.occSymbol.optionType}
+                  </div>
+                  <div style={{ fontSize: "14px", color: "#666", marginBottom: "4px" }}>
+                    💰 Strike: ${message.occSymbol.strikePrice}
+                  </div>
+                  <div style={{ fontSize: "14px", color: "#666", marginBottom: "8px" }}>
+                    📅 Expiration: {message.occSymbol.expirationDate}
+                  </div>
+                  <div style={{ fontSize: "12px", color: "#646cff", fontWeight: "600" }}>
+                    Click to view details →
+                  </div>
+                </div>
+              )}
             </div>
           </div>
         ))}
@@ -182,7 +312,11 @@ const Chat: React.FC = () => {
           type="text"
           value={inputValue}
           onChange={(e) => setInputValue(e.target.value)}
-          onKeyPress={handleKeyPress}
+          onKeyDown={(e) => {
+            if (e.key === "Enter") {
+              handleSend();
+            }
+          }}
           placeholder="Type your question here..."
           style={{
             flex: 1,

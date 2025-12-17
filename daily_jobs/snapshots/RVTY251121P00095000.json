@@ -1,0 +1,6097 @@
+[
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:00:07.667484",
+    "quote": {
+      "timestamp": "2025-10-27T15:58:41.482907+00:00",
+      "bid_price": 2.33,
+      "ask_price": 4.55,
+      "bid_size": 25.0,
+      "ask_size": 37.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4205,
+      "gamma": 0.0372,
+      "theta": -0.0773,
+      "vega": 0.0985,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:03:55.152853",
+    "quote": {
+      "timestamp": "2025-10-27T16:03:00.503313+00:00",
+      "bid_price": 2.37,
+      "ask_price": 4.56,
+      "bid_size": 25.0,
+      "ask_size": 37.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4046,
+      "gamma": 0.0347,
+      "theta": -0.0818,
+      "vega": 0.0981,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:05:29.488511",
+    "quote": {
+      "timestamp": "2025-10-27T16:05:12.594208+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.57,
+      "bid_size": 25.0,
+      "ask_size": 37.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.3978,
+      "gamma": 0.034,
+      "theta": -0.083,
+      "vega": 0.0979,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:06:29.887440",
+    "quote": {
+      "timestamp": "2025-10-27T16:05:12.594208+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.57,
+      "bid_size": 25.0,
+      "ask_size": 37.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.3994,
+      "gamma": 0.0342,
+      "theta": -0.0825,
+      "vega": 0.098,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:07:30.259838",
+    "quote": {
+      "timestamp": "2025-10-27T16:07:24.363733+00:00",
+      "bid_price": 2.38,
+      "ask_price": 4.56,
+      "bid_size": 28.0,
+      "ask_size": 37.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4002,
+      "gamma": 0.034,
+      "theta": -0.0831,
+      "vega": 0.098,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:08:30.615357",
+    "quote": {
+      "timestamp": "2025-10-27T16:07:24.363733+00:00",
+      "bid_price": 2.38,
+      "ask_price": 4.56,
+      "bid_size": 28.0,
+      "ask_size": 37.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4039,
+      "gamma": 0.0345,
+      "theta": -0.0821,
+      "vega": 0.0981,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:09:31.017956",
+    "quote": {
+      "timestamp": "2025-10-27T16:07:24.363733+00:00",
+      "bid_price": 2.38,
+      "ask_price": 4.56,
+      "bid_size": 28.0,
+      "ask_size": 37.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4069,
+      "gamma": 0.035,
+      "theta": -0.0813,
+      "vega": 0.0982,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:10:31.430331",
+    "quote": {
+      "timestamp": "2025-10-27T16:09:38.571718+00:00",
+      "bid_price": 2.38,
+      "ask_price": 4.45,
+      "bid_size": 28.0,
+      "ask_size": 37.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4074,
+      "gamma": 0.0356,
+      "theta": -0.08,
+      "vega": 0.0982,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:11:31.763574",
+    "quote": {
+      "timestamp": "2025-10-27T16:09:38.571718+00:00",
+      "bid_price": 2.38,
+      "ask_price": 4.45,
+      "bid_size": 28.0,
+      "ask_size": 37.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4105,
+      "gamma": 0.036,
+      "theta": -0.0791,
+      "vega": 0.0983,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:12:32.130715",
+    "quote": {
+      "timestamp": "2025-10-27T16:11:52.345925+00:00",
+      "bid_price": 2.3,
+      "ask_price": 4.56,
+      "bid_size": 28.0,
+      "ask_size": 37.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4115,
+      "gamma": 0.036,
+      "theta": -0.0793,
+      "vega": 0.0983,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:13:32.607714",
+    "quote": {
+      "timestamp": "2025-10-27T16:11:52.345925+00:00",
+      "bid_price": 2.3,
+      "ask_price": 4.56,
+      "bid_size": 28.0,
+      "ask_size": 37.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4113,
+      "gamma": 0.036,
+      "theta": -0.0793,
+      "vega": 0.0983,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:14:32.914753",
+    "quote": {
+      "timestamp": "2025-10-27T16:13:37.887807+00:00",
+      "bid_price": 2.3,
+      "ask_price": 4.48,
+      "bid_size": 28.0,
+      "ask_size": 37.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4074,
+      "gamma": 0.0358,
+      "theta": -0.0794,
+      "vega": 0.0982,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:15:33.265797",
+    "quote": {
+      "timestamp": "2025-10-27T16:13:37.887807+00:00",
+      "bid_price": 2.3,
+      "ask_price": 4.48,
+      "bid_size": 28.0,
+      "ask_size": 37.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4073,
+      "gamma": 0.0358,
+      "theta": -0.0794,
+      "vega": 0.0982,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:16:33.623862",
+    "quote": {
+      "timestamp": "2025-10-27T16:15:45.538252+00:00",
+      "bid_price": 2.37,
+      "ask_price": 4.53,
+      "bid_size": 28.0,
+      "ask_size": 37.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4081,
+      "gamma": 0.0353,
+      "theta": -0.0806,
+      "vega": 0.0982,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:17:34.045137",
+    "quote": {
+      "timestamp": "2025-10-27T16:15:45.538252+00:00",
+      "bid_price": 2.37,
+      "ask_price": 4.53,
+      "bid_size": 28.0,
+      "ask_size": 37.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4096,
+      "gamma": 0.0355,
+      "theta": -0.0802,
+      "vega": 0.0983,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:18:34.383600",
+    "quote": {
+      "timestamp": "2025-10-27T16:18:17.324926+00:00",
+      "bid_price": 2.33,
+      "ask_price": 4.53,
+      "bid_size": 28.0,
+      "ask_size": 37.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4099,
+      "gamma": 0.0358,
+      "theta": -0.0796,
+      "vega": 0.0983,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:19:34.781129",
+    "quote": {
+      "timestamp": "2025-10-27T16:19:23.908768+00:00",
+      "bid_price": 2.33,
+      "ask_price": 4.53,
+      "bid_size": 40.0,
+      "ask_size": 47.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4166,
+      "gamma": 0.0368,
+      "theta": -0.078,
+      "vega": 0.0984,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:20:35.097603",
+    "quote": {
+      "timestamp": "2025-10-27T16:19:23.908768+00:00",
+      "bid_price": 2.33,
+      "ask_price": 4.53,
+      "bid_size": 40.0,
+      "ask_size": 47.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4215,
+      "gamma": 0.0374,
+      "theta": -0.0768,
+      "vega": 0.0985,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:21:35.460472",
+    "quote": {
+      "timestamp": "2025-10-27T16:19:23.908768+00:00",
+      "bid_price": 2.33,
+      "ask_price": 4.53,
+      "bid_size": 40.0,
+      "ask_size": 47.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4216,
+      "gamma": 0.0375,
+      "theta": -0.0768,
+      "vega": 0.0985,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:22:35.794362",
+    "quote": {
+      "timestamp": "2025-10-27T16:19:23.908768+00:00",
+      "bid_price": 2.33,
+      "ask_price": 4.53,
+      "bid_size": 40.0,
+      "ask_size": 47.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4152,
+      "gamma": 0.0365,
+      "theta": -0.0784,
+      "vega": 0.0984,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:23:36.157509",
+    "quote": {
+      "timestamp": "2025-10-27T16:23:01.812502+00:00",
+      "bid_price": 2.33,
+      "ask_price": 4.44,
+      "bid_size": 34.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4036,
+      "gamma": 0.0353,
+      "theta": -0.0802,
+      "vega": 0.0981,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:24:36.496810",
+    "quote": {
+      "timestamp": "2025-10-27T16:23:01.812502+00:00",
+      "bid_price": 2.33,
+      "ask_price": 4.44,
+      "bid_size": 34.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4057,
+      "gamma": 0.0356,
+      "theta": -0.0796,
+      "vega": 0.0981,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:25:36.862182",
+    "quote": {
+      "timestamp": "2025-10-27T16:23:01.812502+00:00",
+      "bid_price": 2.33,
+      "ask_price": 4.44,
+      "bid_size": 34.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4116,
+      "gamma": 0.0365,
+      "theta": -0.0783,
+      "vega": 0.0983,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:26:37.261990",
+    "quote": {
+      "timestamp": "2025-10-27T16:23:01.812502+00:00",
+      "bid_price": 2.33,
+      "ask_price": 4.44,
+      "bid_size": 34.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4116,
+      "gamma": 0.0365,
+      "theta": -0.0783,
+      "vega": 0.0983,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:27:37.637780",
+    "quote": {
+      "timestamp": "2025-10-27T16:23:01.812502+00:00",
+      "bid_price": 2.33,
+      "ask_price": 4.44,
+      "bid_size": 34.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4092,
+      "gamma": 0.0361,
+      "theta": -0.0788,
+      "vega": 0.0982,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:28:37.965556",
+    "quote": {
+      "timestamp": "2025-10-27T16:27:40.775681+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.47,
+      "bid_size": 38.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4093,
+      "gamma": 0.0361,
+      "theta": -0.0789,
+      "vega": 0.0982,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:29:38.324776",
+    "quote": {
+      "timestamp": "2025-10-27T16:27:40.775681+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.47,
+      "bid_size": 38.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4093,
+      "gamma": 0.0361,
+      "theta": -0.0789,
+      "vega": 0.0982,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:30:38.686320",
+    "quote": {
+      "timestamp": "2025-10-27T16:27:40.775681+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.47,
+      "bid_size": 38.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4085,
+      "gamma": 0.036,
+      "theta": -0.0791,
+      "vega": 0.0982,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:31:39.053296",
+    "quote": {
+      "timestamp": "2025-10-27T16:27:40.775681+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.47,
+      "bid_size": 38.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.409,
+      "gamma": 0.036,
+      "theta": -0.079,
+      "vega": 0.0982,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:32:39.385071",
+    "quote": {
+      "timestamp": "2025-10-27T16:27:40.775681+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.47,
+      "bid_size": 38.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.408,
+      "gamma": 0.0359,
+      "theta": -0.0793,
+      "vega": 0.0982,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:33:39.689426",
+    "quote": {
+      "timestamp": "2025-10-27T16:27:40.775681+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.47,
+      "bid_size": 38.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4082,
+      "gamma": 0.0359,
+      "theta": -0.0792,
+      "vega": 0.0982,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:34:40.045251",
+    "quote": {
+      "timestamp": "2025-10-27T16:27:40.775681+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.47,
+      "bid_size": 38.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4088,
+      "gamma": 0.036,
+      "theta": -0.079,
+      "vega": 0.0982,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:35:40.409992",
+    "quote": {
+      "timestamp": "2025-10-27T16:27:40.775681+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.47,
+      "bid_size": 38.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4085,
+      "gamma": 0.036,
+      "theta": -0.0791,
+      "vega": 0.0982,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:36:40.730746",
+    "quote": {
+      "timestamp": "2025-10-27T16:27:40.775681+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.47,
+      "bid_size": 38.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4098,
+      "gamma": 0.0362,
+      "theta": -0.0787,
+      "vega": 0.0982,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:37:41.090374",
+    "quote": {
+      "timestamp": "2025-10-27T16:27:40.775681+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.47,
+      "bid_size": 38.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4107,
+      "gamma": 0.0363,
+      "theta": -0.0785,
+      "vega": 0.0983,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:38:41.453722",
+    "quote": {
+      "timestamp": "2025-10-27T16:27:40.775681+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.47,
+      "bid_size": 38.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4091,
+      "gamma": 0.0361,
+      "theta": -0.0789,
+      "vega": 0.0982,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:39:41.828477",
+    "quote": {
+      "timestamp": "2025-10-27T16:27:40.775681+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.47,
+      "bid_size": 38.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4082,
+      "gamma": 0.0359,
+      "theta": -0.0791,
+      "vega": 0.0982,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:40:42.213418",
+    "quote": {
+      "timestamp": "2025-10-27T16:27:40.775681+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.47,
+      "bid_size": 38.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4163,
+      "gamma": 0.0371,
+      "theta": -0.0772,
+      "vega": 0.0984,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:41:42.658178",
+    "quote": {
+      "timestamp": "2025-10-27T16:27:40.775681+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.47,
+      "bid_size": 38.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4133,
+      "gamma": 0.0367,
+      "theta": -0.0779,
+      "vega": 0.0983,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:42:43.019861",
+    "quote": {
+      "timestamp": "2025-10-27T16:27:40.775681+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.47,
+      "bid_size": 38.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4127,
+      "gamma": 0.0366,
+      "theta": -0.078,
+      "vega": 0.0983,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:43:43.382117",
+    "quote": {
+      "timestamp": "2025-10-27T16:27:40.775681+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.47,
+      "bid_size": 38.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4091,
+      "gamma": 0.0361,
+      "theta": -0.0789,
+      "vega": 0.0982,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:44:43.748277",
+    "quote": {
+      "timestamp": "2025-10-27T16:27:40.775681+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.47,
+      "bid_size": 38.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4099,
+      "gamma": 0.0362,
+      "theta": -0.0787,
+      "vega": 0.0982,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:45:44.080954",
+    "quote": {
+      "timestamp": "2025-10-27T16:27:40.775681+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.47,
+      "bid_size": 38.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4095,
+      "gamma": 0.0361,
+      "theta": -0.0788,
+      "vega": 0.0982,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:46:44.442522",
+    "quote": {
+      "timestamp": "2025-10-27T16:27:40.775681+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.47,
+      "bid_size": 38.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4093,
+      "gamma": 0.0361,
+      "theta": -0.0789,
+      "vega": 0.0982,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:47:44.810006",
+    "quote": {
+      "timestamp": "2025-10-27T16:27:40.775681+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.47,
+      "bid_size": 38.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4093,
+      "gamma": 0.0361,
+      "theta": -0.0789,
+      "vega": 0.0982,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:48:45.110182",
+    "quote": {
+      "timestamp": "2025-10-27T16:27:40.775681+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.47,
+      "bid_size": 38.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4091,
+      "gamma": 0.0361,
+      "theta": -0.0789,
+      "vega": 0.0982,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:49:45.487770",
+    "quote": {
+      "timestamp": "2025-10-27T16:27:40.775681+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.47,
+      "bid_size": 38.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4117,
+      "gamma": 0.0364,
+      "theta": -0.0783,
+      "vega": 0.0983,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:50:45.905666",
+    "quote": {
+      "timestamp": "2025-10-27T16:27:40.775681+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.47,
+      "bid_size": 38.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4258,
+      "gamma": 0.0385,
+      "theta": -0.0749,
+      "vega": 0.0986,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:51:46.222022",
+    "quote": {
+      "timestamp": "2025-10-27T16:27:40.775681+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.47,
+      "bid_size": 38.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4268,
+      "gamma": 0.0387,
+      "theta": -0.0746,
+      "vega": 0.0986,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:52:46.614743",
+    "quote": {
+      "timestamp": "2025-10-27T16:27:40.775681+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.47,
+      "bid_size": 38.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4189,
+      "gamma": 0.0375,
+      "theta": -0.0765,
+      "vega": 0.0985,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:53:46.983270",
+    "quote": {
+      "timestamp": "2025-10-27T16:27:40.775681+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.47,
+      "bid_size": 38.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.422,
+      "gamma": 0.0379,
+      "theta": -0.0758,
+      "vega": 0.0985,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:54:47.388720",
+    "quote": {
+      "timestamp": "2025-10-27T16:27:40.775681+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.47,
+      "bid_size": 38.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.414,
+      "gamma": 0.0368,
+      "theta": -0.0777,
+      "vega": 0.0983,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:55:47.773894",
+    "quote": {
+      "timestamp": "2025-10-27T16:27:40.775681+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.47,
+      "bid_size": 38.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.414,
+      "gamma": 0.0368,
+      "theta": -0.0777,
+      "vega": 0.0983,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:56:48.124880",
+    "quote": {
+      "timestamp": "2025-10-27T16:27:40.775681+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.47,
+      "bid_size": 38.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4136,
+      "gamma": 0.0367,
+      "theta": -0.0778,
+      "vega": 0.0983,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:57:48.491690",
+    "quote": {
+      "timestamp": "2025-10-27T16:27:40.775681+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.47,
+      "bid_size": 38.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4104,
+      "gamma": 0.0363,
+      "theta": -0.0786,
+      "vega": 0.0983,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:58:48.855260",
+    "quote": {
+      "timestamp": "2025-10-27T16:27:40.775681+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.47,
+      "bid_size": 38.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4098,
+      "gamma": 0.0362,
+      "theta": -0.0787,
+      "vega": 0.0982,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T16:59:49.181307",
+    "quote": {
+      "timestamp": "2025-10-27T16:27:40.775681+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.47,
+      "bid_size": 38.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4131,
+      "gamma": 0.0367,
+      "theta": -0.0779,
+      "vega": 0.0983,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:00:49.564544",
+    "quote": {
+      "timestamp": "2025-10-27T17:00:48.689100+00:00",
+      "bid_price": 2.32,
+      "ask_price": 4.48,
+      "bid_size": 39.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.411,
+      "gamma": 0.0362,
+      "theta": -0.0787,
+      "vega": 0.0983,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:01:49.928945",
+    "quote": {
+      "timestamp": "2025-10-27T17:00:50.191807+00:00",
+      "bid_price": 2.37,
+      "ask_price": 4.55,
+      "bid_size": 38.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4096,
+      "gamma": 0.0354,
+      "theta": -0.0804,
+      "vega": 0.0983,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:02:50.298185",
+    "quote": {
+      "timestamp": "2025-10-27T17:02:01.779128+00:00",
+      "bid_price": 2.37,
+      "ask_price": 4.48,
+      "bid_size": 37.0,
+      "ask_size": 41.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4179,
+      "gamma": 0.037,
+      "theta": -0.0775,
+      "vega": 0.0984,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:03:50.611619",
+    "quote": {
+      "timestamp": "2025-10-27T17:02:01.779128+00:00",
+      "bid_price": 2.37,
+      "ask_price": 4.48,
+      "bid_size": 37.0,
+      "ask_size": 41.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4179,
+      "gamma": 0.037,
+      "theta": -0.0775,
+      "vega": 0.0984,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:04:50.984105",
+    "quote": {
+      "timestamp": "2025-10-27T17:04:41.664532+00:00",
+      "bid_price": 2.32,
+      "ask_price": 4.58,
+      "bid_size": 38.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4176,
+      "gamma": 0.0367,
+      "theta": -0.0782,
+      "vega": 0.0984,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:05:51.541111",
+    "quote": {
+      "timestamp": "2025-10-27T17:04:41.664532+00:00",
+      "bid_price": 2.32,
+      "ask_price": 4.58,
+      "bid_size": 38.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4175,
+      "gamma": 0.0367,
+      "theta": -0.0782,
+      "vega": 0.0984,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:06:51.853656",
+    "quote": {
+      "timestamp": "2025-10-27T17:06:44.942983+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.43,
+      "bid_size": 40.0,
+      "ask_size": 40.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4239,
+      "gamma": 0.0384,
+      "theta": -0.0749,
+      "vega": 0.0985,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:07:52.215496",
+    "quote": {
+      "timestamp": "2025-10-27T17:06:44.942983+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.43,
+      "bid_size": 40.0,
+      "ask_size": 40.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4209,
+      "gamma": 0.038,
+      "theta": -0.0756,
+      "vega": 0.0985,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:08:52.578223",
+    "quote": {
+      "timestamp": "2025-10-27T17:06:44.942983+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.43,
+      "bid_size": 40.0,
+      "ask_size": 40.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4221,
+      "gamma": 0.0382,
+      "theta": -0.0753,
+      "vega": 0.0985,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:09:52.895642",
+    "quote": {
+      "timestamp": "2025-10-27T17:06:44.942983+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.43,
+      "bid_size": 40.0,
+      "ask_size": 40.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4256,
+      "gamma": 0.0387,
+      "theta": -0.0745,
+      "vega": 0.0986,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:10:53.282873",
+    "quote": {
+      "timestamp": "2025-10-27T17:06:44.942983+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.43,
+      "bid_size": 40.0,
+      "ask_size": 40.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4377,
+      "gamma": 0.0405,
+      "theta": -0.0716,
+      "vega": 0.0988,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:11:53.613367",
+    "quote": {
+      "timestamp": "2025-10-27T17:10:53.753465+00:00",
+      "bid_price": 2.37,
+      "ask_price": 4.52,
+      "bid_size": 40.0,
+      "ask_size": 33.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4434,
+      "gamma": 0.0405,
+      "theta": -0.0719,
+      "vega": 0.0988,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:12:53.987477",
+    "quote": {
+      "timestamp": "2025-10-27T17:10:53.753465+00:00",
+      "bid_price": 2.37,
+      "ask_price": 4.52,
+      "bid_size": 40.0,
+      "ask_size": 33.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4485,
+      "gamma": 0.0412,
+      "theta": -0.0707,
+      "vega": 0.0989,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:13:54.337980",
+    "quote": {
+      "timestamp": "2025-10-27T17:10:53.753465+00:00",
+      "bid_price": 2.37,
+      "ask_price": 4.52,
+      "bid_size": 40.0,
+      "ask_size": 33.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.455,
+      "gamma": 0.0422,
+      "theta": -0.0692,
+      "vega": 0.0989,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:14:54.661401",
+    "quote": {
+      "timestamp": "2025-10-27T17:14:10.655771+00:00",
+      "bid_price": 2.32,
+      "ask_price": 4.48,
+      "bid_size": 40.0,
+      "ask_size": 33.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.455,
+      "gamma": 0.0427,
+      "theta": -0.0683,
+      "vega": 0.0989,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:15:54.977674",
+    "quote": {
+      "timestamp": "2025-10-27T17:15:54.290799+00:00",
+      "bid_price": 2.39,
+      "ask_price": 4.52,
+      "bid_size": 39.0,
+      "ask_size": 33.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4534,
+      "gamma": 0.0418,
+      "theta": -0.0698,
+      "vega": 0.0989,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:16:55.340846",
+    "quote": {
+      "timestamp": "2025-10-27T17:15:54.290799+00:00",
+      "bid_price": 2.39,
+      "ask_price": 4.52,
+      "bid_size": 39.0,
+      "ask_size": 33.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.458,
+      "gamma": 0.0425,
+      "theta": -0.0688,
+      "vega": 0.0989,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:17:55.703748",
+    "quote": {
+      "timestamp": "2025-10-27T17:17:53.333894+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.52,
+      "bid_size": 39.0,
+      "ask_size": 33.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4614,
+      "gamma": 0.0435,
+      "theta": -0.0672,
+      "vega": 0.0989,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:18:56.071892",
+    "quote": {
+      "timestamp": "2025-10-27T17:17:53.333894+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.52,
+      "bid_size": 39.0,
+      "ask_size": 33.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4614,
+      "gamma": 0.0435,
+      "theta": -0.0672,
+      "vega": 0.0989,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:19:56.408390",
+    "quote": {
+      "timestamp": "2025-10-27T17:19:05.792736+00:00",
+      "bid_price": 2.37,
+      "ask_price": 4.45,
+      "bid_size": 36.0,
+      "ask_size": 33.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4629,
+      "gamma": 0.0438,
+      "theta": -0.0668,
+      "vega": 0.0989,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:20:56.778913",
+    "quote": {
+      "timestamp": "2025-10-27T17:20:44.788319+00:00",
+      "bid_price": 2.39,
+      "ask_price": 4.43,
+      "bid_size": 34.0,
+      "ask_size": 31.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4623,
+      "gamma": 0.0437,
+      "theta": -0.0669,
+      "vega": 0.0989,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:21:57.135332",
+    "quote": {
+      "timestamp": "2025-10-27T17:20:44.788319+00:00",
+      "bid_price": 2.39,
+      "ask_price": 4.43,
+      "bid_size": 34.0,
+      "ask_size": 31.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4665,
+      "gamma": 0.0443,
+      "theta": -0.066,
+      "vega": 0.0989,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:22:57.493629",
+    "quote": {
+      "timestamp": "2025-10-27T17:22:52.493724+00:00",
+      "bid_price": 2.33,
+      "ask_price": 4.54,
+      "bid_size": 9.0,
+      "ask_size": 16.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4655,
+      "gamma": 0.0439,
+      "theta": -0.0667,
+      "vega": 0.0989,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:23:57.880938",
+    "quote": {
+      "timestamp": "2025-10-27T17:23:26.227624+00:00",
+      "bid_price": 2.37,
+      "ask_price": 4.55,
+      "bid_size": 9.0,
+      "ask_size": 15.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4684,
+      "gamma": 0.044,
+      "theta": -0.0666,
+      "vega": 0.0989,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:24:58.284402",
+    "quote": {
+      "timestamp": "2025-10-27T17:24:49.842427+00:00",
+      "bid_price": 2.37,
+      "ask_price": 4.41,
+      "bid_size": 9.0,
+      "ask_size": 15.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4631,
+      "gamma": 0.044,
+      "theta": -0.0663,
+      "vega": 0.0989,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:25:58.623899",
+    "quote": {
+      "timestamp": "2025-10-27T17:25:56.492415+00:00",
+      "bid_price": 2.33,
+      "ask_price": 4.42,
+      "bid_size": 10.0,
+      "ask_size": 15.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4609,
+      "gamma": 0.0439,
+      "theta": -0.0665,
+      "vega": 0.0989,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:26:59.002923",
+    "quote": {
+      "timestamp": "2025-10-27T17:26:49.649295+00:00",
+      "bid_price": 2.37,
+      "ask_price": 4.47,
+      "bid_size": 15.0,
+      "ask_size": 15.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.461,
+      "gamma": 0.0434,
+      "theta": -0.0674,
+      "vega": 0.0989,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:27:59.363398",
+    "quote": {
+      "timestamp": "2025-10-27T17:27:18.989050+00:00",
+      "bid_price": 2.37,
+      "ask_price": 4.56,
+      "bid_size": 16.0,
+      "ask_size": 15.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.462,
+      "gamma": 0.043,
+      "theta": -0.0681,
+      "vega": 0.0989,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:28:59.722241",
+    "quote": {
+      "timestamp": "2025-10-27T17:28:39.975304+00:00",
+      "bid_price": 2.37,
+      "ask_price": 4.48,
+      "bid_size": 15.0,
+      "ask_size": 15.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.462,
+      "gamma": 0.0435,
+      "theta": -0.0673,
+      "vega": 0.0989,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:30:00.089407",
+    "quote": {
+      "timestamp": "2025-10-27T17:29:58.265401+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.53,
+      "bid_size": 40.0,
+      "ask_size": 31.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4424,
+      "gamma": 0.0406,
+      "theta": -0.0716,
+      "vega": 0.0988,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:31:00.461433",
+    "quote": {
+      "timestamp": "2025-10-27T17:30:50.002601+00:00",
+      "bid_price": 2.33,
+      "ask_price": 4.56,
+      "bid_size": 44.0,
+      "ask_size": 31.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4423,
+      "gamma": 0.0403,
+      "theta": -0.0722,
+      "vega": 0.0988,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:32:00.853353",
+    "quote": {
+      "timestamp": "2025-10-27T17:31:49.459678+00:00",
+      "bid_price": 2.33,
+      "ask_price": 4.55,
+      "bid_size": 51.0,
+      "ask_size": 45.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.434,
+      "gamma": 0.0392,
+      "theta": -0.074,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:33:01.280316",
+    "quote": {
+      "timestamp": "2025-10-27T17:31:49.459678+00:00",
+      "bid_price": 2.33,
+      "ask_price": 4.55,
+      "bid_size": 51.0,
+      "ask_size": 45.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4403,
+      "gamma": 0.0401,
+      "theta": -0.0725,
+      "vega": 0.0988,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:34:01.595240",
+    "quote": {
+      "timestamp": "2025-10-27T17:31:49.459678+00:00",
+      "bid_price": 2.33,
+      "ask_price": 4.55,
+      "bid_size": 51.0,
+      "ask_size": 45.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4403,
+      "gamma": 0.0401,
+      "theta": -0.0725,
+      "vega": 0.0988,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:35:01.911705",
+    "quote": {
+      "timestamp": "2025-10-27T17:31:49.459678+00:00",
+      "bid_price": 2.33,
+      "ask_price": 4.55,
+      "bid_size": 51.0,
+      "ask_size": 45.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.437,
+      "gamma": 0.0396,
+      "theta": -0.0733,
+      "vega": 0.0988,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:36:02.278870",
+    "quote": {
+      "timestamp": "2025-10-27T17:31:49.459678+00:00",
+      "bid_price": 2.33,
+      "ask_price": 4.55,
+      "bid_size": 51.0,
+      "ask_size": 45.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4353,
+      "gamma": 0.0394,
+      "theta": -0.0737,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:37:02.596294",
+    "quote": {
+      "timestamp": "2025-10-27T17:36:44.969112+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.43,
+      "bid_size": 52.0,
+      "ask_size": 51.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4325,
+      "gamma": 0.0397,
+      "theta": -0.0729,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:38:02.912788",
+    "quote": {
+      "timestamp": "2025-10-27T17:36:44.969112+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.43,
+      "bid_size": 52.0,
+      "ask_size": 51.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4325,
+      "gamma": 0.0397,
+      "theta": -0.0729,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:39:03.232678",
+    "quote": {
+      "timestamp": "2025-10-27T17:36:44.969112+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.43,
+      "bid_size": 52.0,
+      "ask_size": 51.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4292,
+      "gamma": 0.0392,
+      "theta": -0.0736,
+      "vega": 0.0986,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:40:03.575765",
+    "quote": {
+      "timestamp": "2025-10-27T17:36:44.969112+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.43,
+      "bid_size": 52.0,
+      "ask_size": 51.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4312,
+      "gamma": 0.0395,
+      "theta": -0.0732,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:41:03.945762",
+    "quote": {
+      "timestamp": "2025-10-27T17:36:44.969112+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.43,
+      "bid_size": 52.0,
+      "ask_size": 51.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4328,
+      "gamma": 0.0398,
+      "theta": -0.0728,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:42:04.343338",
+    "quote": {
+      "timestamp": "2025-10-27T17:36:44.969112+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.43,
+      "bid_size": 52.0,
+      "ask_size": 51.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4369,
+      "gamma": 0.0404,
+      "theta": -0.0718,
+      "vega": 0.0988,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:43:04.727001",
+    "quote": {
+      "timestamp": "2025-10-27T17:36:44.969112+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.43,
+      "bid_size": 52.0,
+      "ask_size": 51.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4369,
+      "gamma": 0.0404,
+      "theta": -0.0718,
+      "vega": 0.0988,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:44:05.133910",
+    "quote": {
+      "timestamp": "2025-10-27T17:36:44.969112+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.43,
+      "bid_size": 52.0,
+      "ask_size": 51.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4325,
+      "gamma": 0.0397,
+      "theta": -0.0729,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:45:05.492459",
+    "quote": {
+      "timestamp": "2025-10-27T17:36:44.969112+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.43,
+      "bid_size": 52.0,
+      "ask_size": 51.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4299,
+      "gamma": 0.0393,
+      "theta": -0.0735,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:46:05.882220",
+    "quote": {
+      "timestamp": "2025-10-27T17:36:44.969112+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.43,
+      "bid_size": 52.0,
+      "ask_size": 51.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4265,
+      "gamma": 0.0388,
+      "theta": -0.0743,
+      "vega": 0.0986,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:47:06.262225",
+    "quote": {
+      "timestamp": "2025-10-27T17:36:44.969112+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.43,
+      "bid_size": 52.0,
+      "ask_size": 51.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4227,
+      "gamma": 0.0383,
+      "theta": -0.0752,
+      "vega": 0.0985,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:48:06.571735",
+    "quote": {
+      "timestamp": "2025-10-27T17:36:44.969112+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.43,
+      "bid_size": 52.0,
+      "ask_size": 51.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.422,
+      "gamma": 0.0381,
+      "theta": -0.0753,
+      "vega": 0.0985,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:49:06.990957",
+    "quote": {
+      "timestamp": "2025-10-27T17:36:44.969112+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.43,
+      "bid_size": 52.0,
+      "ask_size": 51.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4216,
+      "gamma": 0.0381,
+      "theta": -0.0754,
+      "vega": 0.0985,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:50:07.362412",
+    "quote": {
+      "timestamp": "2025-10-27T17:36:44.969112+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.43,
+      "bid_size": 52.0,
+      "ask_size": 51.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4208,
+      "gamma": 0.038,
+      "theta": -0.0756,
+      "vega": 0.0985,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:51:07.720644",
+    "quote": {
+      "timestamp": "2025-10-27T17:36:44.969112+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.43,
+      "bid_size": 52.0,
+      "ask_size": 51.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4203,
+      "gamma": 0.0379,
+      "theta": -0.0757,
+      "vega": 0.0985,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:52:08.102082",
+    "quote": {
+      "timestamp": "2025-10-27T17:36:44.969112+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.43,
+      "bid_size": 52.0,
+      "ask_size": 51.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4121,
+      "gamma": 0.0367,
+      "theta": -0.0777,
+      "vega": 0.0983,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:53:08.487264",
+    "quote": {
+      "timestamp": "2025-10-27T17:36:44.969112+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.43,
+      "bid_size": 52.0,
+      "ask_size": 51.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4113,
+      "gamma": 0.0366,
+      "theta": -0.0779,
+      "vega": 0.0983,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:54:08.894061",
+    "quote": {
+      "timestamp": "2025-10-27T17:36:44.969112+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.43,
+      "bid_size": 52.0,
+      "ask_size": 51.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4113,
+      "gamma": 0.0366,
+      "theta": -0.0779,
+      "vega": 0.0983,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:55:09.265233",
+    "quote": {
+      "timestamp": "2025-10-27T17:36:44.969112+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.43,
+      "bid_size": 52.0,
+      "ask_size": 51.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4112,
+      "gamma": 0.0366,
+      "theta": -0.0779,
+      "vega": 0.0983,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:56:09.630288",
+    "quote": {
+      "timestamp": "2025-10-27T17:36:44.969112+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.43,
+      "bid_size": 52.0,
+      "ask_size": 51.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.411,
+      "gamma": 0.0365,
+      "theta": -0.078,
+      "vega": 0.0983,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:57:10.008229",
+    "quote": {
+      "timestamp": "2025-10-27T17:36:44.969112+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.43,
+      "bid_size": 52.0,
+      "ask_size": 51.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.411,
+      "gamma": 0.0365,
+      "theta": -0.078,
+      "vega": 0.0983,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:58:10.328222",
+    "quote": {
+      "timestamp": "2025-10-27T17:36:44.969112+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.43,
+      "bid_size": 52.0,
+      "ask_size": 51.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4154,
+      "gamma": 0.0372,
+      "theta": -0.0769,
+      "vega": 0.0984,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T17:59:10.702038",
+    "quote": {
+      "timestamp": "2025-10-27T17:36:44.969112+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.43,
+      "bid_size": 52.0,
+      "ask_size": 51.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4174,
+      "gamma": 0.0375,
+      "theta": -0.0764,
+      "vega": 0.0984,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:00:11.082415",
+    "quote": {
+      "timestamp": "2025-10-27T17:36:44.969112+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.43,
+      "bid_size": 52.0,
+      "ask_size": 51.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4197,
+      "gamma": 0.0378,
+      "theta": -0.0759,
+      "vega": 0.0985,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:01:11.439674",
+    "quote": {
+      "timestamp": "2025-10-27T17:36:44.969112+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.43,
+      "bid_size": 52.0,
+      "ask_size": 51.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4201,
+      "gamma": 0.0379,
+      "theta": -0.0758,
+      "vega": 0.0985,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:02:11.820489",
+    "quote": {
+      "timestamp": "2025-10-27T17:36:44.969112+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.43,
+      "bid_size": 52.0,
+      "ask_size": 51.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4203,
+      "gamma": 0.0379,
+      "theta": -0.0757,
+      "vega": 0.0985,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:03:12.170909",
+    "quote": {
+      "timestamp": "2025-10-27T17:36:44.969112+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.43,
+      "bid_size": 52.0,
+      "ask_size": 51.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.423,
+      "gamma": 0.0383,
+      "theta": -0.0751,
+      "vega": 0.0985,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:04:12.490456",
+    "quote": {
+      "timestamp": "2025-10-27T17:36:44.969112+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.43,
+      "bid_size": 52.0,
+      "ask_size": 51.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4241,
+      "gamma": 0.0385,
+      "theta": -0.0748,
+      "vega": 0.0985,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:05:12.908609",
+    "quote": {
+      "timestamp": "2025-10-27T17:36:44.969112+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.43,
+      "bid_size": 52.0,
+      "ask_size": 51.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4237,
+      "gamma": 0.0384,
+      "theta": -0.0749,
+      "vega": 0.0985,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:06:13.408623",
+    "quote": {
+      "timestamp": "2025-10-27T17:36:44.969112+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.43,
+      "bid_size": 52.0,
+      "ask_size": 51.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4237,
+      "gamma": 0.0384,
+      "theta": -0.0749,
+      "vega": 0.0985,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:07:13.746944",
+    "quote": {
+      "timestamp": "2025-10-27T18:06:44.976804+00:00",
+      "bid_price": 2.37,
+      "ask_price": 4.57,
+      "bid_size": 49.0,
+      "ask_size": 55.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4245,
+      "gamma": 0.0375,
+      "theta": -0.0769,
+      "vega": 0.0986,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:08:14.050870",
+    "quote": {
+      "timestamp": "2025-10-27T18:06:44.976804+00:00",
+      "bid_price": 2.37,
+      "ask_price": 4.57,
+      "bid_size": 49.0,
+      "ask_size": 55.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4333,
+      "gamma": 0.0387,
+      "theta": -0.0748,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:09:14.424015",
+    "quote": {
+      "timestamp": "2025-10-27T18:06:44.976804+00:00",
+      "bid_price": 2.37,
+      "ask_price": 4.57,
+      "bid_size": 49.0,
+      "ask_size": 55.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4331,
+      "gamma": 0.0387,
+      "theta": -0.0749,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:10:14.892745",
+    "quote": {
+      "timestamp": "2025-10-27T18:06:44.976804+00:00",
+      "bid_price": 2.37,
+      "ask_price": 4.57,
+      "bid_size": 49.0,
+      "ask_size": 55.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4326,
+      "gamma": 0.0386,
+      "theta": -0.075,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:11:15.289489",
+    "quote": {
+      "timestamp": "2025-10-27T18:06:44.976804+00:00",
+      "bid_price": 2.37,
+      "ask_price": 4.57,
+      "bid_size": 49.0,
+      "ask_size": 55.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4342,
+      "gamma": 0.0389,
+      "theta": -0.0746,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:12:15.611180",
+    "quote": {
+      "timestamp": "2025-10-27T18:06:44.976804+00:00",
+      "bid_price": 2.37,
+      "ask_price": 4.57,
+      "bid_size": 49.0,
+      "ask_size": 55.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4353,
+      "gamma": 0.039,
+      "theta": -0.0743,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:13:15.963807",
+    "quote": {
+      "timestamp": "2025-10-27T18:06:44.976804+00:00",
+      "bid_price": 2.37,
+      "ask_price": 4.57,
+      "bid_size": 49.0,
+      "ask_size": 55.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.432,
+      "gamma": 0.0386,
+      "theta": -0.0751,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:14:16.324523",
+    "quote": {
+      "timestamp": "2025-10-27T18:06:44.976804+00:00",
+      "bid_price": 2.37,
+      "ask_price": 4.57,
+      "bid_size": 49.0,
+      "ask_size": 55.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4308,
+      "gamma": 0.0384,
+      "theta": -0.0754,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:15:16.654370",
+    "quote": {
+      "timestamp": "2025-10-27T18:06:44.976804+00:00",
+      "bid_price": 2.37,
+      "ask_price": 4.57,
+      "bid_size": 49.0,
+      "ask_size": 55.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4306,
+      "gamma": 0.0384,
+      "theta": -0.0755,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:16:17.012485",
+    "quote": {
+      "timestamp": "2025-10-27T18:06:44.976804+00:00",
+      "bid_price": 2.37,
+      "ask_price": 4.57,
+      "bid_size": 49.0,
+      "ask_size": 55.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4304,
+      "gamma": 0.0383,
+      "theta": -0.0755,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:17:17.384679",
+    "quote": {
+      "timestamp": "2025-10-27T18:16:31.871832+00:00",
+      "bid_price": 2.37,
+      "ask_price": 4.57,
+      "bid_size": 49.0,
+      "ask_size": 59.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.43,
+      "gamma": 0.0383,
+      "theta": -0.0756,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:18:17.763762",
+    "quote": {
+      "timestamp": "2025-10-27T18:16:31.871832+00:00",
+      "bid_price": 2.37,
+      "ask_price": 4.57,
+      "bid_size": 49.0,
+      "ask_size": 59.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4303,
+      "gamma": 0.0383,
+      "theta": -0.0755,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:19:18.142714",
+    "quote": {
+      "timestamp": "2025-10-27T18:19:16.282691+00:00",
+      "bid_price": 2.37,
+      "ask_price": 4.48,
+      "bid_size": 48.0,
+      "ask_size": 59.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.43,
+      "gamma": 0.0387,
+      "theta": -0.0746,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:20:18.513311",
+    "quote": {
+      "timestamp": "2025-10-27T18:20:17.426628+00:00",
+      "bid_price": 2.32,
+      "ask_price": 4.45,
+      "bid_size": 27.0,
+      "ask_size": 30.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4273,
+      "gamma": 0.0388,
+      "theta": -0.0744,
+      "vega": 0.0986,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:21:18.877186",
+    "quote": {
+      "timestamp": "2025-10-27T18:20:23.443646+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.45,
+      "bid_size": 41.0,
+      "ask_size": 50.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4254,
+      "gamma": 0.0385,
+      "theta": -0.0748,
+      "vega": 0.0986,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:22:19.347883",
+    "quote": {
+      "timestamp": "2025-10-27T18:20:23.443646+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.45,
+      "bid_size": 41.0,
+      "ask_size": 50.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4254,
+      "gamma": 0.0385,
+      "theta": -0.0748,
+      "vega": 0.0986,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:23:19.654312",
+    "quote": {
+      "timestamp": "2025-10-27T18:20:23.443646+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.45,
+      "bid_size": 41.0,
+      "ask_size": 50.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.425,
+      "gamma": 0.0385,
+      "theta": -0.0748,
+      "vega": 0.0986,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:24:20.073291",
+    "quote": {
+      "timestamp": "2025-10-27T18:20:23.443646+00:00",
+      "bid_price": 2.31,
+      "ask_price": 4.45,
+      "bid_size": 41.0,
+      "ask_size": 50.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.424,
+      "gamma": 0.0383,
+      "theta": -0.0751,
+      "vega": 0.0985,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:25:20.447598",
+    "quote": {
+      "timestamp": "2025-10-27T18:25:20.397689+00:00",
+      "bid_price": 2.33,
+      "ask_price": 4.56,
+      "bid_size": 40.0,
+      "ask_size": 53.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4276,
+      "gamma": 0.0382,
+      "theta": -0.0756,
+      "vega": 0.0986,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:26:20.827074",
+    "quote": {
+      "timestamp": "2025-10-27T18:25:26.390218+00:00",
+      "bid_price": 2.37,
+      "ask_price": 4.52,
+      "bid_size": 38.0,
+      "ask_size": 50.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4315,
+      "gamma": 0.0387,
+      "theta": -0.0747,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:27:21.207682",
+    "quote": {
+      "timestamp": "2025-10-27T18:27:20.441309+00:00",
+      "bid_price": 2.44,
+      "ask_price": 4.48,
+      "bid_size": 33.0,
+      "ask_size": 50.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4308,
+      "gamma": 0.0385,
+      "theta": -0.0752,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:28:21.570465",
+    "quote": {
+      "timestamp": "2025-10-27T18:27:40.835044+00:00",
+      "bid_price": 2.42,
+      "ask_price": 4.46,
+      "bid_size": 46.0,
+      "ask_size": 49.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4311,
+      "gamma": 0.0387,
+      "theta": -0.0747,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:29:21.937910",
+    "quote": {
+      "timestamp": "2025-10-27T18:29:19.941010+00:00",
+      "bid_price": 2.42,
+      "ask_price": 4.59,
+      "bid_size": 41.0,
+      "ask_size": 49.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4348,
+      "gamma": 0.0386,
+      "theta": -0.0752,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:30:22.295118",
+    "quote": {
+      "timestamp": "2025-10-27T18:29:19.941010+00:00",
+      "bid_price": 2.42,
+      "ask_price": 4.59,
+      "bid_size": 41.0,
+      "ask_size": 49.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4315,
+      "gamma": 0.0381,
+      "theta": -0.076,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:31:22.646107",
+    "quote": {
+      "timestamp": "2025-10-27T18:31:06.350002+00:00",
+      "bid_price": 2.43,
+      "ask_price": 4.54,
+      "bid_size": 41.0,
+      "ask_size": 53.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4311,
+      "gamma": 0.0383,
+      "theta": -0.0757,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:32:22.963516",
+    "quote": {
+      "timestamp": "2025-10-27T18:32:03.132602+00:00",
+      "bid_price": 2.37,
+      "ask_price": 4.47,
+      "bid_size": 49.0,
+      "ask_size": 53.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4271,
+      "gamma": 0.0384,
+      "theta": -0.0752,
+      "vega": 0.0986,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:33:23.328827",
+    "quote": {
+      "timestamp": "2025-10-27T18:32:03.132602+00:00",
+      "bid_price": 2.37,
+      "ask_price": 4.47,
+      "bid_size": 49.0,
+      "ask_size": 53.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4274,
+      "gamma": 0.0384,
+      "theta": -0.0751,
+      "vega": 0.0986,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:34:23.672701",
+    "quote": {
+      "timestamp": "2025-10-27T18:34:10.083431+00:00",
+      "bid_price": 2.38,
+      "ask_price": 4.57,
+      "bid_size": 54.0,
+      "ask_size": 50.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4339,
+      "gamma": 0.0388,
+      "theta": -0.0748,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:35:24.046984",
+    "quote": {
+      "timestamp": "2025-10-27T18:35:18.424952+00:00",
+      "bid_price": 2.38,
+      "ask_price": 4.42,
+      "bid_size": 40.0,
+      "ask_size": 50.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4323,
+      "gamma": 0.0393,
+      "theta": -0.0735,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:36:24.364537",
+    "quote": {
+      "timestamp": "2025-10-27T18:35:18.424952+00:00",
+      "bid_price": 2.38,
+      "ask_price": 4.42,
+      "bid_size": 40.0,
+      "ask_size": 50.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.443,
+      "gamma": 0.0409,
+      "theta": -0.0711,
+      "vega": 0.0988,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:37:24.711551",
+    "quote": {
+      "timestamp": "2025-10-27T18:36:44.994747+00:00",
+      "bid_price": 2.42,
+      "ask_price": 4.59,
+      "bid_size": 50.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4433,
+      "gamma": 0.0398,
+      "theta": -0.0732,
+      "vega": 0.0988,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:38:25.094852",
+    "quote": {
+      "timestamp": "2025-10-27T18:36:44.994747+00:00",
+      "bid_price": 2.42,
+      "ask_price": 4.59,
+      "bid_size": 50.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4399,
+      "gamma": 0.0393,
+      "theta": -0.074,
+      "vega": 0.0988,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:39:25.488188",
+    "quote": {
+      "timestamp": "2025-10-27T18:39:01.519746+00:00",
+      "bid_price": 2.44,
+      "ask_price": 4.52,
+      "bid_size": 51.0,
+      "ask_size": 45.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4353,
+      "gamma": 0.0389,
+      "theta": -0.0745,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:40:25.851618",
+    "quote": {
+      "timestamp": "2025-10-27T18:39:01.519746+00:00",
+      "bid_price": 2.44,
+      "ask_price": 4.52,
+      "bid_size": 51.0,
+      "ask_size": 45.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4326,
+      "gamma": 0.0385,
+      "theta": -0.0752,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:41:26.226102",
+    "quote": {
+      "timestamp": "2025-10-27T18:39:01.519746+00:00",
+      "bid_price": 2.44,
+      "ask_price": 4.52,
+      "bid_size": 51.0,
+      "ask_size": 45.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T13:52:24.887506+00:00",
+      "price": 3.96,
+      "size": 18.0
+    },
+    "greeks": {
+      "delta": -0.4348,
+      "gamma": 0.0389,
+      "theta": -0.0747,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:42:26.595722",
+    "quote": {
+      "timestamp": "2025-10-27T18:39:01.519746+00:00",
+      "bid_price": 2.44,
+      "ask_price": 4.52,
+      "bid_size": 51.0,
+      "ask_size": 45.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4335,
+      "gamma": 0.0387,
+      "theta": -0.075,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:43:26.964738",
+    "quote": {
+      "timestamp": "2025-10-27T18:39:01.519746+00:00",
+      "bid_price": 2.44,
+      "ask_price": 4.52,
+      "bid_size": 51.0,
+      "ask_size": 45.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4335,
+      "gamma": 0.0387,
+      "theta": -0.075,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:44:27.311697",
+    "quote": {
+      "timestamp": "2025-10-27T18:39:01.519746+00:00",
+      "bid_price": 2.44,
+      "ask_price": 4.52,
+      "bid_size": 51.0,
+      "ask_size": 45.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4335,
+      "gamma": 0.0387,
+      "theta": -0.075,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:45:27.660495",
+    "quote": {
+      "timestamp": "2025-10-27T18:39:01.519746+00:00",
+      "bid_price": 2.44,
+      "ask_price": 4.52,
+      "bid_size": 51.0,
+      "ask_size": 45.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.431,
+      "gamma": 0.0383,
+      "theta": -0.0756,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:46:28.027066",
+    "quote": {
+      "timestamp": "2025-10-27T18:45:54.641605+00:00",
+      "bid_price": 2.38,
+      "ask_price": 4.58,
+      "bid_size": 46.0,
+      "ask_size": 38.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4339,
+      "gamma": 0.0387,
+      "theta": -0.0749,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:47:28.460857",
+    "quote": {
+      "timestamp": "2025-10-27T18:45:54.641605+00:00",
+      "bid_price": 2.38,
+      "ask_price": 4.58,
+      "bid_size": 46.0,
+      "ask_size": 38.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4353,
+      "gamma": 0.0389,
+      "theta": -0.0745,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:48:28.836258",
+    "quote": {
+      "timestamp": "2025-10-27T18:48:28.653174+00:00",
+      "bid_price": 2.37,
+      "ask_price": 4.55,
+      "bid_size": 40.0,
+      "ask_size": 46.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4389,
+      "gamma": 0.0397,
+      "theta": -0.0733,
+      "vega": 0.0988,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:49:29.293451",
+    "quote": {
+      "timestamp": "2025-10-27T18:48:53.854929+00:00",
+      "bid_price": 2.42,
+      "ask_price": 4.52,
+      "bid_size": 46.0,
+      "ask_size": 47.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.439,
+      "gamma": 0.0396,
+      "theta": -0.0735,
+      "vega": 0.0988,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:50:29.662981",
+    "quote": {
+      "timestamp": "2025-10-27T18:49:37.122765+00:00",
+      "bid_price": 2.37,
+      "ask_price": 4.58,
+      "bid_size": 45.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4409,
+      "gamma": 0.0398,
+      "theta": -0.0731,
+      "vega": 0.0988,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:51:30.016939",
+    "quote": {
+      "timestamp": "2025-10-27T18:50:40.937735+00:00",
+      "bid_price": 2.38,
+      "ask_price": 4.53,
+      "bid_size": 40.0,
+      "ask_size": 34.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4408,
+      "gamma": 0.04,
+      "theta": -0.0727,
+      "vega": 0.0988,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:52:30.372407",
+    "quote": {
+      "timestamp": "2025-10-27T18:51:41.125670+00:00",
+      "bid_price": 2.37,
+      "ask_price": 4.56,
+      "bid_size": 24.0,
+      "ask_size": 23.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4393,
+      "gamma": 0.0397,
+      "theta": -0.0733,
+      "vega": 0.0988,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:53:30.725355",
+    "quote": {
+      "timestamp": "2025-10-27T18:52:39.188063+00:00",
+      "bid_price": 2.38,
+      "ask_price": 4.48,
+      "bid_size": 40.0,
+      "ask_size": 40.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4449,
+      "gamma": 0.0409,
+      "theta": -0.0712,
+      "vega": 0.0988,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:54:31.098820",
+    "quote": {
+      "timestamp": "2025-10-27T18:54:01.634392+00:00",
+      "bid_price": 2.42,
+      "ask_price": 4.55,
+      "bid_size": 41.0,
+      "ask_size": 30.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4434,
+      "gamma": 0.04,
+      "theta": -0.0727,
+      "vega": 0.0988,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:55:31.468118",
+    "quote": {
+      "timestamp": "2025-10-27T18:55:18.668730+00:00",
+      "bid_price": 2.42,
+      "ask_price": 4.52,
+      "bid_size": 41.0,
+      "ask_size": 38.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4405,
+      "gamma": 0.0398,
+      "theta": -0.0731,
+      "vega": 0.0988,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:56:31.811554",
+    "quote": {
+      "timestamp": "2025-10-27T18:56:19.239908+00:00",
+      "bid_price": 2.42,
+      "ask_price": 4.46,
+      "bid_size": 43.0,
+      "ask_size": 40.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.443,
+      "gamma": 0.0405,
+      "theta": -0.0719,
+      "vega": 0.0988,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:57:32.163813",
+    "quote": {
+      "timestamp": "2025-10-27T18:57:31.470426+00:00",
+      "bid_price": 2.44,
+      "ask_price": 4.46,
+      "bid_size": 44.0,
+      "ask_size": 40.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4456,
+      "gamma": 0.0407,
+      "theta": -0.0715,
+      "vega": 0.0988,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:58:32.584386",
+    "quote": {
+      "timestamp": "2025-10-27T18:57:32.942570+00:00",
+      "bid_price": 2.38,
+      "ask_price": 4.57,
+      "bid_size": 43.0,
+      "ask_size": 40.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4451,
+      "gamma": 0.0404,
+      "theta": -0.0721,
+      "vega": 0.0988,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T18:59:32.956868",
+    "quote": {
+      "timestamp": "2025-10-27T18:57:32.942570+00:00",
+      "bid_price": 2.38,
+      "ask_price": 4.57,
+      "bid_size": 43.0,
+      "ask_size": 40.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4405,
+      "gamma": 0.0397,
+      "theta": -0.0732,
+      "vega": 0.0988,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:00:33.338416",
+    "quote": {
+      "timestamp": "2025-10-27T18:57:32.942570+00:00",
+      "bid_price": 2.38,
+      "ask_price": 4.57,
+      "bid_size": 43.0,
+      "ask_size": 40.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4443,
+      "gamma": 0.0403,
+      "theta": -0.0723,
+      "vega": 0.0988,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:01:33.729195",
+    "quote": {
+      "timestamp": "2025-10-27T18:57:32.942570+00:00",
+      "bid_price": 2.38,
+      "ask_price": 4.57,
+      "bid_size": 43.0,
+      "ask_size": 40.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4494,
+      "gamma": 0.041,
+      "theta": -0.0711,
+      "vega": 0.0989,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:02:34.069393",
+    "quote": {
+      "timestamp": "2025-10-27T18:57:32.942570+00:00",
+      "bid_price": 2.38,
+      "ask_price": 4.57,
+      "bid_size": 43.0,
+      "ask_size": 40.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4516,
+      "gamma": 0.0413,
+      "theta": -0.0706,
+      "vega": 0.0989,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:03:34.434166",
+    "quote": {
+      "timestamp": "2025-10-27T18:57:32.942570+00:00",
+      "bid_price": 2.38,
+      "ask_price": 4.57,
+      "bid_size": 43.0,
+      "ask_size": 40.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4514,
+      "gamma": 0.0413,
+      "theta": -0.0707,
+      "vega": 0.0989,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:04:34.802238",
+    "quote": {
+      "timestamp": "2025-10-27T18:57:32.942570+00:00",
+      "bid_price": 2.38,
+      "ask_price": 4.57,
+      "bid_size": 43.0,
+      "ask_size": 40.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4543,
+      "gamma": 0.0417,
+      "theta": -0.07,
+      "vega": 0.0989,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:05:35.161865",
+    "quote": {
+      "timestamp": "2025-10-27T18:57:32.942570+00:00",
+      "bid_price": 2.38,
+      "ask_price": 4.57,
+      "bid_size": 43.0,
+      "ask_size": 40.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4524,
+      "gamma": 0.0415,
+      "theta": -0.0704,
+      "vega": 0.0989,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:06:35.714508",
+    "quote": {
+      "timestamp": "2025-10-27T19:06:10.747524+00:00",
+      "bid_price": 2.42,
+      "ask_price": 4.56,
+      "bid_size": 42.0,
+      "ask_size": 39.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4597,
+      "gamma": 0.0423,
+      "theta": -0.0691,
+      "vega": 0.0989,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:07:36.083659",
+    "quote": {
+      "timestamp": "2025-10-27T19:06:10.747524+00:00",
+      "bid_price": 2.42,
+      "ask_price": 4.56,
+      "bid_size": 42.0,
+      "ask_size": 39.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.444,
+      "gamma": 0.0401,
+      "theta": -0.0727,
+      "vega": 0.0988,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:08:36.428901",
+    "quote": {
+      "timestamp": "2025-10-27T19:08:32.787306+00:00",
+      "bid_price": 2.42,
+      "ask_price": 4.48,
+      "bid_size": 43.0,
+      "ask_size": 34.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4482,
+      "gamma": 0.0411,
+      "theta": -0.0709,
+      "vega": 0.0989,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:09:36.791105",
+    "quote": {
+      "timestamp": "2025-10-27T19:09:31.802472+00:00",
+      "bid_price": 2.38,
+      "ask_price": 4.55,
+      "bid_size": 43.0,
+      "ask_size": 34.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4353,
+      "gamma": 0.0391,
+      "theta": -0.0742,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:10:37.113970",
+    "quote": {
+      "timestamp": "2025-10-27T19:10:30.662773+00:00",
+      "bid_price": 2.36,
+      "ask_price": 4.55,
+      "bid_size": 43.0,
+      "ask_size": 34.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4319,
+      "gamma": 0.0387,
+      "theta": -0.0748,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:11:37.506667",
+    "quote": {
+      "timestamp": "2025-10-27T19:11:32.506054+00:00",
+      "bid_price": 2.37,
+      "ask_price": 4.58,
+      "bid_size": 43.0,
+      "ask_size": 34.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4339,
+      "gamma": 0.0388,
+      "theta": -0.0748,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:12:37.877274",
+    "quote": {
+      "timestamp": "2025-10-27T19:12:35.446804+00:00",
+      "bid_price": 2.36,
+      "ask_price": 4.47,
+      "bid_size": 43.0,
+      "ask_size": 34.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4335,
+      "gamma": 0.0394,
+      "theta": -0.0736,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:13:38.183474",
+    "quote": {
+      "timestamp": "2025-10-27T19:13:22.304123+00:00",
+      "bid_price": 2.42,
+      "ask_price": 4.42,
+      "bid_size": 43.0,
+      "ask_size": 34.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4319,
+      "gamma": 0.0391,
+      "theta": -0.0741,
+      "vega": 0.0987,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:14:38.525371",
+    "quote": {
+      "timestamp": "2025-10-27T19:13:47.440106+00:00",
+      "bid_price": 2.42,
+      "ask_price": 4.43,
+      "bid_size": 43.0,
+      "ask_size": 34.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4257,
+      "gamma": 0.0381,
+      "theta": -0.0757,
+      "vega": 0.0986,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:15:38.833969",
+    "quote": {
+      "timestamp": "2025-10-27T19:15:34.788207+00:00",
+      "bid_price": 2.42,
+      "ask_price": 4.52,
+      "bid_size": 23.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4133,
+      "gamma": 0.0359,
+      "theta": -0.0797,
+      "vega": 0.0983,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:16:39.210144",
+    "quote": {
+      "timestamp": "2025-10-27T19:16:29.284429+00:00",
+      "bid_price": 2.42,
+      "ask_price": 4.47,
+      "bid_size": 19.0,
+      "ask_size": 42.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4126,
+      "gamma": 0.036,
+      "theta": -0.0793,
+      "vega": 0.0983,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:17:39.540084",
+    "quote": {
+      "timestamp": "2025-10-27T19:16:45.097555+00:00",
+      "bid_price": 2.43,
+      "ask_price": 4.55,
+      "bid_size": 20.0,
+      "ask_size": 37.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4157,
+      "gamma": 0.036,
+      "theta": -0.0795,
+      "vega": 0.0984,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:18:39.934717",
+    "quote": {
+      "timestamp": "2025-10-27T19:18:14.285021+00:00",
+      "bid_price": 2.36,
+      "ask_price": 4.58,
+      "bid_size": 21.0,
+      "ask_size": 37.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4117,
+      "gamma": 0.0357,
+      "theta": -0.0801,
+      "vega": 0.0983,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:19:40.318507",
+    "quote": {
+      "timestamp": "2025-10-27T19:19:38.565301+00:00",
+      "bid_price": 2.44,
+      "ask_price": 4.52,
+      "bid_size": 23.0,
+      "ask_size": 37.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4182,
+      "gamma": 0.0365,
+      "theta": -0.0787,
+      "vega": 0.0985,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:20:40.692280",
+    "quote": {
+      "timestamp": "2025-10-27T19:19:38.565301+00:00",
+      "bid_price": 2.44,
+      "ask_price": 4.52,
+      "bid_size": 23.0,
+      "ask_size": 37.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4181,
+      "gamma": 0.0365,
+      "theta": -0.0787,
+      "vega": 0.0985,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:21:41.195877",
+    "quote": {
+      "timestamp": "2025-10-27T19:19:38.565301+00:00",
+      "bid_price": 2.44,
+      "ask_price": 4.52,
+      "bid_size": 23.0,
+      "ask_size": 37.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4222,
+      "gamma": 0.0371,
+      "theta": -0.0777,
+      "vega": 0.0985,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:22:41.554956",
+    "quote": {
+      "timestamp": "2025-10-27T19:22:28.426948+00:00",
+      "bid_price": 2.36,
+      "ask_price": 4.44,
+      "bid_size": 24.0,
+      "ask_size": 30.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4255,
+      "gamma": 0.0384,
+      "theta": -0.0752,
+      "vega": 0.0986,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:23:41.919354",
+    "quote": {
+      "timestamp": "2025-10-27T19:22:28.426948+00:00",
+      "bid_price": 2.36,
+      "ask_price": 4.44,
+      "bid_size": 24.0,
+      "ask_size": 30.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4226,
+      "gamma": 0.0379,
+      "theta": -0.0759,
+      "vega": 0.0985,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:24:42.287718",
+    "quote": {
+      "timestamp": "2025-10-27T19:22:28.426948+00:00",
+      "bid_price": 2.36,
+      "ask_price": 4.44,
+      "bid_size": 24.0,
+      "ask_size": 30.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.417,
+      "gamma": 0.0371,
+      "theta": -0.0772,
+      "vega": 0.0984,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:25:42.623192",
+    "quote": {
+      "timestamp": "2025-10-27T19:25:21.735557+00:00",
+      "bid_price": 2.47,
+      "ask_price": 4.42,
+      "bid_size": 22.0,
+      "ask_size": 33.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4142,
+      "gamma": 0.0363,
+      "theta": -0.0789,
+      "vega": 0.0984,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:26:42.984508",
+    "quote": {
+      "timestamp": "2025-10-27T19:26:34.841408+00:00",
+      "bid_price": 2.47,
+      "ask_price": 4.56,
+      "bid_size": 22.0,
+      "ask_size": 33.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4141,
+      "gamma": 0.0356,
+      "theta": -0.0805,
+      "vega": 0.0984,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:27:43.300993",
+    "quote": {
+      "timestamp": "2025-10-27T19:27:40.839635+00:00",
+      "bid_price": 2.47,
+      "ask_price": 4.43,
+      "bid_size": 22.0,
+      "ask_size": 33.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4104,
+      "gamma": 0.0357,
+      "theta": -0.08,
+      "vega": 0.0983,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:28:43.700889",
+    "quote": {
+      "timestamp": "2025-10-27T19:28:22.616174+00:00",
+      "bid_price": 2.47,
+      "ask_price": 4.47,
+      "bid_size": 22.0,
+      "ask_size": 33.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4146,
+      "gamma": 0.0361,
+      "theta": -0.0794,
+      "vega": 0.0984,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:29:44.093523",
+    "quote": {
+      "timestamp": "2025-10-27T19:28:22.616174+00:00",
+      "bid_price": 2.47,
+      "ask_price": 4.47,
+      "bid_size": 22.0,
+      "ask_size": 33.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4144,
+      "gamma": 0.036,
+      "theta": -0.0794,
+      "vega": 0.0984,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:30:44.434689",
+    "quote": {
+      "timestamp": "2025-10-27T19:30:37.091469+00:00",
+      "bid_price": 2.47,
+      "ask_price": 4.54,
+      "bid_size": 22.0,
+      "ask_size": 33.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.414,
+      "gamma": 0.0356,
+      "theta": -0.0803,
+      "vega": 0.0984,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:31:44.808588",
+    "quote": {
+      "timestamp": "2025-10-27T19:30:37.091469+00:00",
+      "bid_price": 2.47,
+      "ask_price": 4.54,
+      "bid_size": 22.0,
+      "ask_size": 33.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4223,
+      "gamma": 0.0368,
+      "theta": -0.0783,
+      "vega": 0.0985,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:32:45.205602",
+    "quote": {
+      "timestamp": "2025-10-27T19:32:16.005443+00:00",
+      "bid_price": 2.49,
+      "ask_price": 4.44,
+      "bid_size": 22.0,
+      "ask_size": 33.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4281,
+      "gamma": 0.038,
+      "theta": -0.076,
+      "vega": 0.0986,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:33:45.573581",
+    "quote": {
+      "timestamp": "2025-10-27T19:33:30.371002+00:00",
+      "bid_price": 2.41,
+      "ask_price": 4.41,
+      "bid_size": 22.0,
+      "ask_size": 35.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4178,
+      "gamma": 0.0371,
+      "theta": -0.0772,
+      "vega": 0.0984,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:34:45.967387",
+    "quote": {
+      "timestamp": "2025-10-27T19:33:50.052227+00:00",
+      "bid_price": 2.43,
+      "ask_price": 4.58,
+      "bid_size": 22.0,
+      "ask_size": 35.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4196,
+      "gamma": 0.0364,
+      "theta": -0.0789,
+      "vega": 0.0985,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:35:46.286171",
+    "quote": {
+      "timestamp": "2025-10-27T19:33:50.052227+00:00",
+      "bid_price": 2.43,
+      "ask_price": 4.58,
+      "bid_size": 22.0,
+      "ask_size": 35.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4186,
+      "gamma": 0.0363,
+      "theta": -0.0792,
+      "vega": 0.0985,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:36:46.678654",
+    "quote": {
+      "timestamp": "2025-10-27T19:36:44.127198+00:00",
+      "bid_price": 2.5,
+      "ask_price": 4.46,
+      "bid_size": 22.0,
+      "ask_size": 35.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4165,
+      "gamma": 0.0362,
+      "theta": -0.0791,
+      "vega": 0.0984,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:37:47.054078",
+    "quote": {
+      "timestamp": "2025-10-27T19:36:44.127198+00:00",
+      "bid_price": 2.5,
+      "ask_price": 4.46,
+      "bid_size": 22.0,
+      "ask_size": 35.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4163,
+      "gamma": 0.0362,
+      "theta": -0.0792,
+      "vega": 0.0984,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:38:47.431350",
+    "quote": {
+      "timestamp": "2025-10-27T19:36:44.127198+00:00",
+      "bid_price": 2.5,
+      "ask_price": 4.46,
+      "bid_size": 22.0,
+      "ask_size": 35.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4128,
+      "gamma": 0.0357,
+      "theta": -0.0801,
+      "vega": 0.0983,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:39:47.804334",
+    "quote": {
+      "timestamp": "2025-10-27T19:39:05.228283+00:00",
+      "bid_price": 2.43,
+      "ask_price": 4.52,
+      "bid_size": 22.0,
+      "ask_size": 36.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:55.428378+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.4113,
+      "gamma": 0.0355,
+      "theta": -0.0803,
+      "vega": 0.0983,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:40:48.175919",
+    "quote": {
+      "timestamp": "2025-10-27T19:39:05.228283+00:00",
+      "bid_price": 2.43,
+      "ask_price": 4.52,
+      "bid_size": 22.0,
+      "ask_size": 36.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:24:52.107530+00:00",
+      "price": 2.93,
+      "size": 13.0
+    },
+    "greeks": {
+      "delta": -0.4116,
+      "gamma": 0.0356,
+      "theta": -0.0802,
+      "vega": 0.0983,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:41:48.546031",
+    "quote": {
+      "timestamp": "2025-10-27T19:39:05.228283+00:00",
+      "bid_price": 2.43,
+      "ask_price": 4.52,
+      "bid_size": 22.0,
+      "ask_size": 36.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:24:52.107530+00:00",
+      "price": 2.93,
+      "size": 13.0
+    },
+    "greeks": {
+      "delta": -0.4088,
+      "gamma": 0.0352,
+      "theta": -0.0809,
+      "vega": 0.0982,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:42:48.887685",
+    "quote": {
+      "timestamp": "2025-10-27T19:42:45.683724+00:00",
+      "bid_price": 2.43,
+      "ask_price": 4.41,
+      "bid_size": 13.0,
+      "ask_size": 17.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:24:52.107530+00:00",
+      "price": 2.93,
+      "size": 13.0
+    },
+    "greeks": {
+      "delta": -0.4038,
+      "gamma": 0.035,
+      "theta": -0.0809,
+      "vega": 0.0981,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:43:49.223979",
+    "quote": {
+      "timestamp": "2025-10-27T19:43:20.069500+00:00",
+      "bid_price": 2.38,
+      "ask_price": 4.54,
+      "bid_size": 33.0,
+      "ask_size": 34.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:24:52.107530+00:00",
+      "price": 2.93,
+      "size": 13.0
+    },
+    "greeks": {
+      "delta": -0.4023,
+      "gamma": 0.0344,
+      "theta": -0.0822,
+      "vega": 0.0981,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:44:49.549195",
+    "quote": {
+      "timestamp": "2025-10-27T19:44:49.511026+00:00",
+      "bid_price": 2.33,
+      "ask_price": 4.42,
+      "bid_size": 11.0,
+      "ask_size": 22.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:24:52.107530+00:00",
+      "price": 2.93,
+      "size": 13.0
+    },
+    "greeks": {
+      "delta": -0.3942,
+      "gamma": 0.0341,
+      "theta": -0.0823,
+      "vega": 0.0978,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:45:49.891384",
+    "quote": {
+      "timestamp": "2025-10-27T19:45:04.510967+00:00",
+      "bid_price": 2.37,
+      "ask_price": 4.46,
+      "bid_size": 6.0,
+      "ask_size": 21.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:24:52.107530+00:00",
+      "price": 2.93,
+      "size": 13.0
+    },
+    "greeks": {
+      "delta": -0.3976,
+      "gamma": 0.0342,
+      "theta": -0.0824,
+      "vega": 0.0979,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:46:50.244031",
+    "quote": {
+      "timestamp": "2025-10-27T19:46:39.713667+00:00",
+      "bid_price": 2.39,
+      "ask_price": 4.46,
+      "bid_size": 5.0,
+      "ask_size": 23.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:24:52.107530+00:00",
+      "price": 2.93,
+      "size": 13.0
+    },
+    "greeks": {
+      "delta": -0.3973,
+      "gamma": 0.034,
+      "theta": -0.0827,
+      "vega": 0.0979,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:47:50.640674",
+    "quote": {
+      "timestamp": "2025-10-27T19:46:39.713667+00:00",
+      "bid_price": 2.39,
+      "ask_price": 4.46,
+      "bid_size": 5.0,
+      "ask_size": 23.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:24:52.107530+00:00",
+      "price": 2.93,
+      "size": 13.0
+    },
+    "greeks": {
+      "delta": -0.3992,
+      "gamma": 0.0343,
+      "theta": -0.0822,
+      "vega": 0.098,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:48:51.029692",
+    "quote": {
+      "timestamp": "2025-10-27T19:46:39.713667+00:00",
+      "bid_price": 2.39,
+      "ask_price": 4.46,
+      "bid_size": 5.0,
+      "ask_size": 23.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:24:52.107530+00:00",
+      "price": 2.93,
+      "size": 13.0
+    },
+    "greeks": {
+      "delta": -0.3995,
+      "gamma": 0.0343,
+      "theta": -0.0821,
+      "vega": 0.098,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:49:51.400672",
+    "quote": {
+      "timestamp": "2025-10-27T19:49:50.122398+00:00",
+      "bid_price": 2.91,
+      "ask_price": 4.87,
+      "bid_size": 1.0,
+      "ask_size": 131.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:24:52.107530+00:00",
+      "price": 2.93,
+      "size": 13.0
+    },
+    "greeks": {
+      "delta": -0.4027,
+      "gamma": 0.0309,
+      "theta": -0.0921,
+      "vega": 0.0982,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:50:51.734002",
+    "quote": {
+      "timestamp": "2025-10-27T19:50:45.682647+00:00",
+      "bid_price": 1.47,
+      "ask_price": 4.87,
+      "bid_size": 30.0,
+      "ask_size": 32.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:24:52.107530+00:00",
+      "price": 2.93,
+      "size": 13.0
+    },
+    "greeks": {
+      "delta": -0.388,
+      "gamma": 0.0352,
+      "theta": -0.0788,
+      "vega": 0.0974,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:51:52.059533",
+    "quote": {
+      "timestamp": "2025-10-27T19:51:41.836138+00:00",
+      "bid_price": 1.43,
+      "ask_price": 4.96,
+      "bid_size": 26.0,
+      "ask_size": 130.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:24:52.107530+00:00",
+      "price": 2.93,
+      "size": 13.0
+    },
+    "greeks": {
+      "delta": -0.3851,
+      "gamma": 0.0345,
+      "theta": -0.0802,
+      "vega": 0.0974,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:52:52.489987",
+    "quote": {
+      "timestamp": "2025-10-27T19:52:40.988072+00:00",
+      "bid_price": 3.03,
+      "ask_price": 4.86,
+      "bid_size": 6.0,
+      "ask_size": 656.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:24:52.107530+00:00",
+      "price": 2.93,
+      "size": 13.0
+    },
+    "greeks": {
+      "delta": -0.3947,
+      "gamma": 0.0295,
+      "theta": -0.0957,
+      "vega": 0.098,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:53:52.838981",
+    "quote": {
+      "timestamp": "2025-10-27T19:53:49.859662+00:00",
+      "bid_price": 3.07,
+      "ask_price": 4.76,
+      "bid_size": 5.0,
+      "ask_size": 45.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:24:52.107530+00:00",
+      "price": 2.93,
+      "size": 13.0
+    },
+    "greeks": {
+      "delta": -0.4001,
+      "gamma": 0.0304,
+      "theta": -0.0934,
+      "vega": 0.0982,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:54:53.214770",
+    "quote": {
+      "timestamp": "2025-10-27T19:54:46.242580+00:00",
+      "bid_price": 3.08,
+      "ask_price": 4.79,
+      "bid_size": 6.0,
+      "ask_size": 13.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:24:52.107530+00:00",
+      "price": 2.93,
+      "size": 13.0
+    },
+    "greeks": {
+      "delta": -0.4013,
+      "gamma": 0.0304,
+      "theta": -0.0935,
+      "vega": 0.0982,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:55:53.594387",
+    "quote": {
+      "timestamp": "2025-10-27T19:55:49.317621+00:00",
+      "bid_price": 3.04,
+      "ask_price": 4.79,
+      "bid_size": 6.0,
+      "ask_size": 22.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:24:52.107530+00:00",
+      "price": 2.93,
+      "size": 13.0
+    },
+    "greeks": {
+      "delta": -0.3913,
+      "gamma": 0.0293,
+      "theta": -0.0959,
+      "vega": 0.0979,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:56:53.974739",
+    "quote": {
+      "timestamp": "2025-10-27T19:56:50.787853+00:00",
+      "bid_price": 3.12,
+      "ask_price": 4.55,
+      "bid_size": 4.0,
+      "ask_size": 49.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:24:52.107530+00:00",
+      "price": 2.93,
+      "size": 13.0
+    },
+    "greeks": {
+      "delta": -0.3907,
+      "gamma": 0.0298,
+      "theta": -0.0942,
+      "vega": 0.0979,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:57:54.317983",
+    "quote": {
+      "timestamp": "2025-10-27T19:57:54.137028+00:00",
+      "bid_price": 3.14,
+      "ask_price": 4.57,
+      "bid_size": 1.0,
+      "ask_size": 49.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:24:52.107530+00:00",
+      "price": 2.93,
+      "size": 13.0
+    },
+    "greeks": {
+      "delta": -0.3959,
+      "gamma": 0.0303,
+      "theta": -0.0932,
+      "vega": 0.098,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:58:54.671634",
+    "quote": {
+      "timestamp": "2025-10-27T19:58:18.256387+00:00",
+      "bid_price": 1.87,
+      "ask_price": 4.52,
+      "bid_size": 16.0,
+      "ask_size": 35.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:24:52.107530+00:00",
+      "price": 2.93,
+      "size": 13.0
+    },
+    "greeks": {
+      "delta": -0.3906,
+      "gamma": 0.0353,
+      "theta": -0.0788,
+      "vega": 0.0976,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T19:59:55.043593",
+    "quote": {
+      "timestamp": "2025-10-27T19:58:18.256387+00:00",
+      "bid_price": 1.87,
+      "ask_price": 4.52,
+      "bid_size": 16.0,
+      "ask_size": 35.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:24:52.107530+00:00",
+      "price": 2.93,
+      "size": 13.0
+    },
+    "greeks": {
+      "delta": -0.3899,
+      "gamma": 0.0352,
+      "theta": -0.079,
+      "vega": 0.0975,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T20:00:55.395266",
+    "quote": {
+      "timestamp": "2025-10-27T19:58:18.256387+00:00",
+      "bid_price": 1.87,
+      "ask_price": 4.52,
+      "bid_size": 16.0,
+      "ask_size": 35.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:45:03.525596+00:00",
+      "price": 3.3,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.3893,
+      "gamma": 0.0351,
+      "theta": -0.0791,
+      "vega": 0.0975,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T20:01:55.749576",
+    "quote": {
+      "timestamp": "2025-10-27T19:58:18.256387+00:00",
+      "bid_price": 1.87,
+      "ask_price": 4.52,
+      "bid_size": 16.0,
+      "ask_size": 35.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:45:03.525596+00:00",
+      "price": 3.3,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.3893,
+      "gamma": 0.0351,
+      "theta": -0.0791,
+      "vega": 0.0975,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T20:02:56.126871",
+    "quote": {
+      "timestamp": "2025-10-27T19:58:18.256387+00:00",
+      "bid_price": 1.87,
+      "ask_price": 4.52,
+      "bid_size": 16.0,
+      "ask_size": 35.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:45:03.525596+00:00",
+      "price": 3.3,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.3893,
+      "gamma": 0.0351,
+      "theta": -0.0791,
+      "vega": 0.0975,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T20:03:56.494002",
+    "quote": {
+      "timestamp": "2025-10-27T19:58:18.256387+00:00",
+      "bid_price": 1.87,
+      "ask_price": 4.52,
+      "bid_size": 16.0,
+      "ask_size": 35.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:45:03.525596+00:00",
+      "price": 3.3,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.3893,
+      "gamma": 0.0351,
+      "theta": -0.0791,
+      "vega": 0.0975,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T20:04:56.829062",
+    "quote": {
+      "timestamp": "2025-10-27T19:58:18.256387+00:00",
+      "bid_price": 1.87,
+      "ask_price": 4.52,
+      "bid_size": 16.0,
+      "ask_size": 35.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:49:56.633637+00:00",
+      "price": 2.97,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.3893,
+      "gamma": 0.0351,
+      "theta": -0.0791,
+      "vega": 0.0975,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T20:05:57.254148",
+    "quote": {
+      "timestamp": "2025-10-27T19:58:18.256387+00:00",
+      "bid_price": 1.87,
+      "ask_price": 4.52,
+      "bid_size": 16.0,
+      "ask_size": 35.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:49:59.951204+00:00",
+      "price": 3.15,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.389,
+      "gamma": 0.0351,
+      "theta": -0.0792,
+      "vega": 0.0975,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T20:06:57.802180",
+    "quote": {
+      "timestamp": "2025-10-27T19:58:18.256387+00:00",
+      "bid_price": 1.87,
+      "ask_price": 4.52,
+      "bid_size": 16.0,
+      "ask_size": 35.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:51:55.936732+00:00",
+      "price": 3.35,
+      "size": 2.0
+    },
+    "greeks": {
+      "delta": -0.389,
+      "gamma": 0.0351,
+      "theta": -0.0792,
+      "vega": 0.0975,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T20:07:58.167396",
+    "quote": {
+      "timestamp": "2025-10-27T19:58:18.256387+00:00",
+      "bid_price": 1.87,
+      "ask_price": 4.52,
+      "bid_size": 16.0,
+      "ask_size": 35.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:52:31.269898+00:00",
+      "price": 3.36,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.389,
+      "gamma": 0.0351,
+      "theta": -0.0792,
+      "vega": 0.0975,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T20:08:58.503805",
+    "quote": {
+      "timestamp": "2025-10-27T19:58:18.256387+00:00",
+      "bid_price": 1.87,
+      "ask_price": 4.52,
+      "bid_size": 16.0,
+      "ask_size": 35.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:53:24.885819+00:00",
+      "price": 3.64,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.389,
+      "gamma": 0.0351,
+      "theta": -0.0792,
+      "vega": 0.0975,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T20:09:58.894260",
+    "quote": {
+      "timestamp": "2025-10-27T19:58:18.256387+00:00",
+      "bid_price": 1.87,
+      "ask_price": 4.52,
+      "bid_size": 16.0,
+      "ask_size": 35.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:53:24.885819+00:00",
+      "price": 3.64,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.3881,
+      "gamma": 0.0349,
+      "theta": -0.0794,
+      "vega": 0.0975,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T20:10:59.261933",
+    "quote": {
+      "timestamp": "2025-10-27T19:58:18.256387+00:00",
+      "bid_price": 1.87,
+      "ask_price": 4.52,
+      "bid_size": 16.0,
+      "ask_size": 35.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:53:24.885819+00:00",
+      "price": 3.64,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.38,
+      "gamma": 0.0337,
+      "theta": -0.0815,
+      "vega": 0.0971,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T20:11:59.640975",
+    "quote": {
+      "timestamp": "2025-10-27T19:58:18.256387+00:00",
+      "bid_price": 1.87,
+      "ask_price": 4.52,
+      "bid_size": 16.0,
+      "ask_size": 35.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:56:56.902037+00:00",
+      "price": 3.66,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.38,
+      "gamma": 0.0337,
+      "theta": -0.0815,
+      "vega": 0.0971,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T20:13:00.022252",
+    "quote": {
+      "timestamp": "2025-10-27T19:58:18.256387+00:00",
+      "bid_price": 1.87,
+      "ask_price": 4.52,
+      "bid_size": 16.0,
+      "ask_size": 35.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:56:56.902037+00:00",
+      "price": 3.66,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.38,
+      "gamma": 0.0337,
+      "theta": -0.0815,
+      "vega": 0.0971,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T20:14:00.346718",
+    "quote": {
+      "timestamp": "2025-10-27T19:58:18.256387+00:00",
+      "bid_price": 1.87,
+      "ask_price": 4.52,
+      "bid_size": 16.0,
+      "ask_size": 35.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:56:56.902037+00:00",
+      "price": 3.66,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.38,
+      "gamma": 0.0337,
+      "theta": -0.0815,
+      "vega": 0.0971,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T20:15:00.749783",
+    "quote": {
+      "timestamp": "2025-10-27T19:58:18.256387+00:00",
+      "bid_price": 1.87,
+      "ask_price": 4.52,
+      "bid_size": 16.0,
+      "ask_size": 35.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:56:56.902037+00:00",
+      "price": 3.66,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.38,
+      "gamma": 0.0337,
+      "theta": -0.0815,
+      "vega": 0.0971,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T20:16:01.164254",
+    "quote": {
+      "timestamp": "2025-10-27T19:58:18.256387+00:00",
+      "bid_price": 1.87,
+      "ask_price": 4.52,
+      "bid_size": 16.0,
+      "ask_size": 35.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:56:56.902037+00:00",
+      "price": 3.66,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.38,
+      "gamma": 0.0337,
+      "theta": -0.0815,
+      "vega": 0.0971,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T20:17:01.481322",
+    "quote": {
+      "timestamp": "2025-10-27T19:58:18.256387+00:00",
+      "bid_price": 1.87,
+      "ask_price": 4.52,
+      "bid_size": 16.0,
+      "ask_size": 35.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:56:56.902037+00:00",
+      "price": 3.66,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.38,
+      "gamma": 0.0337,
+      "theta": -0.0815,
+      "vega": 0.0971,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T20:18:01.828271",
+    "quote": {
+      "timestamp": "2025-10-27T19:58:18.256387+00:00",
+      "bid_price": 1.87,
+      "ask_price": 4.52,
+      "bid_size": 16.0,
+      "ask_size": 35.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:56:56.902037+00:00",
+      "price": 3.66,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.38,
+      "gamma": 0.0337,
+      "theta": -0.0815,
+      "vega": 0.0971,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T20:19:02.187824",
+    "quote": {
+      "timestamp": "2025-10-27T19:58:18.256387+00:00",
+      "bid_price": 1.87,
+      "ask_price": 4.52,
+      "bid_size": 16.0,
+      "ask_size": 35.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:56:56.902037+00:00",
+      "price": 3.66,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.38,
+      "gamma": 0.0337,
+      "theta": -0.0815,
+      "vega": 0.0971,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T20:20:02.553247",
+    "quote": {
+      "timestamp": "2025-10-27T19:58:18.256387+00:00",
+      "bid_price": 1.87,
+      "ask_price": 4.52,
+      "bid_size": 16.0,
+      "ask_size": 35.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:56:56.902037+00:00",
+      "price": 3.66,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.38,
+      "gamma": 0.0337,
+      "theta": -0.0815,
+      "vega": 0.0971,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T20:21:02.897626",
+    "quote": {
+      "timestamp": "2025-10-27T19:58:18.256387+00:00",
+      "bid_price": 1.87,
+      "ask_price": 4.52,
+      "bid_size": 16.0,
+      "ask_size": 35.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:56:56.902037+00:00",
+      "price": 3.66,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.38,
+      "gamma": 0.0337,
+      "theta": -0.0815,
+      "vega": 0.0971,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T20:22:03.274050",
+    "quote": {
+      "timestamp": "2025-10-27T19:58:18.256387+00:00",
+      "bid_price": 1.87,
+      "ask_price": 4.52,
+      "bid_size": 16.0,
+      "ask_size": 35.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:56:56.902037+00:00",
+      "price": 3.66,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.38,
+      "gamma": 0.0337,
+      "theta": -0.0815,
+      "vega": 0.0971,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T20:23:03.646177",
+    "quote": {
+      "timestamp": "2025-10-27T19:58:18.256387+00:00",
+      "bid_price": 1.87,
+      "ask_price": 4.52,
+      "bid_size": 16.0,
+      "ask_size": 35.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:56:56.902037+00:00",
+      "price": 3.66,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.38,
+      "gamma": 0.0337,
+      "theta": -0.0815,
+      "vega": 0.0971,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T20:24:04.005882",
+    "quote": {
+      "timestamp": "2025-10-27T19:58:18.256387+00:00",
+      "bid_price": 1.87,
+      "ask_price": 4.52,
+      "bid_size": 16.0,
+      "ask_size": 35.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:56:56.902037+00:00",
+      "price": 3.66,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.38,
+      "gamma": 0.0337,
+      "theta": -0.0815,
+      "vega": 0.0971,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T20:25:04.323925",
+    "quote": {
+      "timestamp": "2025-10-27T19:58:18.256387+00:00",
+      "bid_price": 1.87,
+      "ask_price": 4.52,
+      "bid_size": 16.0,
+      "ask_size": 35.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:56:56.902037+00:00",
+      "price": 3.66,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.38,
+      "gamma": 0.0337,
+      "theta": -0.0815,
+      "vega": 0.0971,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T20:26:04.673468",
+    "quote": {
+      "timestamp": "2025-10-27T19:58:18.256387+00:00",
+      "bid_price": 1.87,
+      "ask_price": 4.52,
+      "bid_size": 16.0,
+      "ask_size": 35.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:56:56.902037+00:00",
+      "price": 3.66,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.38,
+      "gamma": 0.0337,
+      "theta": -0.0815,
+      "vega": 0.0971,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T20:27:05.221126",
+    "quote": {
+      "timestamp": "2025-10-27T19:58:18.256387+00:00",
+      "bid_price": 1.87,
+      "ask_price": 4.52,
+      "bid_size": 16.0,
+      "ask_size": 35.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:56:56.902037+00:00",
+      "price": 3.66,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.38,
+      "gamma": 0.0337,
+      "theta": -0.0815,
+      "vega": 0.0971,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T20:28:05.612319",
+    "quote": {
+      "timestamp": "2025-10-27T19:58:18.256387+00:00",
+      "bid_price": 1.87,
+      "ask_price": 4.52,
+      "bid_size": 16.0,
+      "ask_size": 35.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:56:56.902037+00:00",
+      "price": 3.66,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.38,
+      "gamma": 0.0337,
+      "theta": -0.0815,
+      "vega": 0.0971,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "RVTY251121P00095000",
+    "timestamp": "2025-10-27T20:29:06.012582",
+    "quote": {
+      "timestamp": "2025-10-27T19:58:18.256387+00:00",
+      "bid_price": 1.87,
+      "ask_price": 4.52,
+      "bid_size": 16.0,
+      "ask_size": 35.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:56:56.902037+00:00",
+      "price": 3.66,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": -0.38,
+      "gamma": 0.0337,
+      "theta": -0.0815,
+      "vega": 0.0971,
+      "implied_volatility": null
+    }
+  }
+]

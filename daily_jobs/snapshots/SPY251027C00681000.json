@@ -1,0 +1,4507 @@
+[
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:00:07.510141",
+    "quote": {
+      "timestamp": "2025-10-27T16:00:07.031060+00:00",
+      "bid_price": 2.55,
+      "ask_price": 2.69,
+      "bid_size": 5.0,
+      "ask_size": 91.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T15:44:46.183882+00:00",
+      "price": 2.64,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:03:55.001943",
+    "quote": {
+      "timestamp": "2025-10-27T16:03:54.351135+00:00",
+      "bid_price": 2.76,
+      "ask_price": 2.88,
+      "bid_size": 35.0,
+      "ask_size": 132.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T15:48:39.830694+00:00",
+      "price": 2.75,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:05:29.340836",
+    "quote": {
+      "timestamp": "2025-10-27T16:05:28.830580+00:00",
+      "bid_price": 2.75,
+      "ask_price": 2.83,
+      "bid_size": 76.0,
+      "ask_size": 79.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T15:50:25.802492+00:00",
+      "price": 2.75,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:06:29.731860",
+    "quote": {
+      "timestamp": "2025-10-27T16:06:29.039448+00:00",
+      "bid_price": 2.7,
+      "ask_price": 2.79,
+      "bid_size": 77.0,
+      "ask_size": 121.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T15:50:56.634428+00:00",
+      "price": 2.8,
+      "size": 2.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:07:30.109214",
+    "quote": {
+      "timestamp": "2025-10-27T16:07:29.178835+00:00",
+      "bid_price": 2.87,
+      "ask_price": 2.9,
+      "bid_size": 5.0,
+      "ask_size": 147.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T15:52:13.101991+00:00",
+      "price": 2.88,
+      "size": 4.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:08:30.454232",
+    "quote": {
+      "timestamp": "2025-10-27T16:08:29.573947+00:00",
+      "bid_price": 2.82,
+      "ask_price": 2.83,
+      "bid_size": 76.0,
+      "ask_size": 121.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T15:53:09.241172+00:00",
+      "price": 2.91,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:09:30.862969",
+    "quote": {
+      "timestamp": "2025-10-27T16:09:30.465487+00:00",
+      "bid_price": 2.88,
+      "ask_price": 2.93,
+      "bid_size": 60.0,
+      "ask_size": 125.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T15:54:01.358719+00:00",
+      "price": 2.86,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:10:31.203035",
+    "quote": {
+      "timestamp": "2025-10-27T16:10:30.966241+00:00",
+      "bid_price": 2.81,
+      "ask_price": 2.86,
+      "bid_size": 60.0,
+      "ask_size": 109.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T15:55:04.754423+00:00",
+      "price": 2.74,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:11:31.613309",
+    "quote": {
+      "timestamp": "2025-10-27T16:11:30.708535+00:00",
+      "bid_price": 2.75,
+      "ask_price": 2.8,
+      "bid_size": 81.0,
+      "ask_size": 124.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T15:56:31.351484+00:00",
+      "price": 2.75,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:12:31.975724",
+    "quote": {
+      "timestamp": "2025-10-27T16:12:31.519905+00:00",
+      "bid_price": 2.78,
+      "ask_price": 2.81,
+      "bid_size": 56.0,
+      "ask_size": 5.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T15:56:58.779045+00:00",
+      "price": 2.72,
+      "size": 4.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:13:32.453898",
+    "quote": {
+      "timestamp": "2025-10-27T16:13:31.504523+00:00",
+      "bid_price": 2.76,
+      "ask_price": 2.81,
+      "bid_size": 51.0,
+      "ask_size": 107.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T15:58:26.913761+00:00",
+      "price": 2.76,
+      "size": 5.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:14:32.763680",
+    "quote": {
+      "timestamp": "2025-10-27T16:14:32.438836+00:00",
+      "bid_price": 2.75,
+      "ask_price": 2.76,
+      "bid_size": 5.0,
+      "ask_size": 64.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T15:59:25.432541+00:00",
+      "price": 2.8,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:15:33.116025",
+    "quote": {
+      "timestamp": "2025-10-27T16:15:32.753475+00:00",
+      "bid_price": 2.78,
+      "ask_price": 2.83,
+      "bid_size": 81.0,
+      "ask_size": 108.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:00:31.294233+00:00",
+      "price": 2.73,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:16:33.474514",
+    "quote": {
+      "timestamp": "2025-10-27T16:16:32.769488+00:00",
+      "bid_price": 2.73,
+      "ask_price": 2.74,
+      "bid_size": 5.0,
+      "ask_size": 108.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:01:31.595786+00:00",
+      "price": 2.76,
+      "size": 2.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:17:33.851772",
+    "quote": {
+      "timestamp": "2025-10-27T16:17:33.222288+00:00",
+      "bid_price": 2.68,
+      "ask_price": 2.7,
+      "bid_size": 5.0,
+      "ask_size": 79.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:02:31.640699+00:00",
+      "price": 2.76,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:18:34.229418",
+    "quote": {
+      "timestamp": "2025-10-27T16:18:34.033175+00:00",
+      "bid_price": 2.7,
+      "ask_price": 2.75,
+      "bid_size": 89.0,
+      "ask_size": 122.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:03:26.150392+00:00",
+      "price": 2.74,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:19:34.632935",
+    "quote": {
+      "timestamp": "2025-10-27T16:19:34.321096+00:00",
+      "bid_price": 2.69,
+      "ask_price": 2.73,
+      "bid_size": 38.0,
+      "ask_size": 5.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:04:27.927377+00:00",
+      "price": 2.74,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:20:34.941970",
+    "quote": {
+      "timestamp": "2025-10-27T16:20:33.656221+00:00",
+      "bid_price": 2.6,
+      "ask_price": 2.62,
+      "bid_size": 80.0,
+      "ask_size": 77.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:05:15.050068+00:00",
+      "price": 2.73,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:21:35.310011",
+    "quote": {
+      "timestamp": "2025-10-27T16:21:34.831638+00:00",
+      "bid_price": 2.66,
+      "ask_price": 2.69,
+      "bid_size": 49.0,
+      "ask_size": 5.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:06:28.632011+00:00",
+      "price": 2.69,
+      "size": 3.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:22:35.639074",
+    "quote": {
+      "timestamp": "2025-10-27T16:22:35.364538+00:00",
+      "bid_price": 2.66,
+      "ask_price": 2.68,
+      "bid_size": 108.0,
+      "ask_size": 5.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:07:24.217399+00:00",
+      "price": 2.76,
+      "size": 2.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:23:36.006899",
+    "quote": {
+      "timestamp": "2025-10-27T16:23:35.292501+00:00",
+      "bid_price": 2.74,
+      "ask_price": 2.77,
+      "bid_size": 84.0,
+      "ask_size": 5.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:08:35.801165+00:00",
+      "price": 2.77,
+      "size": 4.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:24:36.346439",
+    "quote": {
+      "timestamp": "2025-10-27T16:24:35.637985+00:00",
+      "bid_price": 2.73,
+      "ask_price": 2.77,
+      "bid_size": 5.0,
+      "ask_size": 106.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:09:14.196007+00:00",
+      "price": 2.8,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:25:36.707445",
+    "quote": {
+      "timestamp": "2025-10-27T16:25:36.524037+00:00",
+      "bid_price": 2.74,
+      "ask_price": 2.81,
+      "bid_size": 5.0,
+      "ask_size": 107.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:10:26.373824+00:00",
+      "price": 2.75,
+      "size": 2.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:26:37.097377",
+    "quote": {
+      "timestamp": "2025-10-27T16:26:36.604874+00:00",
+      "bid_price": 2.75,
+      "ask_price": 2.79,
+      "bid_size": 80.0,
+      "ask_size": 86.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:11:36.787621+00:00",
+      "price": 2.78,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:27:37.483213",
+    "quote": {
+      "timestamp": "2025-10-27T16:27:36.787449+00:00",
+      "bid_price": 2.68,
+      "ask_price": 2.75,
+      "bid_size": 50.0,
+      "ask_size": 121.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:12:28.170567+00:00",
+      "price": 2.69,
+      "size": 2.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:28:37.810032",
+    "quote": {
+      "timestamp": "2025-10-27T16:28:36.847147+00:00",
+      "bid_price": 2.69,
+      "ask_price": 2.71,
+      "bid_size": 26.0,
+      "ask_size": 5.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:13:22.992158+00:00",
+      "price": 2.73,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:29:38.178235",
+    "quote": {
+      "timestamp": "2025-10-27T16:29:37.966445+00:00",
+      "bid_price": 2.69,
+      "ask_price": 2.73,
+      "bid_size": 36.0,
+      "ask_size": 102.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:14:32.156106+00:00",
+      "price": 2.69,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:30:38.529595",
+    "quote": {
+      "timestamp": "2025-10-27T16:30:37.544940+00:00",
+      "bid_price": 2.67,
+      "ask_price": 2.7,
+      "bid_size": 176.0,
+      "ask_size": 5.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:15:38.039249+00:00",
+      "price": 2.7,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:31:38.898074",
+    "quote": {
+      "timestamp": "2025-10-27T16:31:38.625400+00:00",
+      "bid_price": 2.8,
+      "ask_price": 2.84,
+      "bid_size": 80.0,
+      "ask_size": 108.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:15:47.881684+00:00",
+      "price": 2.77,
+      "size": 6.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:32:39.218785",
+    "quote": {
+      "timestamp": "2025-10-27T16:32:39.023484+00:00",
+      "bid_price": 2.74,
+      "ask_price": 2.84,
+      "bid_size": 5.0,
+      "ask_size": 129.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:17:30.440001+00:00",
+      "price": 2.79,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:33:39.541930",
+    "quote": {
+      "timestamp": "2025-10-27T16:33:38.709030+00:00",
+      "bid_price": 2.86,
+      "ask_price": 2.92,
+      "bid_size": 6.0,
+      "ask_size": 79.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:18:19.586942+00:00",
+      "price": 2.87,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:34:39.894786",
+    "quote": {
+      "timestamp": "2025-10-27T16:34:39.122856+00:00",
+      "bid_price": 2.87,
+      "ask_price": 2.92,
+      "bid_size": 77.0,
+      "ask_size": 120.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:18:55.647369+00:00",
+      "price": 2.88,
+      "size": 6.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:35:40.257518",
+    "quote": {
+      "timestamp": "2025-10-27T16:35:40.008341+00:00",
+      "bid_price": 2.74,
+      "ask_price": 2.76,
+      "bid_size": 34.0,
+      "ask_size": 165.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:20:25.665229+00:00",
+      "price": 2.76,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:36:40.576783",
+    "quote": {
+      "timestamp": "2025-10-27T16:36:40.035737+00:00",
+      "bid_price": 2.76,
+      "ask_price": 2.86,
+      "bid_size": 81.0,
+      "ask_size": 5.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:21:38.798059+00:00",
+      "price": 2.79,
+      "size": 20.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:37:40.939676",
+    "quote": {
+      "timestamp": "2025-10-27T16:37:40.062626+00:00",
+      "bid_price": 2.83,
+      "ask_price": 2.87,
+      "bid_size": 65.0,
+      "ask_size": 64.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:22:28.219959+00:00",
+      "price": 2.73,
+      "size": 8.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:38:41.307536",
+    "quote": {
+      "timestamp": "2025-10-27T16:38:40.555951+00:00",
+      "bid_price": 2.74,
+      "ask_price": 2.82,
+      "bid_size": 5.0,
+      "ask_size": 51.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:23:28.594295+00:00",
+      "price": 2.79,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:39:41.672610",
+    "quote": {
+      "timestamp": "2025-10-27T16:39:41.525252+00:00",
+      "bid_price": 2.72,
+      "ask_price": 2.76,
+      "bid_size": 5.0,
+      "ask_size": 104.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:24:37.096987+00:00",
+      "price": 2.8,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:40:42.055231",
+    "quote": {
+      "timestamp": "2025-10-27T16:40:41.679751+00:00",
+      "bid_price": 2.7,
+      "ask_price": 2.73,
+      "bid_size": 35.0,
+      "ask_size": 81.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:25:37.747944+00:00",
+      "price": 2.74,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:41:42.491529",
+    "quote": {
+      "timestamp": "2025-10-27T16:41:42.092674+00:00",
+      "bid_price": 2.75,
+      "ask_price": 2.79,
+      "bid_size": 4.0,
+      "ask_size": 30.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:26:08.940724+00:00",
+      "price": 2.71,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:42:42.865397",
+    "quote": {
+      "timestamp": "2025-10-27T16:42:42.426184+00:00",
+      "bid_price": 2.73,
+      "ask_price": 2.78,
+      "bid_size": 80.0,
+      "ask_size": 5.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:27:00.518129+00:00",
+      "price": 2.72,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:43:43.228657",
+    "quote": {
+      "timestamp": "2025-10-27T16:43:42.583935+00:00",
+      "bid_price": 2.82,
+      "ask_price": 2.86,
+      "bid_size": 5.0,
+      "ask_size": 50.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:28:11.005842+00:00",
+      "price": 2.71,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:44:43.593058",
+    "quote": {
+      "timestamp": "2025-10-27T16:44:42.304249+00:00",
+      "bid_price": 2.76,
+      "ask_price": 2.89,
+      "bid_size": 157.0,
+      "ask_size": 185.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:29:29.538035+00:00",
+      "price": 2.76,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:45:43.930960",
+    "quote": {
+      "timestamp": "2025-10-27T16:45:42.674536+00:00",
+      "bid_price": 2.8,
+      "ask_price": 2.82,
+      "bid_size": 130.0,
+      "ask_size": 146.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:30:25.597258+00:00",
+      "price": 2.75,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:46:44.291269",
+    "quote": {
+      "timestamp": "2025-10-27T16:46:43.322891+00:00",
+      "bid_price": 2.71,
+      "ask_price": 2.74,
+      "bid_size": 5.0,
+      "ask_size": 168.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:31:42.804451+00:00",
+      "price": 2.78,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:47:44.655392",
+    "quote": {
+      "timestamp": "2025-10-27T16:47:43.730854+00:00",
+      "bid_price": 2.67,
+      "ask_price": 2.72,
+      "bid_size": 169.0,
+      "ask_size": 180.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:32:23.777063+00:00",
+      "price": 2.73,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:48:44.962015",
+    "quote": {
+      "timestamp": "2025-10-27T16:48:44.082337+00:00",
+      "bid_price": 2.82,
+      "ask_price": 2.85,
+      "bid_size": 5.0,
+      "ask_size": 130.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:33:43.705980+00:00",
+      "price": 2.75,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:49:45.326237",
+    "quote": {
+      "timestamp": "2025-10-27T16:49:44.967738+00:00",
+      "bid_price": 2.74,
+      "ask_price": 2.77,
+      "bid_size": 5.0,
+      "ask_size": 90.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:34:20.543977+00:00",
+      "price": 2.81,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:50:45.735697",
+    "quote": {
+      "timestamp": "2025-10-27T16:50:45.052935+00:00",
+      "bid_price": 2.79,
+      "ask_price": 2.89,
+      "bid_size": 74.0,
+      "ask_size": 82.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:35:27.986947+00:00",
+      "price": 2.78,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:51:46.067808",
+    "quote": {
+      "timestamp": "2025-10-27T16:51:45.899222+00:00",
+      "bid_price": 2.9,
+      "ask_price": 2.95,
+      "bid_size": 71.0,
+      "ask_size": 130.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:36:45.593389+00:00",
+      "price": 2.86,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:52:46.438530",
+    "quote": {
+      "timestamp": "2025-10-27T16:52:46.353299+00:00",
+      "bid_price": 2.86,
+      "ask_price": 2.93,
+      "bid_size": 180.0,
+      "ask_size": 30.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:37:38.640411+00:00",
+      "price": 2.85,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:53:46.828896",
+    "quote": {
+      "timestamp": "2025-10-27T16:53:45.761489+00:00",
+      "bid_price": 2.93,
+      "ask_price": 2.95,
+      "bid_size": 5.0,
+      "ask_size": 130.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:38:36.179395+00:00",
+      "price": 2.92,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:54:47.215734",
+    "quote": {
+      "timestamp": "2025-10-27T16:54:46.823460+00:00",
+      "bid_price": 2.88,
+      "ask_price": 2.93,
+      "bid_size": 180.0,
+      "ask_size": 15.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:38:36.179395+00:00",
+      "price": 2.92,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:55:47.617497",
+    "quote": {
+      "timestamp": "2025-10-27T16:55:47.404069+00:00",
+      "bid_price": 2.92,
+      "ask_price": 2.93,
+      "bid_size": 180.0,
+      "ask_size": 165.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:40:21.770996+00:00",
+      "price": 2.88,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:56:47.968351",
+    "quote": {
+      "timestamp": "2025-10-27T16:56:47.750685+00:00",
+      "bid_price": 2.85,
+      "ask_price": 2.96,
+      "bid_size": 5.0,
+      "ask_size": 130.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:41:43.290800+00:00",
+      "price": 2.91,
+      "size": 10.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:57:48.341767",
+    "quote": {
+      "timestamp": "2025-10-27T16:57:48.146794+00:00",
+      "bid_price": 2.85,
+      "ask_price": 2.97,
+      "bid_size": 132.0,
+      "ask_size": 166.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:42:31.734926+00:00",
+      "price": 2.9,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:58:48.701186",
+    "quote": {
+      "timestamp": "2025-10-27T16:58:48.171839+00:00",
+      "bid_price": 2.86,
+      "ask_price": 2.91,
+      "bid_size": 5.0,
+      "ask_size": 130.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:43:10.374131+00:00",
+      "price": 2.84,
+      "size": 2.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T16:59:49.023673",
+    "quote": {
+      "timestamp": "2025-10-27T16:59:48.345557+00:00",
+      "bid_price": 2.89,
+      "ask_price": 2.93,
+      "bid_size": 125.0,
+      "ask_size": 165.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:44:11.321088+00:00",
+      "price": 2.83,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:00:49.399489",
+    "quote": {
+      "timestamp": "2025-10-27T17:00:48.969038+00:00",
+      "bid_price": 2.74,
+      "ask_price": 2.85,
+      "bid_size": 130.0,
+      "ask_size": 182.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:44:11.321088+00:00",
+      "price": 2.83,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:01:49.764172",
+    "quote": {
+      "timestamp": "2025-10-27T17:01:49.041987+00:00",
+      "bid_price": 2.84,
+      "ask_price": 2.94,
+      "bid_size": 3.0,
+      "ask_size": 30.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:46:20.761254+00:00",
+      "price": 2.8,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:02:50.136070",
+    "quote": {
+      "timestamp": "2025-10-27T17:02:49.652262+00:00",
+      "bid_price": 2.84,
+      "ask_price": 2.89,
+      "bid_size": 174.0,
+      "ask_size": 170.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:47:45.479017+00:00",
+      "price": 2.83,
+      "size": 8.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:03:50.459444",
+    "quote": {
+      "timestamp": "2025-10-27T17:03:50.391640+00:00",
+      "bid_price": 2.86,
+      "ask_price": 2.93,
+      "bid_size": 180.0,
+      "ask_size": 5.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:47:45.479017+00:00",
+      "price": 2.83,
+      "size": 8.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:04:50.822264",
+    "quote": {
+      "timestamp": "2025-10-27T17:04:49.963965+00:00",
+      "bid_price": 2.84,
+      "ask_price": 2.92,
+      "bid_size": 130.0,
+      "ask_size": 165.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:49:49.344765+00:00",
+      "price": 2.82,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:05:51.198150",
+    "quote": {
+      "timestamp": "2025-10-27T17:05:50.640452+00:00",
+      "bid_price": 2.8,
+      "ask_price": 2.9,
+      "bid_size": 5.0,
+      "ask_size": 165.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:50:35.245674+00:00",
+      "price": 2.83,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:06:51.703487",
+    "quote": {
+      "timestamp": "2025-10-27T17:06:50.894859+00:00",
+      "bid_price": 2.83,
+      "ask_price": 2.86,
+      "bid_size": 198.0,
+      "ask_size": 180.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:51:43.202580+00:00",
+      "price": 2.91,
+      "size": 2.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:07:52.065530",
+    "quote": {
+      "timestamp": "2025-10-27T17:07:51.251940+00:00",
+      "bid_price": 2.78,
+      "ask_price": 2.83,
+      "bid_size": 205.0,
+      "ask_size": 5.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:52:51.072413+00:00",
+      "price": 2.86,
+      "size": 3.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:08:52.427708",
+    "quote": {
+      "timestamp": "2025-10-27T17:08:51.708994+00:00",
+      "bid_price": 2.7,
+      "ask_price": 2.84,
+      "bid_size": 102.0,
+      "ask_size": 171.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:53:42.557808+00:00",
+      "price": 2.86,
+      "size": 10.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:09:52.746813",
+    "quote": {
+      "timestamp": "2025-10-27T17:09:52.348068+00:00",
+      "bid_price": 2.73,
+      "ask_price": 2.77,
+      "bid_size": 72.0,
+      "ask_size": 134.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:54:45.417855+00:00",
+      "price": 2.71,
+      "size": 3.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:10:53.125997",
+    "quote": {
+      "timestamp": "2025-10-27T17:10:52.687798+00:00",
+      "bid_price": 2.64,
+      "ask_price": 2.68,
+      "bid_size": 30.0,
+      "ask_size": 108.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:55:50.893160+00:00",
+      "price": 2.61,
+      "size": 50.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:11:53.461597",
+    "quote": {
+      "timestamp": "2025-10-27T17:11:53.200735+00:00",
+      "bid_price": 2.66,
+      "ask_price": 2.75,
+      "bid_size": 5.0,
+      "ask_size": 123.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:56:17.789395+00:00",
+      "price": 2.72,
+      "size": 10.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:12:53.826865",
+    "quote": {
+      "timestamp": "2025-10-27T17:12:53.555997+00:00",
+      "bid_price": 2.7,
+      "ask_price": 2.74,
+      "bid_size": 86.0,
+      "ask_size": 5.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:57:52.792061+00:00",
+      "price": 2.69,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:13:54.185069",
+    "quote": {
+      "timestamp": "2025-10-27T17:13:53.605886+00:00",
+      "bid_price": 2.73,
+      "ask_price": 2.77,
+      "bid_size": 5.0,
+      "ask_size": 169.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:58:35.997797+00:00",
+      "price": 2.76,
+      "size": 2.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:14:54.510643",
+    "quote": {
+      "timestamp": "2025-10-27T17:14:54.027315+00:00",
+      "bid_price": 2.77,
+      "ask_price": 2.81,
+      "bid_size": 190.0,
+      "ask_size": 132.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T16:59:34.527416+00:00",
+      "price": 2.75,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:15:54.820268",
+    "quote": {
+      "timestamp": "2025-10-27T17:15:54.693850+00:00",
+      "bid_price": 2.68,
+      "ask_price": 2.79,
+      "bid_size": 185.0,
+      "ask_size": 193.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:00:50.718339+00:00",
+      "price": 2.79,
+      "size": 3.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:16:55.179319",
+    "quote": {
+      "timestamp": "2025-10-27T17:16:54.487462+00:00",
+      "bid_price": 2.69,
+      "ask_price": 2.74,
+      "bid_size": 5.0,
+      "ask_size": 89.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:01:46.218027+00:00",
+      "price": 2.79,
+      "size": 2.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:17:55.556070",
+    "quote": {
+      "timestamp": "2025-10-27T17:17:55.447445+00:00",
+      "bid_price": 2.57,
+      "ask_price": 2.6,
+      "bid_size": 5.0,
+      "ask_size": 79.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:01:46.218027+00:00",
+      "price": 2.79,
+      "size": 2.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:18:55.916371",
+    "quote": {
+      "timestamp": "2025-10-27T17:18:55.763694+00:00",
+      "bid_price": 2.61,
+      "ask_price": 2.63,
+      "bid_size": 80.0,
+      "ask_size": 5.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:01:46.218027+00:00",
+      "price": 2.79,
+      "size": 2.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:19:56.251159",
+    "quote": {
+      "timestamp": "2025-10-27T17:19:56.097159+00:00",
+      "bid_price": 2.56,
+      "ask_price": 2.59,
+      "bid_size": 102.0,
+      "ask_size": 81.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:04:36.713832+00:00",
+      "price": 2.61,
+      "size": 5.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:20:56.601033",
+    "quote": {
+      "timestamp": "2025-10-27T17:20:55.943277+00:00",
+      "bid_price": 2.44,
+      "ask_price": 2.57,
+      "bid_size": 90.0,
+      "ask_size": 81.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:05:14.876711+00:00",
+      "price": 2.54,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:21:56.987883",
+    "quote": {
+      "timestamp": "2025-10-27T17:21:56.797077+00:00",
+      "bid_price": 2.35,
+      "ask_price": 2.38,
+      "bid_size": 110.0,
+      "ask_size": 121.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:06:56.403389+00:00",
+      "price": 2.43,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:22:57.338275",
+    "quote": {
+      "timestamp": "2025-10-27T17:22:57.147437+00:00",
+      "bid_price": 2.39,
+      "ask_price": 2.5,
+      "bid_size": 87.0,
+      "ask_size": 66.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:07:19.416277+00:00",
+      "price": 2.51,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:23:57.709823",
+    "quote": {
+      "timestamp": "2025-10-27T17:23:56.886310+00:00",
+      "bid_price": 2.4,
+      "ask_price": 2.46,
+      "bid_size": 105.0,
+      "ask_size": 30.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:08:50.894533+00:00",
+      "price": 2.45,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:24:58.121729",
+    "quote": {
+      "timestamp": "2025-10-27T17:24:57.483834+00:00",
+      "bid_price": 2.41,
+      "ask_price": 2.42,
+      "bid_size": 49.0,
+      "ask_size": 5.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:09:49.667243+00:00",
+      "price": 2.45,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:25:58.470416",
+    "quote": {
+      "timestamp": "2025-10-27T17:25:58.395206+00:00",
+      "bid_price": 2.36,
+      "ask_price": 2.39,
+      "bid_size": 204.0,
+      "ask_size": 132.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:10:55.523893+00:00",
+      "price": 2.41,
+      "size": 2.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:26:58.855412",
+    "quote": {
+      "timestamp": "2025-10-27T17:26:58.022487+00:00",
+      "bid_price": 2.52,
+      "ask_price": 2.56,
+      "bid_size": 180.0,
+      "ask_size": 197.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:11:40.495606+00:00",
+      "price": 2.47,
+      "size": 2.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:27:59.212891",
+    "quote": {
+      "timestamp": "2025-10-27T17:27:58.630802+00:00",
+      "bid_price": 2.49,
+      "ask_price": 2.51,
+      "bid_size": 180.0,
+      "ask_size": 5.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:12:26.754012+00:00",
+      "price": 2.58,
+      "size": 2.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:28:59.570933",
+    "quote": {
+      "timestamp": "2025-10-27T17:28:58.771137+00:00",
+      "bid_price": 2.58,
+      "ask_price": 2.59,
+      "bid_size": 165.0,
+      "ask_size": 5.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:12:26.754012+00:00",
+      "price": 2.58,
+      "size": 2.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:29:59.939223",
+    "quote": {
+      "timestamp": "2025-10-27T17:29:59.433435+00:00",
+      "bid_price": 2.51,
+      "ask_price": 2.54,
+      "bid_size": 165.0,
+      "ask_size": 5.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:14:28.921674+00:00",
+      "price": 2.59,
+      "size": 30.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:31:00.307477",
+    "quote": {
+      "timestamp": "2025-10-27T17:31:00.091834+00:00",
+      "bid_price": 2.5,
+      "ask_price": 2.53,
+      "bid_size": 49.0,
+      "ask_size": 5.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:15:31.754221+00:00",
+      "price": 2.6,
+      "size": 20.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:32:00.640241",
+    "quote": {
+      "timestamp": "2025-10-27T17:31:59.904759+00:00",
+      "bid_price": 2.49,
+      "ask_price": 2.52,
+      "bid_size": 80.0,
+      "ask_size": 100.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:16:22.912170+00:00",
+      "price": 2.53,
+      "size": 4.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:33:01.120515",
+    "quote": {
+      "timestamp": "2025-10-27T17:33:00.809731+00:00",
+      "bid_price": 2.64,
+      "ask_price": 2.67,
+      "bid_size": 180.0,
+      "ask_size": 31.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:17:54.776651+00:00",
+      "price": 2.6,
+      "size": 2.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:34:01.439427",
+    "quote": {
+      "timestamp": "2025-10-27T17:34:00.547736+00:00",
+      "bid_price": 2.72,
+      "ask_price": 2.75,
+      "bid_size": 5.0,
+      "ask_size": 31.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:18:25.986097+00:00",
+      "price": 2.69,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:35:01.755967",
+    "quote": {
+      "timestamp": "2025-10-27T17:35:00.796739+00:00",
+      "bid_price": 2.73,
+      "ask_price": 2.76,
+      "bid_size": 5.0,
+      "ask_size": 174.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:19:20.655957+00:00",
+      "price": 2.62,
+      "size": 3.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:36:02.121425",
+    "quote": {
+      "timestamp": "2025-10-27T17:36:02.023934+00:00",
+      "bid_price": 2.64,
+      "ask_price": 2.66,
+      "bid_size": 51.0,
+      "ask_size": 5.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:20:56.475005+00:00",
+      "price": 2.59,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:37:02.447067",
+    "quote": {
+      "timestamp": "2025-10-27T17:37:01.343462+00:00",
+      "bid_price": 2.7,
+      "ask_price": 2.8,
+      "bid_size": 150.0,
+      "ask_size": 3.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:22:00.224452+00:00",
+      "price": 2.75,
+      "size": 3.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:38:02.761851",
+    "quote": {
+      "timestamp": "2025-10-27T17:38:02.060090+00:00",
+      "bid_price": 2.71,
+      "ask_price": 2.8,
+      "bid_size": 5.0,
+      "ask_size": 100.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:22:24.448081+00:00",
+      "price": 2.72,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:39:03.083195",
+    "quote": {
+      "timestamp": "2025-10-27T17:39:02.615233+00:00",
+      "bid_price": 2.73,
+      "ask_price": 2.75,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:23:54.589380+00:00",
+      "price": 2.73,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:40:03.416940",
+    "quote": {
+      "timestamp": "2025-10-27T17:40:02.596158+00:00",
+      "bid_price": 2.86,
+      "ask_price": 2.9,
+      "bid_size": 150.0,
+      "ask_size": 5.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:24:53.483514+00:00",
+      "price": 2.87,
+      "size": 5.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:41:03.794686",
+    "quote": {
+      "timestamp": "2025-10-27T17:41:02.319598+00:00",
+      "bid_price": 2.84,
+      "ask_price": 2.88,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:26:01.354937+00:00",
+      "price": 2.87,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:42:04.187001",
+    "quote": {
+      "timestamp": "2025-10-27T17:42:04.096354+00:00",
+      "bid_price": 2.78,
+      "ask_price": 2.8,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:26:56.871700+00:00",
+      "price": 2.8,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:43:04.569177",
+    "quote": {
+      "timestamp": "2025-10-27T17:43:03.910486+00:00",
+      "bid_price": 2.92,
+      "ask_price": 3.01,
+      "bid_size": 5.0,
+      "ask_size": 152.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:27:49.893196+00:00",
+      "price": 2.88,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:44:04.949864",
+    "quote": {
+      "timestamp": "2025-10-27T17:44:03.391398+00:00",
+      "bid_price": 2.95,
+      "ask_price": 3.04,
+      "bid_size": 4.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:28:52.294695+00:00",
+      "price": 2.99,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:45:05.311524",
+    "quote": {
+      "timestamp": "2025-10-27T17:45:04.630983+00:00",
+      "bid_price": 3.02,
+      "ask_price": 3.04,
+      "bid_size": 3.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:30:00.587035+00:00",
+      "price": 3.03,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:46:05.727981",
+    "quote": {
+      "timestamp": "2025-10-27T17:46:05.162650+00:00",
+      "bid_price": 2.96,
+      "ask_price": 3.05,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:30:46.720294+00:00",
+      "price": 3.04,
+      "size": 4.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:47:06.102224",
+    "quote": {
+      "timestamp": "2025-10-27T17:46:59.007985+00:00",
+      "bid_price": 2.94,
+      "ask_price": 2.98,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:32:03.326900+00:00",
+      "price": 2.94,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:48:06.418240",
+    "quote": {
+      "timestamp": "2025-10-27T17:48:02.187278+00:00",
+      "bid_price": 2.89,
+      "ask_price": 3.02,
+      "bid_size": 150.0,
+      "ask_size": 32.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:32:48.581579+00:00",
+      "price": 2.96,
+      "size": 2.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:49:06.837171",
+    "quote": {
+      "timestamp": "2025-10-27T17:49:06.143628+00:00",
+      "bid_price": 2.89,
+      "ask_price": 2.93,
+      "bid_size": 21.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:33:59.987371+00:00",
+      "price": 2.95,
+      "size": 5.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:50:07.202058",
+    "quote": {
+      "timestamp": "2025-10-27T17:50:06.104184+00:00",
+      "bid_price": 2.93,
+      "ask_price": 2.99,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:34:37.448562+00:00",
+      "price": 2.98,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:51:07.557636",
+    "quote": {
+      "timestamp": "2025-10-27T17:51:07.000781+00:00",
+      "bid_price": 2.83,
+      "ask_price": 2.93,
+      "bid_size": 102.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:36:01.583495+00:00",
+      "price": 2.82,
+      "size": 20.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:52:07.942664",
+    "quote": {
+      "timestamp": "2025-10-27T17:52:06.512072+00:00",
+      "bid_price": 2.88,
+      "ask_price": 2.93,
+      "bid_size": 106.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:37:06.635647+00:00",
+      "price": 2.88,
+      "size": 10.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:53:08.329466",
+    "quote": {
+      "timestamp": "2025-10-27T17:53:07.302170+00:00",
+      "bid_price": 2.87,
+      "ask_price": 2.93,
+      "bid_size": 102.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:37:44.906548+00:00",
+      "price": 2.85,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:54:08.712116",
+    "quote": {
+      "timestamp": "2025-10-27T17:54:07.912830+00:00",
+      "bid_price": 2.81,
+      "ask_price": 2.87,
+      "bid_size": 20.0,
+      "ask_size": 30.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:38:52.862081+00:00",
+      "price": 2.79,
+      "size": 2.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:55:09.109127",
+    "quote": {
+      "timestamp": "2025-10-27T17:55:07.161284+00:00",
+      "bid_price": 2.85,
+      "ask_price": 2.89,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:40:04.102323+00:00",
+      "price": 2.83,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:56:09.478879",
+    "quote": {
+      "timestamp": "2025-10-27T17:56:08.407033+00:00",
+      "bid_price": 2.97,
+      "ask_price": 3.01,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:41:03.146043+00:00",
+      "price": 2.99,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:57:09.853782",
+    "quote": {
+      "timestamp": "2025-10-27T17:57:08.553843+00:00",
+      "bid_price": 2.99,
+      "ask_price": 3.03,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:42:00.349047+00:00",
+      "price": 2.91,
+      "size": 3.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:58:10.180173",
+    "quote": {
+      "timestamp": "2025-10-27T17:58:09.922696+00:00",
+      "bid_price": 2.98,
+      "ask_price": 3.04,
+      "bid_size": 150.0,
+      "ask_size": 5.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:42:51.650118+00:00",
+      "price": 2.98,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T17:59:10.547786",
+    "quote": {
+      "timestamp": "2025-10-27T17:59:09.536009+00:00",
+      "bid_price": 2.93,
+      "ask_price": 2.98,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:44:01.225846+00:00",
+      "price": 2.97,
+      "size": 5.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:00:10.916615",
+    "quote": {
+      "timestamp": "2025-10-27T18:00:10.398890+00:00",
+      "bid_price": 2.88,
+      "ask_price": 2.95,
+      "bid_size": 146.0,
+      "ask_size": 5.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:44:58.004373+00:00",
+      "price": 2.99,
+      "size": 10.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:01:11.281668",
+    "quote": {
+      "timestamp": "2025-10-27T18:01:10.327811+00:00",
+      "bid_price": 2.94,
+      "ask_price": 3.02,
+      "bid_size": 150.0,
+      "ask_size": 5.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:44:58.004373+00:00",
+      "price": 2.99,
+      "size": 10.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:02:11.662007",
+    "quote": {
+      "timestamp": "2025-10-27T18:02:11.095852+00:00",
+      "bid_price": 2.96,
+      "ask_price": 3.01,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:46:40.340281+00:00",
+      "price": 3.03,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:03:12.017217",
+    "quote": {
+      "timestamp": "2025-10-27T18:03:11.878337+00:00",
+      "bid_price": 2.89,
+      "ask_price": 2.93,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:47:37.518378+00:00",
+      "price": 2.89,
+      "size": 3.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:04:12.339906",
+    "quote": {
+      "timestamp": "2025-10-27T18:04:11.646284+00:00",
+      "bid_price": 2.92,
+      "ask_price": 2.99,
+      "bid_size": 5.0,
+      "ask_size": 1.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:48:52.147562+00:00",
+      "price": 2.92,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:05:12.755261",
+    "quote": {
+      "timestamp": "2025-10-27T18:05:12.146335+00:00",
+      "bid_price": 2.94,
+      "ask_price": 2.99,
+      "bid_size": 150.0,
+      "ask_size": 5.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:50:08.165264+00:00",
+      "price": 2.96,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:06:13.076950",
+    "quote": {
+      "timestamp": "2025-10-27T18:06:07.286828+00:00",
+      "bid_price": 3.0,
+      "ask_price": 3.04,
+      "bid_size": 150.0,
+      "ask_size": 1.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:51:05.789866+00:00",
+      "price": 2.89,
+      "size": 7.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:07:13.571834",
+    "quote": {
+      "timestamp": "2025-10-27T18:07:09.578114+00:00",
+      "bid_price": 2.85,
+      "ask_price": 2.97,
+      "bid_size": 106.0,
+      "ask_size": 102.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:51:05.789866+00:00",
+      "price": 2.89,
+      "size": 7.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:08:13.899940",
+    "quote": {
+      "timestamp": "2025-10-27T18:08:13.295685+00:00",
+      "bid_price": 2.91,
+      "ask_price": 2.98,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:52:59.361629+00:00",
+      "price": 2.87,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:09:14.270850",
+    "quote": {
+      "timestamp": "2025-10-27T18:09:13.335154+00:00",
+      "bid_price": 2.85,
+      "ask_price": 2.9,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:54:10.298032+00:00",
+      "price": 2.86,
+      "size": 12.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:10:14.615606",
+    "quote": {
+      "timestamp": "2025-10-27T18:10:13.731188+00:00",
+      "bid_price": 2.91,
+      "ask_price": 2.96,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:55:00.103813+00:00",
+      "price": 2.91,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:11:15.086412",
+    "quote": {
+      "timestamp": "2025-10-27T18:11:13.177177+00:00",
+      "bid_price": 2.89,
+      "ask_price": 2.97,
+      "bid_size": 102.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:55:37.782563+00:00",
+      "price": 2.95,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:12:15.445319",
+    "quote": {
+      "timestamp": "2025-10-27T18:12:15.226277+00:00",
+      "bid_price": 2.81,
+      "ask_price": 2.94,
+      "bid_size": 150.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:57:06.927496+00:00",
+      "price": 2.9,
+      "size": 3.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:13:15.804522",
+    "quote": {
+      "timestamp": "2025-10-27T18:13:15.030034+00:00",
+      "bid_price": 2.91,
+      "ask_price": 2.95,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:58:01.502230+00:00",
+      "price": 2.96,
+      "size": 5.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:14:16.173376",
+    "quote": {
+      "timestamp": "2025-10-27T18:14:15.286600+00:00",
+      "bid_price": 2.92,
+      "ask_price": 2.93,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T17:59:07.816370+00:00",
+      "price": 2.94,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:15:16.494847",
+    "quote": {
+      "timestamp": "2025-10-27T18:15:15.658983+00:00",
+      "bid_price": 2.87,
+      "ask_price": 2.97,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:00:08.466319+00:00",
+      "price": 2.92,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:16:16.853805",
+    "quote": {
+      "timestamp": "2025-10-27T18:16:16.700785+00:00",
+      "bid_price": 2.89,
+      "ask_price": 2.94,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:00:44.935411+00:00",
+      "price": 2.9,
+      "size": 20.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:17:17.223242",
+    "quote": {
+      "timestamp": "2025-10-27T18:17:16.394906+00:00",
+      "bid_price": 2.92,
+      "ask_price": 2.93,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:02:00.806356+00:00",
+      "price": 2.95,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:18:17.596998",
+    "quote": {
+      "timestamp": "2025-10-27T18:18:17.050639+00:00",
+      "bid_price": 2.85,
+      "ask_price": 2.95,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:03:11.292280+00:00",
+      "price": 2.86,
+      "size": 3.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:19:17.979023",
+    "quote": {
+      "timestamp": "2025-10-27T18:19:17.840636+00:00",
+      "bid_price": 2.92,
+      "ask_price": 3.0,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:03:49.356108+00:00",
+      "price": 2.9,
+      "size": 10.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:20:18.359400",
+    "quote": {
+      "timestamp": "2025-10-27T18:20:17.486703+00:00",
+      "bid_price": 2.95,
+      "ask_price": 3.0,
+      "bid_size": 150.0,
+      "ask_size": 1.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:03:49.356108+00:00",
+      "price": 2.9,
+      "size": 10.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:21:18.715848",
+    "quote": {
+      "timestamp": "2025-10-27T18:21:18.522090+00:00",
+      "bid_price": 2.92,
+      "ask_price": 3.01,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:05:29.587367+00:00",
+      "price": 3.0,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:22:19.169208",
+    "quote": {
+      "timestamp": "2025-10-27T18:22:18.725996+00:00",
+      "bid_price": 2.93,
+      "ask_price": 3.02,
+      "bid_size": 5.0,
+      "ask_size": 4.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:05:29.587367+00:00",
+      "price": 3.0,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:23:19.503003",
+    "quote": {
+      "timestamp": "2025-10-27T18:23:18.688988+00:00",
+      "bid_price": 2.9,
+      "ask_price": 3.02,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:07:34.168462+00:00",
+      "price": 3.0,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:24:19.871065",
+    "quote": {
+      "timestamp": "2025-10-27T18:24:19.050374+00:00",
+      "bid_price": 2.9,
+      "ask_price": 2.95,
+      "bid_size": 150.0,
+      "ask_size": 102.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:08:53.605020+00:00",
+      "price": 2.91,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:25:20.285233",
+    "quote": {
+      "timestamp": "2025-10-27T18:25:19.431407+00:00",
+      "bid_price": 2.8,
+      "ask_price": 2.91,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:10:15.264683+00:00",
+      "price": 2.86,
+      "size": 2.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:26:20.659707",
+    "quote": {
+      "timestamp": "2025-10-27T18:26:19.690234+00:00",
+      "bid_price": 2.86,
+      "ask_price": 2.91,
+      "bid_size": 150.0,
+      "ask_size": 5.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:11:13.421600+00:00",
+      "price": 2.96,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:27:21.050181",
+    "quote": {
+      "timestamp": "2025-10-27T18:27:20.781139+00:00",
+      "bid_price": 2.84,
+      "ask_price": 2.97,
+      "bid_size": 150.0,
+      "ask_size": 5.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:12:19.358551+00:00",
+      "price": 2.88,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:28:21.412891",
+    "quote": {
+      "timestamp": "2025-10-27T18:28:20.862247+00:00",
+      "bid_price": 2.84,
+      "ask_price": 2.92,
+      "bid_size": 150.0,
+      "ask_size": 5.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:12:19.358551+00:00",
+      "price": 2.88,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:29:21.783151",
+    "quote": {
+      "timestamp": "2025-10-27T18:29:20.945836+00:00",
+      "bid_price": 2.91,
+      "ask_price": 2.96,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:14:07.318709+00:00",
+      "price": 2.92,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:30:22.125526",
+    "quote": {
+      "timestamp": "2025-10-27T18:30:21.645789+00:00",
+      "bid_price": 2.95,
+      "ask_price": 2.97,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:14:07.318709+00:00",
+      "price": 2.92,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:31:22.488660",
+    "quote": {
+      "timestamp": "2025-10-27T18:31:21.855339+00:00",
+      "bid_price": 2.96,
+      "ask_price": 3.0,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:14:07.318709+00:00",
+      "price": 2.92,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:32:22.810677",
+    "quote": {
+      "timestamp": "2025-10-27T18:32:22.547107+00:00",
+      "bid_price": 2.9,
+      "ask_price": 3.03,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:14:07.318709+00:00",
+      "price": 2.92,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:33:23.178561",
+    "quote": {
+      "timestamp": "2025-10-27T18:33:22.816816+00:00",
+      "bid_price": 3.0,
+      "ask_price": 3.07,
+      "bid_size": 37.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:14:07.318709+00:00",
+      "price": 2.92,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:34:23.518720",
+    "quote": {
+      "timestamp": "2025-10-27T18:34:21.125194+00:00",
+      "bid_price": 2.97,
+      "ask_price": 3.01,
+      "bid_size": 5.0,
+      "ask_size": 1.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:19:07.463381+00:00",
+      "price": 2.98,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:35:23.891647",
+    "quote": {
+      "timestamp": "2025-10-27T18:35:23.304252+00:00",
+      "bid_price": 2.99,
+      "ask_price": 3.0,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:20:10.160921+00:00",
+      "price": 3.0,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:36:24.209530",
+    "quote": {
+      "timestamp": "2025-10-27T18:36:22.786142+00:00",
+      "bid_price": 3.06,
+      "ask_price": 3.1,
+      "bid_size": 150.0,
+      "ask_size": 1.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:21:15.061146+00:00",
+      "price": 3.03,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:37:24.558691",
+    "quote": {
+      "timestamp": "2025-10-27T18:37:23.693063+00:00",
+      "bid_price": 3.06,
+      "ask_price": 3.08,
+      "bid_size": 81.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:21:54.956219+00:00",
+      "price": 3.0,
+      "size": 18.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:38:24.927895",
+    "quote": {
+      "timestamp": "2025-10-27T18:38:24.337566+00:00",
+      "bid_price": 2.92,
+      "ask_price": 2.98,
+      "bid_size": 100.0,
+      "ask_size": 152.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:23:10.622361+00:00",
+      "price": 2.95,
+      "size": 99.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:39:25.330820",
+    "quote": {
+      "timestamp": "2025-10-27T18:39:25.178213+00:00",
+      "bid_price": 2.95,
+      "ask_price": 3.07,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:24:22.839562+00:00",
+      "price": 3.03,
+      "size": 20.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:40:25.698132",
+    "quote": {
+      "timestamp": "2025-10-27T18:40:24.530665+00:00",
+      "bid_price": 2.98,
+      "ask_price": 3.07,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:25:22.151806+00:00",
+      "price": 2.94,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:41:26.068507",
+    "quote": {
+      "timestamp": "2025-10-27T18:41:25.521355+00:00",
+      "bid_price": 2.98,
+      "ask_price": 3.0,
+      "bid_size": 5.0,
+      "ask_size": 1.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:16.386770+00:00",
+      "price": 2.96,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:42:26.444603",
+    "quote": {
+      "timestamp": "2025-10-27T18:42:26.265915+00:00",
+      "bid_price": 3.0,
+      "ask_price": 3.07,
+      "bid_size": 100.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:26:50.495230+00:00",
+      "price": 3.0,
+      "size": 5.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:43:26.797623",
+    "quote": {
+      "timestamp": "2025-10-27T18:43:20.311423+00:00",
+      "bid_price": 3.09,
+      "ask_price": 3.11,
+      "bid_size": 3.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:28:09.336966+00:00",
+      "price": 3.12,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:44:27.141968",
+    "quote": {
+      "timestamp": "2025-10-27T18:44:27.130406+00:00",
+      "bid_price": 3.11,
+      "ask_price": 3.16,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:28:09.336966+00:00",
+      "price": 3.12,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:45:27.501930",
+    "quote": {
+      "timestamp": "2025-10-27T18:45:26.716394+00:00",
+      "bid_price": 3.15,
+      "ask_price": 3.19,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:30:07.141006+00:00",
+      "price": 3.05,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:46:27.871364",
+    "quote": {
+      "timestamp": "2025-10-27T18:46:27.389408+00:00",
+      "bid_price": 3.14,
+      "ask_price": 3.2,
+      "bid_size": 150.0,
+      "ask_size": 100.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:30:59.467516+00:00",
+      "price": 3.06,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:47:28.241378",
+    "quote": {
+      "timestamp": "2025-10-27T18:47:26.439439+00:00",
+      "bid_price": 3.04,
+      "ask_price": 3.19,
+      "bid_size": 106.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:32:19.343306+00:00",
+      "price": 3.14,
+      "size": 4.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:48:28.679992",
+    "quote": {
+      "timestamp": "2025-10-27T18:48:28.494136+00:00",
+      "bid_price": 3.13,
+      "ask_price": 3.18,
+      "bid_size": 10.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:33:23.293507+00:00",
+      "price": 3.07,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:49:29.129314",
+    "quote": {
+      "timestamp": "2025-10-27T18:49:28.571300+00:00",
+      "bid_price": 3.03,
+      "ask_price": 3.12,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:34:05.132363+00:00",
+      "price": 3.16,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:50:29.502798",
+    "quote": {
+      "timestamp": "2025-10-27T18:50:27.050534+00:00",
+      "bid_price": 3.11,
+      "ask_price": 3.16,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:35:23.533478+00:00",
+      "price": 3.05,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:51:29.836681",
+    "quote": {
+      "timestamp": "2025-10-27T18:51:29.026885+00:00",
+      "bid_price": 3.14,
+      "ask_price": 3.18,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:36:26.994142+00:00",
+      "price": 3.11,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:52:30.193954",
+    "quote": {
+      "timestamp": "2025-10-27T18:52:28.946604+00:00",
+      "bid_price": 3.04,
+      "ask_price": 3.08,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:36:46.108182+00:00",
+      "price": 3.13,
+      "size": 3.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:53:30.569904",
+    "quote": {
+      "timestamp": "2025-10-27T18:53:29.835873+00:00",
+      "bid_price": 3.01,
+      "ask_price": 3.05,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:38:26.229985+00:00",
+      "price": 3.01,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:54:30.940106",
+    "quote": {
+      "timestamp": "2025-10-27T18:54:29.986051+00:00",
+      "bid_price": 3.01,
+      "ask_price": 3.15,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:39:29.876467+00:00",
+      "price": 3.07,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:55:31.314293",
+    "quote": {
+      "timestamp": "2025-10-27T18:55:30.265838+00:00",
+      "bid_price": 3.17,
+      "ask_price": 3.23,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:39:53.327209+00:00",
+      "price": 3.03,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:56:31.663994",
+    "quote": {
+      "timestamp": "2025-10-27T18:56:30.943703+00:00",
+      "bid_price": 3.21,
+      "ask_price": 3.26,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:40:47.595963+00:00",
+      "price": 3.2,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:57:31.998775",
+    "quote": {
+      "timestamp": "2025-10-27T18:57:31.302634+00:00",
+      "bid_price": 3.12,
+      "ask_price": 3.28,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:42:15.893973+00:00",
+      "price": 3.15,
+      "size": 28.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:58:32.383072",
+    "quote": {
+      "timestamp": "2025-10-27T18:58:31.034715+00:00",
+      "bid_price": 3.2,
+      "ask_price": 3.24,
+      "bid_size": 3.0,
+      "ask_size": 5.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:43:13.086122+00:00",
+      "price": 3.16,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T18:59:32.796368",
+    "quote": {
+      "timestamp": "2025-10-27T18:59:32.720398+00:00",
+      "bid_price": 3.1,
+      "ask_price": 3.22,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:44:14.649982+00:00",
+      "price": 3.21,
+      "size": 26.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:00:33.180301",
+    "quote": {
+      "timestamp": "2025-10-27T19:00:32.947188+00:00",
+      "bid_price": 3.05,
+      "ask_price": 3.14,
+      "bid_size": 100.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:45:14.304880+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:01:33.573538",
+    "quote": {
+      "timestamp": "2025-10-27T19:01:30.609090+00:00",
+      "bid_price": 3.14,
+      "ask_price": 3.15,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:46:13.523719+00:00",
+      "price": 3.12,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:02:33.901447",
+    "quote": {
+      "timestamp": "2025-10-27T19:02:33.129693+00:00",
+      "bid_price": 3.05,
+      "ask_price": 3.11,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:47:23.280283+00:00",
+      "price": 3.15,
+      "size": 10.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:03:34.271244",
+    "quote": {
+      "timestamp": "2025-10-27T19:03:33.390639+00:00",
+      "bid_price": 3.08,
+      "ask_price": 3.12,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:47:23.280283+00:00",
+      "price": 3.15,
+      "size": 10.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:04:34.637359",
+    "quote": {
+      "timestamp": "2025-10-27T19:04:34.032845+00:00",
+      "bid_price": 3.11,
+      "ask_price": 3.12,
+      "bid_size": 150.0,
+      "ask_size": 5.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:49:26.010932+00:00",
+      "price": 3.05,
+      "size": 6.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:05:35.007716",
+    "quote": {
+      "timestamp": "2025-10-27T19:05:34.085636+00:00",
+      "bid_price": 3.11,
+      "ask_price": 3.12,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:49:36.236490+00:00",
+      "price": 3.1,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:06:35.389483",
+    "quote": {
+      "timestamp": "2025-10-27T19:06:35.188800+00:00",
+      "bid_price": 3.15,
+      "ask_price": 3.19,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:49:36.236490+00:00",
+      "price": 3.1,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:07:35.917648",
+    "quote": {
+      "timestamp": "2025-10-27T19:07:35.304746+00:00",
+      "bid_price": 3.07,
+      "ask_price": 3.19,
+      "bid_size": 150.0,
+      "ask_size": 5.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:51:58.299855+00:00",
+      "price": 3.12,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:08:36.279993",
+    "quote": {
+      "timestamp": "2025-10-27T19:08:35.192038+00:00",
+      "bid_price": 3.19,
+      "ask_price": 3.23,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:53:04.375677+00:00",
+      "price": 3.05,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:09:36.641081",
+    "quote": {
+      "timestamp": "2025-10-27T19:09:35.538238+00:00",
+      "bid_price": 3.16,
+      "ask_price": 3.29,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:54:15.175886+00:00",
+      "price": 3.24,
+      "size": 10.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:10:36.957381",
+    "quote": {
+      "timestamp": "2025-10-27T19:10:35.973039+00:00",
+      "bid_price": 3.26,
+      "ask_price": 3.31,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:55:23.946034+00:00",
+      "price": 3.28,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:11:37.334059",
+    "quote": {
+      "timestamp": "2025-10-27T19:11:36.702237+00:00",
+      "bid_price": 3.21,
+      "ask_price": 3.24,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:56:37.157595+00:00",
+      "price": 3.21,
+      "size": 3.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:12:37.728384",
+    "quote": {
+      "timestamp": "2025-10-27T19:12:34.375822+00:00",
+      "bid_price": 3.15,
+      "ask_price": 3.3,
+      "bid_size": 2.0,
+      "ask_size": 32.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:57:12.376497+00:00",
+      "price": 3.26,
+      "size": 2.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:13:38.033674",
+    "quote": {
+      "timestamp": "2025-10-27T19:13:34.895776+00:00",
+      "bid_price": 3.17,
+      "ask_price": 3.25,
+      "bid_size": 1.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:58:33.946586+00:00",
+      "price": 3.18,
+      "size": 17.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:14:38.366395",
+    "quote": {
+      "timestamp": "2025-10-27T19:14:37.884550+00:00",
+      "bid_price": 3.15,
+      "ask_price": 3.19,
+      "bid_size": 150.0,
+      "ask_size": 5.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T18:59:17.536871+00:00",
+      "price": 3.22,
+      "size": 7.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:15:38.688424",
+    "quote": {
+      "timestamp": "2025-10-27T19:15:38.221597+00:00",
+      "bid_price": 3.14,
+      "ask_price": 3.17,
+      "bid_size": 150.0,
+      "ask_size": 1.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:00:03.131691+00:00",
+      "price": 3.15,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:16:39.050552",
+    "quote": {
+      "timestamp": "2025-10-27T19:16:38.529887+00:00",
+      "bid_price": 3.1,
+      "ask_price": 3.17,
+      "bid_size": 150.0,
+      "ask_size": 5.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:00:48.925524+00:00",
+      "price": 3.08,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:17:39.368054",
+    "quote": {
+      "timestamp": "2025-10-27T19:17:38.929705+00:00",
+      "bid_price": 3.02,
+      "ask_price": 3.06,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:01:59.149414+00:00",
+      "price": 3.12,
+      "size": 2.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:18:39.760638",
+    "quote": {
+      "timestamp": "2025-10-27T19:18:39.701831+00:00",
+      "bid_price": 3.08,
+      "ask_price": 3.13,
+      "bid_size": 1.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:02:53.708248+00:00",
+      "price": 3.09,
+      "size": 2.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:19:40.130761",
+    "quote": {
+      "timestamp": "2025-10-27T19:19:36.278862+00:00",
+      "bid_price": 3.06,
+      "ask_price": 3.1,
+      "bid_size": 150.0,
+      "ask_size": 21.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:04:04.533893+00:00",
+      "price": 3.1,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:20:40.539575",
+    "quote": {
+      "timestamp": "2025-10-27T19:20:40.085986+00:00",
+      "bid_price": 3.08,
+      "ask_price": 3.11,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:05:34.977211+00:00",
+      "price": 3.11,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:21:40.954391",
+    "quote": {
+      "timestamp": "2025-10-27T19:21:40.553576+00:00",
+      "bid_price": 3.12,
+      "ask_price": 3.18,
+      "bid_size": 150.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:05:34.977211+00:00",
+      "price": 3.11,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:22:41.402160",
+    "quote": {
+      "timestamp": "2025-10-27T19:22:40.746636+00:00",
+      "bid_price": 3.05,
+      "ask_price": 3.17,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:06:52.666144+00:00",
+      "price": 3.12,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:23:41.761138",
+    "quote": {
+      "timestamp": "2025-10-27T19:23:41.525206+00:00",
+      "bid_price": 3.09,
+      "ask_price": 3.15,
+      "bid_size": 102.0,
+      "ask_size": 25.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:08:27.368705+00:00",
+      "price": 3.17,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:24:42.110383",
+    "quote": {
+      "timestamp": "2025-10-27T19:24:40.189257+00:00",
+      "bid_price": 3.04,
+      "ask_price": 3.16,
+      "bid_size": 33.0,
+      "ask_size": 25.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:09:17.179773+00:00",
+      "price": 3.16,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:25:42.465712",
+    "quote": {
+      "timestamp": "2025-10-27T19:25:42.414000+00:00",
+      "bid_price": 3.16,
+      "ask_price": 3.25,
+      "bid_size": 122.0,
+      "ask_size": 32.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:10:34.121270+00:00",
+      "price": 3.13,
+      "size": 10.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:26:42.830549",
+    "quote": {
+      "timestamp": "2025-10-27T19:26:42.002010+00:00",
+      "bid_price": 3.24,
+      "ask_price": 3.28,
+      "bid_size": 100.0,
+      "ask_size": 57.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:11:28.093672+00:00",
+      "price": 3.25,
+      "size": 10.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:27:43.145026",
+    "quote": {
+      "timestamp": "2025-10-27T19:27:42.809127+00:00",
+      "bid_price": 3.11,
+      "ask_price": 3.27,
+      "bid_size": 121.0,
+      "ask_size": 57.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:12:27.674568+00:00",
+      "price": 3.22,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:28:43.522931",
+    "quote": {
+      "timestamp": "2025-10-27T19:28:43.063413+00:00",
+      "bid_price": 3.11,
+      "ask_price": 3.26,
+      "bid_size": 21.0,
+      "ask_size": 57.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:12:27.674568+00:00",
+      "price": 3.22,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:29:43.920467",
+    "quote": {
+      "timestamp": "2025-10-27T19:29:42.316758+00:00",
+      "bid_price": 3.21,
+      "ask_price": 3.22,
+      "bid_size": 38.0,
+      "ask_size": 32.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:14:03.788634+00:00",
+      "price": 3.18,
+      "size": 4.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:30:44.270100",
+    "quote": {
+      "timestamp": "2025-10-27T19:30:43.423240+00:00",
+      "bid_price": 3.24,
+      "ask_price": 3.34,
+      "bid_size": 33.0,
+      "ask_size": 52.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:15:43.994809+00:00",
+      "price": 3.24,
+      "size": 30.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:31:44.652102",
+    "quote": {
+      "timestamp": "2025-10-27T19:31:42.769564+00:00",
+      "bid_price": 3.33,
+      "ask_price": 3.39,
+      "bid_size": 121.0,
+      "ask_size": 21.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:16:32.427076+00:00",
+      "price": 3.34,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:32:45.047183",
+    "quote": {
+      "timestamp": "2025-10-27T19:32:42.588225+00:00",
+      "bid_price": 3.29,
+      "ask_price": 3.4,
+      "bid_size": 121.0,
+      "ask_size": 52.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:16:32.427076+00:00",
+      "price": 3.34,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:33:45.417821",
+    "quote": {
+      "timestamp": "2025-10-27T19:33:44.864366+00:00",
+      "bid_price": 3.33,
+      "ask_price": 3.39,
+      "bid_size": 32.0,
+      "ask_size": 52.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:18:42.141351+00:00",
+      "price": 3.28,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:34:45.814087",
+    "quote": {
+      "timestamp": "2025-10-27T19:34:44.237727+00:00",
+      "bid_price": 3.26,
+      "ask_price": 3.29,
+      "bid_size": 33.0,
+      "ask_size": 52.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:19:44.910255+00:00",
+      "price": 3.26,
+      "size": 3.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:35:46.129763",
+    "quote": {
+      "timestamp": "2025-10-27T19:35:45.730391+00:00",
+      "bid_price": 3.39,
+      "ask_price": 3.41,
+      "bid_size": 21.0,
+      "ask_size": 32.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:20:26.970539+00:00",
+      "price": 3.27,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:36:46.526199",
+    "quote": {
+      "timestamp": "2025-10-27T19:36:46.339337+00:00",
+      "bid_price": 3.28,
+      "ask_price": 3.46,
+      "bid_size": 32.0,
+      "ask_size": 32.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:20:26.970539+00:00",
+      "price": 3.27,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:37:46.894341",
+    "quote": {
+      "timestamp": "2025-10-27T19:37:46.704081+00:00",
+      "bid_price": 3.71,
+      "ask_price": 3.77,
+      "bid_size": 77.0,
+      "ask_size": 25.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:22:38.835686+00:00",
+      "price": 3.73,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:38:47.270496",
+    "quote": {
+      "timestamp": "2025-10-27T19:38:46.489385+00:00",
+      "bid_price": 3.68,
+      "ask_price": 3.77,
+      "bid_size": 5.0,
+      "ask_size": 50.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:23:15.888399+00:00",
+      "price": 3.58,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:39:47.648576",
+    "quote": {
+      "timestamp": "2025-10-27T19:39:46.977899+00:00",
+      "bid_price": 3.67,
+      "ask_price": 3.74,
+      "bid_size": 29.0,
+      "ask_size": 5.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:23:15.888399+00:00",
+      "price": 3.58,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:40:48.017515",
+    "quote": {
+      "timestamp": "2025-10-27T19:40:47.118360+00:00",
+      "bid_price": 3.57,
+      "ask_price": 3.69,
+      "bid_size": 30.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:25:24.012353+00:00",
+      "price": 3.71,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:41:48.385807",
+    "quote": {
+      "timestamp": "2025-10-27T19:41:47.920581+00:00",
+      "bid_price": 3.56,
+      "ask_price": 3.69,
+      "bid_size": 129.0,
+      "ask_size": 115.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:26:27.725022+00:00",
+      "price": 3.54,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:42:48.726122",
+    "quote": {
+      "timestamp": "2025-10-27T19:42:48.118107+00:00",
+      "bid_price": 3.6,
+      "ask_price": 3.7,
+      "bid_size": 5.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:27:04.191533+00:00",
+      "price": 3.54,
+      "size": 2.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:43:49.068351",
+    "quote": {
+      "timestamp": "2025-10-27T19:43:48.079394+00:00",
+      "bid_price": 3.69,
+      "ask_price": 3.74,
+      "bid_size": 1.0,
+      "ask_size": 156.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:28:46.876407+00:00",
+      "price": 3.61,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:44:49.395321",
+    "quote": {
+      "timestamp": "2025-10-27T19:44:48.415035+00:00",
+      "bid_price": 3.67,
+      "ask_price": 3.74,
+      "bid_size": 150.0,
+      "ask_size": 5.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:29:13.758412+00:00",
+      "price": 3.6,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:45:49.733881",
+    "quote": {
+      "timestamp": "2025-10-27T19:45:47.518708+00:00",
+      "bid_price": 3.64,
+      "ask_price": 3.7,
+      "bid_size": 102.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:30:34.522570+00:00",
+      "price": 3.6,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:46:50.069351",
+    "quote": {
+      "timestamp": "2025-10-27T19:46:49.248712+00:00",
+      "bid_price": 3.85,
+      "ask_price": 4.019,
+      "bid_size": 150.0,
+      "ask_size": 54.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:31:39.852394+00:00",
+      "price": 3.88,
+      "size": 4.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:47:50.474027",
+    "quote": {
+      "timestamp": "2025-10-27T19:47:49.037734+00:00",
+      "bid_price": 3.96,
+      "ask_price": 4.01,
+      "bid_size": 150.0,
+      "ask_size": 102.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:32:37.355403+00:00",
+      "price": 3.91,
+      "size": 20.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:48:50.859489",
+    "quote": {
+      "timestamp": "2025-10-27T19:48:50.818830+00:00",
+      "bid_price": 4.04,
+      "ask_price": 4.17,
+      "bid_size": 1.0,
+      "ask_size": 150.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:33:01.752310+00:00",
+      "price": 3.92,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:49:51.234523",
+    "quote": {
+      "timestamp": "2025-10-27T19:49:50.487530+00:00",
+      "bid_price": 4.04,
+      "ask_price": 4.17,
+      "bid_size": 1.0,
+      "ask_size": 40.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:33:01.752310+00:00",
+      "price": 3.92,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:50:51.579069",
+    "quote": {
+      "timestamp": "2025-10-27T19:50:50.994658+00:00",
+      "bid_price": 4.23,
+      "ask_price": 4.3,
+      "bid_size": 106.0,
+      "ask_size": 1.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:35:51.481408+00:00",
+      "price": 4.23,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:51:51.908178",
+    "quote": {
+      "timestamp": "2025-10-27T19:51:51.220412+00:00",
+      "bid_price": 4.28,
+      "ask_price": 4.37,
+      "bid_size": 31.0,
+      "ask_size": 1.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:36:50.858479+00:00",
+      "price": 4.4,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:52:52.284484",
+    "quote": {
+      "timestamp": "2025-10-27T19:52:49.531697+00:00",
+      "bid_price": 4.14,
+      "ask_price": 4.23,
+      "bid_size": 31.0,
+      "ask_size": 31.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:37:38.738625+00:00",
+      "price": 4.17,
+      "size": 5.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:53:52.685378",
+    "quote": {
+      "timestamp": "2025-10-27T19:53:52.381589+00:00",
+      "bid_price": 4.23,
+      "ask_price": 4.32,
+      "bid_size": 102.0,
+      "ask_size": 32.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:38:48.868085+00:00",
+      "price": 4.24,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:54:53.049767",
+    "quote": {
+      "timestamp": "2025-10-27T19:54:52.560220+00:00",
+      "bid_price": 4.51,
+      "ask_price": 4.52,
+      "bid_size": 66.0,
+      "ask_size": 1.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:39:36.863190+00:00",
+      "price": 4.3,
+      "size": 3.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:55:53.430668",
+    "quote": {
+      "timestamp": "2025-10-27T19:55:53.020717+00:00",
+      "bid_price": 4.33,
+      "ask_price": 4.42,
+      "bid_size": 150.0,
+      "ask_size": 55.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:40:11.334029+00:00",
+      "price": 4.33,
+      "size": 4.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:56:53.816166",
+    "quote": {
+      "timestamp": "2025-10-27T19:56:53.555477+00:00",
+      "bid_price": 4.56,
+      "ask_price": 4.61,
+      "bid_size": 6.0,
+      "ask_size": 100.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:41:15.263370+00:00",
+      "price": 4.33,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:57:54.157274",
+    "quote": {
+      "timestamp": "2025-10-27T19:57:53.288370+00:00",
+      "bid_price": 4.32,
+      "ask_price": 4.39,
+      "bid_size": 1.0,
+      "ask_size": 1.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:42:24.486158+00:00",
+      "price": 4.36,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:58:54.519793",
+    "quote": {
+      "timestamp": "2025-10-27T19:58:53.637335+00:00",
+      "bid_price": 4.33,
+      "ask_price": 4.35,
+      "bid_size": 101.0,
+      "ask_size": 50.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:43:43.482728+00:00",
+      "price": 4.35,
+      "size": 2.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T19:59:54.889606",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:54.759552+00:00",
+      "bid_price": 4.19,
+      "ask_price": 4.36,
+      "bid_size": 32.0,
+      "ask_size": 100.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:43:43.482728+00:00",
+      "price": 4.35,
+      "size": 2.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T20:00:55.245081",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:59.850512+00:00",
+      "bid_price": 4.2,
+      "ask_price": 4.32,
+      "bid_size": 20.0,
+      "ask_size": 100.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:45:45.772115+00:00",
+      "price": 4.21,
+      "size": 10.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T20:01:55.589961",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:59.850512+00:00",
+      "bid_price": 4.2,
+      "ask_price": 4.32,
+      "bid_size": 20.0,
+      "ask_size": 100.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:46:52.171384+00:00",
+      "price": 4.37,
+      "size": 2.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T20:02:55.968371",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:59.850512+00:00",
+      "bid_price": 4.2,
+      "ask_price": 4.32,
+      "bid_size": 20.0,
+      "ask_size": 100.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:47:19.059032+00:00",
+      "price": 4.27,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T20:03:56.338558",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:59.850512+00:00",
+      "bid_price": 4.2,
+      "ask_price": 4.32,
+      "bid_size": 20.0,
+      "ask_size": 100.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:48:51.451649+00:00",
+      "price": 4.52,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T20:04:56.673972",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:59.850512+00:00",
+      "bid_price": 4.2,
+      "ask_price": 4.32,
+      "bid_size": 20.0,
+      "ask_size": 100.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:49:49.453711+00:00",
+      "price": 4.43,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T20:05:57.045163",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:59.850512+00:00",
+      "bid_price": 4.2,
+      "ask_price": 4.32,
+      "bid_size": 20.0,
+      "ask_size": 100.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:50:43.067830+00:00",
+      "price": 4.32,
+      "size": 2.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T20:06:57.452342",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:59.850512+00:00",
+      "bid_price": 4.2,
+      "ask_price": 4.32,
+      "bid_size": 20.0,
+      "ask_size": 100.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:50:43.067830+00:00",
+      "price": 4.32,
+      "size": 2.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T20:07:58.015443",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:59.850512+00:00",
+      "bid_price": 4.2,
+      "ask_price": 4.32,
+      "bid_size": 20.0,
+      "ask_size": 100.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:52:50.417417+00:00",
+      "price": 4.19,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T20:08:58.350276",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:59.850512+00:00",
+      "bid_price": 4.2,
+      "ask_price": 4.32,
+      "bid_size": 20.0,
+      "ask_size": 100.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:52:50.417417+00:00",
+      "price": 4.19,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T20:09:58.732782",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:59.850512+00:00",
+      "bid_price": 4.2,
+      "ask_price": 4.32,
+      "bid_size": 20.0,
+      "ask_size": 100.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:54:20.066143+00:00",
+      "price": 4.23,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T20:10:59.105419",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:59.850512+00:00",
+      "bid_price": 4.2,
+      "ask_price": 4.32,
+      "bid_size": 20.0,
+      "ask_size": 100.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:55:46.865185+00:00",
+      "price": 4.25,
+      "size": 3.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T20:11:59.453609",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:59.850512+00:00",
+      "bid_price": 4.2,
+      "ask_price": 4.32,
+      "bid_size": 20.0,
+      "ask_size": 100.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:56:55.182627+00:00",
+      "price": 4.32,
+      "size": 6.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T20:12:59.860391",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:59.850512+00:00",
+      "bid_price": 4.2,
+      "ask_price": 4.32,
+      "bid_size": 20.0,
+      "ask_size": 100.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:57:54.097935+00:00",
+      "price": 4.39,
+      "size": 2.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T20:14:00.187574",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:59.850512+00:00",
+      "bid_price": 4.2,
+      "ask_price": 4.32,
+      "bid_size": 20.0,
+      "ask_size": 100.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:58:44.404184+00:00",
+      "price": 4.37,
+      "size": 8.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T20:15:00.575894",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:59.850512+00:00",
+      "bid_price": 4.2,
+      "ask_price": 4.32,
+      "bid_size": 20.0,
+      "ask_size": 100.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T19:59:43.944440+00:00",
+      "price": 4.28,
+      "size": 6.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T20:16:00.964853",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:59.850512+00:00",
+      "bid_price": 4.2,
+      "ask_price": 4.32,
+      "bid_size": 20.0,
+      "ask_size": 100.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T20:00:54.977316+00:00",
+      "price": 4.23,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T20:17:01.326192",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:59.850512+00:00",
+      "bid_price": 4.2,
+      "ask_price": 4.32,
+      "bid_size": 20.0,
+      "ask_size": 100.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T20:01:53.182342+00:00",
+      "price": 4.34,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T20:18:01.673048",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:59.850512+00:00",
+      "bid_price": 4.2,
+      "ask_price": 4.32,
+      "bid_size": 20.0,
+      "ask_size": 100.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T20:02:48.376407+00:00",
+      "price": 4.49,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T20:19:02.028428",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:59.850512+00:00",
+      "bid_price": 4.2,
+      "ask_price": 4.32,
+      "bid_size": 20.0,
+      "ask_size": 100.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T20:03:14.658037+00:00",
+      "price": 4.55,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T20:20:02.390396",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:59.850512+00:00",
+      "bid_price": 4.2,
+      "ask_price": 4.32,
+      "bid_size": 20.0,
+      "ask_size": 100.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T20:04:28.935428+00:00",
+      "price": 4.49,
+      "size": 2.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T20:21:02.743866",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:59.850512+00:00",
+      "bid_price": 4.2,
+      "ask_price": 4.32,
+      "bid_size": 20.0,
+      "ask_size": 100.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T20:05:48.944097+00:00",
+      "price": 4.4,
+      "size": 5.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T20:22:03.112516",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:59.850512+00:00",
+      "bid_price": 4.2,
+      "ask_price": 4.32,
+      "bid_size": 20.0,
+      "ask_size": 100.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T20:06:42.121604+00:00",
+      "price": 4.25,
+      "size": 4.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T20:23:03.489056",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:59.850512+00:00",
+      "bid_price": 4.2,
+      "ask_price": 4.32,
+      "bid_size": 20.0,
+      "ask_size": 100.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T20:07:58.430704+00:00",
+      "price": 4.28,
+      "size": 12.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T20:24:03.846656",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:59.850512+00:00",
+      "bid_price": 4.2,
+      "ask_price": 4.32,
+      "bid_size": 20.0,
+      "ask_size": 100.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T20:09:00.414453+00:00",
+      "price": 4.23,
+      "size": 5.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T20:25:04.169413",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:59.850512+00:00",
+      "bid_price": 4.2,
+      "ask_price": 4.32,
+      "bid_size": 20.0,
+      "ask_size": 100.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T20:09:44.728620+00:00",
+      "price": 4.23,
+      "size": 2.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T20:26:04.518087",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:59.850512+00:00",
+      "bid_price": 4.2,
+      "ask_price": 4.32,
+      "bid_size": 20.0,
+      "ask_size": 100.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T20:09:44.728620+00:00",
+      "price": 4.23,
+      "size": 2.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T20:27:05.058850",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:59.850512+00:00",
+      "bid_price": 4.2,
+      "ask_price": 4.32,
+      "bid_size": 20.0,
+      "ask_size": 100.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T20:12:00.000301+00:00",
+      "price": 4.24,
+      "size": 1.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T20:28:05.451812",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:59.850512+00:00",
+      "bid_price": 4.2,
+      "ask_price": 4.32,
+      "bid_size": 20.0,
+      "ask_size": 100.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T20:12:38.287772+00:00",
+      "price": 4.35,
+      "size": 5.0
+    },
+    "greeks": {}
+  },
+  {
+    "symbol": "SPY251027C00681000",
+    "timestamp": "2025-10-27T20:29:05.838479",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:59.850512+00:00",
+      "bid_price": 4.2,
+      "ask_price": 4.32,
+      "bid_size": 20.0,
+      "ask_size": 100.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T20:12:38.287772+00:00",
+      "price": 4.35,
+      "size": 5.0
+    },
+    "greeks": {}
+  }
+]

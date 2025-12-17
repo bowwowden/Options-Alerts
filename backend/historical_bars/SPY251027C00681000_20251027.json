@@ -1,0 +1,162 @@
+{
+  "symbol": "SPY251027C00681000",
+  "start_time": "2025-10-27T13:30:00+00:00",
+  "end_time": "2025-10-27T20:00:00+00:00",
+  "bar_count": 14,
+  "bars": [
+    {
+      "timestamp": "2025-10-27T13:30:00+00:00",
+      "open": 2.31,
+      "high": 2.65,
+      "low": 1.96,
+      "close": 2.51,
+      "volume": 8653.0,
+      "trade_count": 1336.0,
+      "vwap": 2.322048,
+      "symbol": "SPY251027C00681000"
+    },
+    {
+      "timestamp": "2025-10-27T14:00:00+00:00",
+      "open": 2.52,
+      "high": 2.93,
+      "low": 2.02,
+      "close": 2.39,
+      "volume": 5387.0,
+      "trade_count": 707.0,
+      "vwap": 2.438946,
+      "symbol": "SPY251027C00681000"
+    },
+    {
+      "timestamp": "2025-10-27T14:30:00+00:00",
+      "open": 2.33,
+      "high": 2.61,
+      "low": 1.99,
+      "close": 2.08,
+      "volume": 3186.0,
+      "trade_count": 445.0,
+      "vwap": 2.316538,
+      "symbol": "SPY251027C00681000"
+    },
+    {
+      "timestamp": "2025-10-27T15:00:00+00:00",
+      "open": 2.09,
+      "high": 2.57,
+      "low": 1.94,
+      "close": 2.55,
+      "volume": 2619.0,
+      "trade_count": 421.0,
+      "vwap": 2.167369,
+      "symbol": "SPY251027C00681000"
+    },
+    {
+      "timestamp": "2025-10-27T15:30:00+00:00",
+      "open": 2.56,
+      "high": 2.8,
+      "low": 2.43,
+      "close": 2.59,
+      "volume": 1816.0,
+      "trade_count": 218.0,
+      "vwap": 2.654592,
+      "symbol": "SPY251027C00681000"
+    },
+    {
+      "timestamp": "2025-10-27T16:00:00+00:00",
+      "open": 2.63,
+      "high": 2.92,
+      "low": 2.61,
+      "close": 2.67,
+      "volume": 1433.0,
+      "trade_count": 216.0,
+      "vwap": 2.736595,
+      "symbol": "SPY251027C00681000"
+    },
+    {
+      "timestamp": "2025-10-27T16:30:00+00:00",
+      "open": 2.7,
+      "high": 2.99,
+      "low": 2.67,
+      "close": 2.84,
+      "volume": 1753.0,
+      "trade_count": 134.0,
+      "vwap": 2.811289,
+      "symbol": "SPY251027C00681000"
+    },
+    {
+      "timestamp": "2025-10-27T17:00:00+00:00",
+      "open": 2.79,
+      "high": 2.9,
+      "low": 2.35,
+      "close": 2.51,
+      "volume": 1880.0,
+      "trade_count": 168.0,
+      "vwap": 2.661362,
+      "symbol": "SPY251027C00681000"
+    },
+    {
+      "timestamp": "2025-10-27T17:30:00+00:00",
+      "open": 2.6,
+      "high": 3.03,
+      "low": 2.5,
+      "close": 2.98,
+      "volume": 549.0,
+      "trade_count": 125.0,
+      "vwap": 2.791749,
+      "symbol": "SPY251027C00681000"
+    },
+    {
+      "timestamp": "2025-10-27T18:00:00+00:00",
+      "open": 2.93,
+      "high": 3.0,
+      "low": 2.84,
+      "close": 2.87,
+      "volume": 298.0,
+      "trade_count": 69.0,
+      "vwap": 2.924933,
+      "symbol": "SPY251027C00681000"
+    },
+    {
+      "timestamp": "2025-10-27T18:30:00+00:00",
+      "open": 2.89,
+      "high": 3.25,
+      "low": 2.89,
+      "close": 3.18,
+      "volume": 428.0,
+      "trade_count": 93.0,
+      "vwap": 3.067991,
+      "symbol": "SPY251027C00681000"
+    },
+    {
+      "timestamp": "2025-10-27T19:00:00+00:00",
+      "open": 3.15,
+      "high": 3.3,
+      "low": 3.03,
+      "close": 3.16,
+      "volume": 205.0,
+      "trade_count": 65.0,
+      "vwap": 3.15761,
+      "symbol": "SPY251027C00681000"
+    },
+    {
+      "timestamp": "2025-10-27T19:30:00+00:00",
+      "open": 3.26,
+      "high": 4.51,
+      "low": 3.22,
+      "close": 4.26,
+      "volume": 858.0,
+      "trade_count": 151.0,
+      "vwap": 3.721457,
+      "symbol": "SPY251027C00681000"
+    },
+    {
+      "timestamp": "2025-10-27T20:00:00+00:00",
+      "open": 4.25,
+      "high": 4.55,
+      "low": 4.15,
+      "close": 4.35,
+      "volume": 228.0,
+      "trade_count": 39.0,
+      "vwap": 4.374254,
+      "symbol": "SPY251027C00681000"
+    }
+  ]
+}

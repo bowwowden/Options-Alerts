@@ -52,16 +52,34 @@ def get_weekly_expiration(today=None):
 
 
 def format_options_with_occ_symbol(fresh_plays):
-    expiration_date = (datetime.now()).strftime("%Y-%m-%d")  # could be tomorrow for weekly options
-
     for option in fresh_plays:
-        if option["expiration"] == "weekly":
+        expiration_str = option["expiration"]
+
+        if expiration_str == "weekly":
+            # Get this week's Friday
             expiration_date = get_weekly_expiration()
-            option["occ_symbol"] = make_occ_symbol(option, expiration_date)
+        else:
+            # Parse MM/DD format and convert to YYYY-MM-DD
+            # Assume current year or next year if the date has passed
+            try:
+                month, day = expiration_str.split('/')
+                current_year = datetime.now().year
 
+                # Try current year first
+                expiration_date = f"{current_year}-{month.zfill(2)}-{day.zfill(2)}"
+                exp_datetime = datetime.strptime(expiration_date, "%Y-%m-%d")
 
-    # the final test, grab quotes for each one
-    orders = [option["occ_symbol"] for option in fresh_plays]
+                # If the date is in the past (compare dates only, not time), use next year
+                if exp_datetime.date() < datetime.now().date():
+                    expiration_date = f"{current_year + 1}-{month.zfill(2)}-{day.zfill(2)}"
+            except (ValueError, AttributeError) as e:
+                print(f"Warning: Could not parse expiration '{expiration_str}': {e}")
+                continue
+
+        option["occ_symbol"] = make_occ_symbol(option, expiration_date)
+
+    # Only return options that have occ_symbol
+    orders = [option["occ_symbol"] for option in fresh_plays if "occ_symbol" in option]
 
     return orders
 

@@ -1,0 +1,38 @@
+[
+    {
+        "symbol": "GOOG",
+        "price": 295.0,
+        "expiration": "weekly",
+        "type": "calls"
+    },
+    {
+        "symbol": "GOOG",
+        "price": 300.0,
+        "expiration": "weekly",
+        "type": "calls"
+    },
+    {
+        "symbol": "META",
+        "price": 685.0,
+        "expiration": "weekly",
+        "type": "puts"
+    },
+    {
+        "symbol": "META",
+        "price": 680.0,
+        "expiration": "weekly",
+        "type": "puts"
+    },
+    {
+        "symbol": "LLY",
+        "price": 835.0,
+        "expiration": "weekly",
+        "type": "calls"
+    },
+    {
+        "symbol": "LLY",
+        "price": 840.0,
+        "expiration": "weekly",
+        "type": "calls"
+    }
+]

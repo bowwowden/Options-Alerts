@@ -160,6 +160,225 @@
       </div>
     </div>
 
+    <!-- Alpaca Trading Section -->
+    <div class="bg-white p-6 rounded-xl shadow-md mb-6">
+      <h2 class="text-xl font-semibold mb-2">📊 Alpaca Trading</h2>
+      <p class="text-gray-600 text-sm mb-4">
+        View account information, positions, and place options orders via Alpaca paper trading.
+      </p>
+
+      <!-- Account Info -->
+      <div class="mb-6 border-b pb-4">
+        <h3 class="font-semibold text-lg mb-2">💰 Account Information</h3>
+        <p class="text-gray-600 text-sm mb-3">
+          View your Alpaca paper trading account details including buying power and equity.
+        </p>
+        <button
+          id="account-btn"
+          class="bg-blue-500 text-white px-6 py-2 rounded-lg hover:bg-blue-600 transition"
+        >
+          Get Account Info
+        </button>
+        <div id="account-loading" class="hidden text-center py-4">
+          <div class="inline-block animate-spin rounded-full h-8 w-8 border-b-2 border-blue-500"></div>
+        </div>
+        <div id="account-error" class="hidden bg-red-50 border border-red-200 text-red-700 px-4 py-3 rounded-lg mt-4"></div>
+        <div id="account-results" class="hidden mt-4 bg-gray-50 p-4 rounded-lg">
+          <pre id="account-data" class="text-sm text-gray-800"></pre>
+        </div>
+      </div>
+
+      <!-- Current Positions -->
+      <div class="mb-6 border-b pb-4">
+        <h3 class="font-semibold text-lg mb-2">📈 Current Positions</h3>
+        <p class="text-gray-600 text-sm mb-3">
+          View all current positions in your Alpaca paper trading account.
+        </p>
+        <button
+          id="positions-btn"
+          class="bg-green-500 text-white px-6 py-2 rounded-lg hover:bg-green-600 transition"
+        >
+          Get Positions
+        </button>
+        <div id="positions-loading" class="hidden text-center py-4">
+          <div class="inline-block animate-spin rounded-full h-8 w-8 border-b-2 border-green-500"></div>
+        </div>
+        <div id="positions-error" class="hidden bg-red-50 border border-red-200 text-red-700 px-4 py-3 rounded-lg mt-4"></div>
+        <div id="positions-results" class="hidden mt-4">
+          <h4 class="font-semibold text-lg mb-2">Positions (<span id="positions-count">0</span>):</h4>
+          <div class="bg-gray-50 p-4 rounded-lg overflow-x-auto max-h-96 overflow-y-auto">
+            <div id="positions-list"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Contract Details -->
+      <div class="mb-6 border-b pb-4">
+        <h3 class="font-semibold text-lg mb-2">📋 Contract Details</h3>
+        <p class="text-gray-600 text-sm mb-3">
+          Get detailed information about an options contract from Alpaca.
+        </p>
+        <div class="flex gap-2 mb-4">
+          <input
+            type="text"
+            id="contract-symbol"
+            placeholder="Enter OCC Symbol (e.g., SPY251027C00681000)"
+            class="flex-1 px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-yellow-500"
+          />
+          <button
+            id="contract-btn"
+            class="bg-yellow-500 text-white px-6 py-2 rounded-lg hover:bg-yellow-600 transition"
+          >
+            Get Details
+          </button>
+        </div>
+        <div id="contract-loading" class="hidden text-center py-4">
+          <div class="inline-block animate-spin rounded-full h-8 w-8 border-b-2 border-yellow-500"></div>
+        </div>
+        <div id="contract-error" class="hidden bg-red-50 border border-red-200 text-red-700 px-4 py-3 rounded-lg"></div>
+        <div id="contract-results" class="hidden mt-4 bg-gray-50 p-4 rounded-lg">
+          <pre id="contract-data" class="text-sm text-gray-800"></pre>
+        </div>
+      </div>
+
+      <!-- Submit Order -->
+      <div>
+        <h3 class="font-semibold text-lg mb-2">🎯 Submit Options Order</h3>
+        <p class="text-gray-600 text-sm mb-3">
+          Place an options order (BUY or SELL) on your Alpaca paper trading account.
+        </p>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-2 mb-4">
+          <input
+            type="text"
+            id="order-symbol"
+            placeholder="OCC Symbol"
+            class="px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-red-500"
+          />
+          <select
+            id="order-side"
+            class="px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-red-500"
+          >
+            <option value="buy">BUY</option>
+            <option value="sell">SELL</option>
+          </select>
+          <input
+            type="number"
+            id="order-qty"
+            placeholder="Quantity"
+            min="1"
+            value="1"
+            class="px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-red-500"
+          />
+        </div>
+        <button
+          id="order-btn"
+          class="w-full bg-red-500 text-white px-6 py-2 rounded-lg hover:bg-red-600 transition"
+        >
+          Submit Order
+        </button>
+        <div id="order-loading" class="hidden text-center py-4">
+          <div class="inline-block animate-spin rounded-full h-8 w-8 border-b-2 border-red-500"></div>
+        </div>
+        <div id="order-error" class="hidden bg-red-50 border border-red-200 text-red-700 px-4 py-3 rounded-lg mt-4"></div>
+        <div id="order-success" class="hidden bg-green-50 border border-green-200 text-green-700 px-4 py-3 rounded-lg mt-4"></div>
+      </div>
+    </div>
+
+    <!-- Fresh Plays Section -->
+    <div class="bg-white p-6 rounded-xl shadow-md mb-6">
+      <h2 class="text-xl font-semibold mb-2">🎯 Fresh Plays</h2>
+      <p class="text-gray-600 text-sm mb-4">
+        Manage and view fresh options plays from daily alerts. Load plays from files and query the database.
+      </p>
+
+      <!-- Load Fresh Plays -->
+      <div class="mb-6 border-b pb-4">
+        <h3 class="font-semibold text-lg mb-2">📥 Load Fresh Plays</h3>
+        <p class="text-gray-600 text-sm mb-3">
+          Load fresh plays from files in <code class="bg-gray-100 px-1 rounded">utils/positions/</code> into the database.
+        </p>
+        <div class="flex gap-2 mb-4">
+          <input
+            type="text"
+            id="load-date"
+            placeholder="Date (MM-DD-YYYY) or leave empty for all"
+            class="flex-1 px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-orange-500"
+          />
+          <button
+            id="load-plays-btn"
+            class="bg-orange-500 text-white px-6 py-2 rounded-lg hover:bg-orange-600 transition"
+          >
+            Load Plays
+          </button>
+        </div>
+
+        <!-- Loading State -->
+        <div id="load-plays-loading" class="hidden text-center py-4">
+          <div class="inline-block animate-spin rounded-full h-8 w-8 border-b-2 border-orange-500"></div>
+          <p class="text-gray-600 mt-2">Loading plays...</p>
+        </div>
+
+        <!-- Error State -->
+        <div id="load-plays-error" class="hidden bg-red-50 border border-red-200 text-red-700 px-4 py-3 rounded-lg"></div>
+
+        <!-- Success State -->
+        <div id="load-plays-success" class="hidden bg-green-50 border border-green-200 text-green-700 px-4 py-3 rounded-lg"></div>
+      </div>
+
+      <!-- View Fresh Plays -->
+      <div>
+        <h3 class="font-semibold text-lg mb-2">📋 View Fresh Plays</h3>
+        <p class="text-gray-600 text-sm mb-3">
+          Query fresh plays from the database. Filter by symbol, type, or date.
+        </p>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-2 mb-4">
+          <input
+            type="text"
+            id="plays-symbol"
+            placeholder="Symbol (e.g., TSLA)"
+            class="px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-500"
+          />
+          <select
+            id="plays-type"
+            class="px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-500"
+          >
+            <option value="">All Types</option>
+            <option value="calls">Calls</option>
+            <option value="puts">Puts</option>
+          </select>
+          <input
+            type="text"
+            id="plays-date"
+            placeholder="Date (MM-DD-YYYY)"
+            class="px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-500"
+          />
+        </div>
+        <button
+          id="view-plays-btn"
+          class="w-full bg-indigo-500 text-white px-6 py-2 rounded-lg hover:bg-indigo-600 transition"
+        >
+          View Fresh Plays
+        </button>
+
+        <!-- Loading State -->
+        <div id="view-plays-loading" class="hidden text-center py-4">
+          <div class="inline-block animate-spin rounded-full h-8 w-8 border-b-2 border-indigo-500"></div>
+          <p class="text-gray-600 mt-2">Loading plays...</p>
+        </div>
+
+        <!-- Error State -->
+        <div id="view-plays-error" class="hidden bg-red-50 border border-red-200 text-red-700 px-4 py-3 rounded-lg mt-4"></div>
+
+        <!-- Results -->
+        <div id="view-plays-results" class="hidden mt-4">
+          <h4 class="font-semibold text-lg mb-2">Fresh Plays (<span id="plays-count">0</span>):</h4>
+          <div class="bg-gray-50 p-4 rounded-lg overflow-x-auto max-h-96 overflow-y-auto">
+            <div id="plays-list"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
 
   </div>
 
@@ -375,6 +594,365 @@
         viewBtn.click();
       }
     });
+
+    // ========== Load Fresh Plays ==========
+    const loadPlaysBtn = document.getElementById('load-plays-btn');
+    const loadDate = document.getElementById('load-date');
+    const loadPlaysLoading = document.getElementById('load-plays-loading');
+    const loadPlaysError = document.getElementById('load-plays-error');
+    const loadPlaysSuccess = document.getElementById('load-plays-success');
+
+    loadPlaysBtn.addEventListener('click', async () => {
+      const date = loadDate.value.trim();
+
+      // Reset states
+      loadPlaysLoading.classList.remove('hidden');
+      loadPlaysError.classList.add('hidden');
+      loadPlaysSuccess.classList.add('hidden');
+
+      try {
+        const body = date ? JSON.stringify({ date: date }) : JSON.stringify({});
+
+        const response = await fetch('/api/fresh-plays/load', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json'
+          },
+          body: body
+        });
+
+        const data = await response.json();
+        loadPlaysLoading.classList.add('hidden');
+
+        if (data.success) {
+          showLoadPlaysSuccess(`${data.message} (${data.count} plays)`);
+        } else {
+          showLoadPlaysError(data.error || 'Failed to load plays');
+        }
+      } catch (err) {
+        loadPlaysLoading.classList.add('hidden');
+        showLoadPlaysError('Network error: ' + err.message);
+      }
+    });
+
+    function showLoadPlaysError(message) {
+      loadPlaysError.textContent = message;
+      loadPlaysError.classList.remove('hidden');
+    }
+
+    function showLoadPlaysSuccess(message) {
+      loadPlaysSuccess.textContent = message;
+      loadPlaysSuccess.classList.remove('hidden');
+    }
+
+    loadDate.addEventListener('keypress', (e) => {
+      if (e.key === 'Enter') {
+        loadPlaysBtn.click();
+      }
+    });
+
+    // ========== View Fresh Plays ==========
+    const viewPlaysBtn = document.getElementById('view-plays-btn');
+    const playsSymbol = document.getElementById('plays-symbol');
+    const playsType = document.getElementById('plays-type');
+    const playsDate = document.getElementById('plays-date');
+    const viewPlaysLoading = document.getElementById('view-plays-loading');
+    const viewPlaysError = document.getElementById('view-plays-error');
+    const viewPlaysResults = document.getElementById('view-plays-results');
+    const playsCount = document.getElementById('plays-count');
+    const playsList = document.getElementById('plays-list');
+
+    viewPlaysBtn.addEventListener('click', async () => {
+      const symbol = playsSymbol.value.trim();
+      const type = playsType.value;
+      const date = playsDate.value.trim();
+
+      // Reset states
+      viewPlaysLoading.classList.remove('hidden');
+      viewPlaysError.classList.add('hidden');
+      viewPlaysResults.classList.add('hidden');
+
+      try {
+        let url = '/api/fresh-plays?';
+        const params = [];
+
+        if (symbol) params.push(`symbol=${encodeURIComponent(symbol)}`);
+        if (type) params.push(`type=${encodeURIComponent(type)}`);
+        if (date) params.push(`date=${encodeURIComponent(date)}`);
+
+        url += params.join('&');
+
+        const response = await fetch(url);
+        const data = await response.json();
+
+        viewPlaysLoading.classList.add('hidden');
+
+        if (data.success) {
+          playsCount.textContent = data.count;
+
+          if (data.count === 0) {
+            playsList.innerHTML = '<p class="text-gray-500 text-center py-4">No fresh plays found</p>';
+          } else {
+            // Display plays as cards
+            playsList.innerHTML = data.data.map(play => `
+              <div class="mb-3 p-4 border border-gray-200 rounded-lg bg-white hover:shadow-md transition">
+                <div class="flex justify-between items-start mb-2">
+                  <div>
+                    <h4 class="font-semibold text-lg">${play.symbol}</h4>
+                    <span class="text-xs px-2 py-1 rounded ${play.type === 'calls' ? 'bg-green-100 text-green-800' : 'bg-red-100 text-red-800'}">
+                      ${play.type.toUpperCase()}
+                    </span>
+                  </div>
+                  <span class="text-xs text-gray-500">ID: ${play.id}</span>
+                </div>
+                <div class="grid grid-cols-2 gap-2 text-sm mb-2">
+                  <div>
+                    <span class="font-medium">Strike Price:</span> $${play.price}
+                  </div>
+                  <div>
+                    <span class="font-medium">Expiration:</span> ${play.expiration}
+                  </div>
+                  <div>
+                    <span class="font-medium">Play Date:</span> ${play.play_date}
+                  </div>
+                  <div class="text-xs text-gray-500">
+                    Added: ${new Date(play.created_at).toLocaleString()}
+                  </div>
+                </div>
+              </div>
+            `).join('');
+          }
+
+          viewPlaysResults.classList.remove('hidden');
+        } else {
+          showViewPlaysError(data.error || 'Failed to load fresh plays');
+        }
+      } catch (err) {
+        viewPlaysLoading.classList.add('hidden');
+        showViewPlaysError('Network error: ' + err.message);
+      }
+    });
+
+    function showViewPlaysError(message) {
+      viewPlaysError.textContent = message;
+      viewPlaysError.classList.remove('hidden');
+    }
+
+    // Allow Enter key to trigger view in any of the filter fields
+    [playsSymbol, playsDate].forEach(field => {
+      field.addEventListener('keypress', (e) => {
+        if (e.key === 'Enter') {
+          viewPlaysBtn.click();
+        }
+      });
+    });
+
+    // ========== Account Information ==========
+    const accountBtn = document.getElementById('account-btn');
+    const accountLoading = document.getElementById('account-loading');
+    const accountError = document.getElementById('account-error');
+    const accountResults = document.getElementById('account-results');
+    const accountData = document.getElementById('account-data');
+
+    accountBtn.addEventListener('click', async () => {
+      accountLoading.classList.remove('hidden');
+      accountError.classList.add('hidden');
+      accountResults.classList.add('hidden');
+
+      try {
+        const response = await fetch('/api/account');
+        const data = await response.json();
+        accountLoading.classList.add('hidden');
+
+        if (data.success) {
+          accountData.textContent = JSON.stringify(data.account, null, 2);
+          accountResults.classList.remove('hidden');
+        } else {
+          showAccountError(data.error || 'Failed to fetch account info');
+        }
+      } catch (err) {
+        accountLoading.classList.add('hidden');
+        showAccountError('Network error: ' + err.message);
+      }
+    });
+
+    function showAccountError(message) {
+      accountError.textContent = message;
+      accountError.classList.remove('hidden');
+    }
+
+    // ========== Positions ==========
+    const positionsBtn = document.getElementById('positions-btn');
+    const positionsLoading = document.getElementById('positions-loading');
+    const positionsError = document.getElementById('positions-error');
+    const positionsResults = document.getElementById('positions-results');
+    const positionsCount = document.getElementById('positions-count');
+    const positionsList = document.getElementById('positions-list');
+
+    positionsBtn.addEventListener('click', async () => {
+      positionsLoading.classList.remove('hidden');
+      positionsError.classList.add('hidden');
+      positionsResults.classList.add('hidden');
+
+      try {
+        const response = await fetch('/api/positions');
+        const data = await response.json();
+        positionsLoading.classList.add('hidden');
+
+        if (data.success) {
+          positionsCount.textContent = data.positions.length;
+
+          if (data.positions.length === 0) {
+            positionsList.innerHTML = '<p class="text-gray-500 text-center py-4">No positions found</p>';
+          } else {
+            positionsList.innerHTML = data.positions.map(position => `
+              <div class="mb-3 p-4 border border-gray-200 rounded-lg bg-white">
+                <div class="flex justify-between items-start mb-2">
+                  <h4 class="font-semibold text-lg">${position.symbol}</h4>
+                  <span class="text-xs px-2 py-1 rounded ${position.side === 'long' ? 'bg-green-100 text-green-800' : 'bg-red-100 text-red-800'}">
+                    ${position.side.toUpperCase()}
+                  </span>
+                </div>
+                <div class="grid grid-cols-2 gap-2 text-sm">
+                  <div><span class="font-medium">Qty:</span> ${position.qty}</div>
+                  <div><span class="font-medium">Avg Entry:</span> $${position.avg_entry_price}</div>
+                  <div><span class="font-medium">Current:</span> $${position.current_price}</div>
+                  <div><span class="font-medium">P&L:</span> <span class="${parseFloat(position.unrealized_pl) >= 0 ? 'text-green-600' : 'text-red-600'}">${position.unrealized_pl}</span></div>
+                </div>
+              </div>
+            `).join('');
+          }
+
+          positionsResults.classList.remove('hidden');
+        } else {
+          showPositionsError(data.error || 'Failed to fetch positions');
+        }
+      } catch (err) {
+        positionsLoading.classList.add('hidden');
+        showPositionsError('Network error: ' + err.message);
+      }
+    });
+
+    function showPositionsError(message) {
+      positionsError.textContent = message;
+      positionsError.classList.remove('hidden');
+    }
+
+    // ========== Contract Details ==========
+    const contractBtn = document.getElementById('contract-btn');
+    const contractSymbol = document.getElementById('contract-symbol');
+    const contractLoading = document.getElementById('contract-loading');
+    const contractError = document.getElementById('contract-error');
+    const contractResults = document.getElementById('contract-results');
+    const contractData = document.getElementById('contract-data');
+
+    contractBtn.addEventListener('click', async () => {
+      const symbol = contractSymbol.value.trim();
+
+      if (!symbol) {
+        showContractError('Please enter an OCC symbol');
+        return;
+      }
+
+      contractLoading.classList.remove('hidden');
+      contractError.classList.add('hidden');
+      contractResults.classList.add('hidden');
+
+      try {
+        const response = await fetch(`/api/options/contract-details?occ_symbol=${encodeURIComponent(symbol)}`);
+        const data = await response.json();
+        contractLoading.classList.add('hidden');
+
+        if (data.success) {
+          contractData.textContent = JSON.stringify(data.contract, null, 2);
+          contractResults.classList.remove('hidden');
+        } else {
+          showContractError(data.error || 'Failed to fetch contract details');
+        }
+      } catch (err) {
+        contractLoading.classList.add('hidden');
+        showContractError('Network error: ' + err.message);
+      }
+    });
+
+    function showContractError(message) {
+      contractError.textContent = message;
+      contractError.classList.remove('hidden');
+    }
+
+    contractSymbol.addEventListener('keypress', (e) => {
+      if (e.key === 'Enter') {
+        contractBtn.click();
+      }
+    });
+
+    // ========== Submit Order ==========
+    const orderBtn = document.getElementById('order-btn');
+    const orderSymbol = document.getElementById('order-symbol');
+    const orderSide = document.getElementById('order-side');
+    const orderQty = document.getElementById('order-qty');
+    const orderLoading = document.getElementById('order-loading');
+    const orderError = document.getElementById('order-error');
+    const orderSuccess = document.getElementById('order-success');
+
+    orderBtn.addEventListener('click', async () => {
+      const symbol = orderSymbol.value.trim();
+      const side = orderSide.value;
+      const qty = parseInt(orderQty.value);
+
+      if (!symbol) {
+        showOrderError('Please enter an OCC symbol');
+        return;
+      }
+
+      if (!qty || qty < 1) {
+        showOrderError('Please enter a valid quantity');
+        return;
+      }
+
+      orderLoading.classList.remove('hidden');
+      orderError.classList.add('hidden');
+      orderSuccess.classList.add('hidden');
+
+      try {
+        const response = await fetch('/api/submit-order', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify({
+            symbol: symbol,
+            side: side,
+            qty: qty
+          })
+        });
+
+        const data = await response.json();
+        orderLoading.classList.add('hidden');
+
+        if (data.success) {
+          showOrderSuccess(`Order submitted successfully! ID: ${data.order_id}`);
+          // Clear form
+          orderSymbol.value = '';
+          orderQty.value = '1';
+        } else {
+          showOrderError(data.error || 'Failed to submit order');
+        }
+      } catch (err) {
+        orderLoading.classList.add('hidden');
+        showOrderError('Network error: ' + err.message);
+      }
+    });
+
+    function showOrderError(message) {
+      orderError.textContent = message;
+      orderError.classList.remove('hidden');
+    }
+
+    function showOrderSuccess(message) {
+      orderSuccess.textContent = message;
+      orderSuccess.classList.remove('hidden');
+    }
   </script>
 </body>
 </html>

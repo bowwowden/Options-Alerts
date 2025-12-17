@@ -1,0 +1,173 @@
+{
+  "symbol": "CAT251031C00557500",
+  "start_time": "2025-10-29T13:30:00+00:00",
+  "end_time": "2025-10-29T20:00:00+00:00",
+  "bar_count": 15,
+  "bars": [
+    {
+      "timestamp": "2025-10-29T13:40:00+00:00",
+      "open": 21.94,
+      "high": 21.94,
+      "low": 21.94,
+      "close": 21.94,
+      "volume": 1.0,
+      "trade_count": 1.0,
+      "vwap": 21.94,
+      "symbol": "CAT251031C00557500"
+    },
+    {
+      "timestamp": "2025-10-29T13:44:00+00:00",
+      "open": 27.55,
+      "high": 27.55,
+      "low": 27.55,
+      "close": 27.55,
+      "volume": 1.0,
+      "trade_count": 1.0,
+      "vwap": 27.55,
+      "symbol": "CAT251031C00557500"
+    },
+    {
+      "timestamp": "2025-10-29T13:49:00+00:00",
+      "open": 29.84,
+      "high": 29.84,
+      "low": 29.84,
+      "close": 29.84,
+      "volume": 2.0,
+      "trade_count": 1.0,
+      "vwap": 29.84,
+      "symbol": "CAT251031C00557500"
+    },
+    {
+      "timestamp": "2025-10-29T13:57:00+00:00",
+      "open": 34.03,
+      "high": 34.03,
+      "low": 34.03,
+      "close": 34.03,
+      "volume": 1.0,
+      "trade_count": 1.0,
+      "vwap": 34.03,
+      "symbol": "CAT251031C00557500"
+    },
+    {
+      "timestamp": "2025-10-29T14:09:00+00:00",
+      "open": 30.0,
+      "high": 30.0,
+      "low": 30.0,
+      "close": 30.0,
+      "volume": 1.0,
+      "trade_count": 1.0,
+      "vwap": 30.0,
+      "symbol": "CAT251031C00557500"
+    },
+    {
+      "timestamp": "2025-10-29T14:11:00+00:00",
+      "open": 31.56,
+      "high": 31.56,
+      "low": 31.56,
+      "close": 31.56,
+      "volume": 12.0,
+      "trade_count": 1.0,
+      "vwap": 31.56,
+      "symbol": "CAT251031C00557500"
+    },
+    {
+      "timestamp": "2025-10-29T14:44:00+00:00",
+      "open": 37.26,
+      "high": 37.26,
+      "low": 37.26,
+      "close": 37.26,
+      "volume": 28.0,
+      "trade_count": 1.0,
+      "vwap": 37.26,
+      "symbol": "CAT251031C00557500"
+    },
+    {
+      "timestamp": "2025-10-29T15:27:00+00:00",
+      "open": 38.39,
+      "high": 38.39,
+      "low": 38.39,
+      "close": 38.39,
+      "volume": 10.0,
+      "trade_count": 1.0,
+      "vwap": 38.39,
+      "symbol": "CAT251031C00557500"
+    },
+    {
+      "timestamp": "2025-10-29T15:29:00+00:00",
+      "open": 37.76,
+      "high": 37.76,
+      "low": 37.76,
+      "close": 37.76,
+      "volume": 2.0,
+      "trade_count": 1.0,
+      "vwap": 37.76,
+      "symbol": "CAT251031C00557500"
+    },
+    {
+      "timestamp": "2025-10-29T16:19:00+00:00",
+      "open": 31.96,
+      "high": 31.96,
+      "low": 31.96,
+      "close": 31.96,
+      "volume": 1.0,
+      "trade_count": 1.0,
+      "vwap": 31.96,
+      "symbol": "CAT251031C00557500"
+    },
+    {
+      "timestamp": "2025-10-29T17:28:00+00:00",
+      "open": 32.87,
+      "high": 32.87,
+      "low": 32.87,
+      "close": 32.87,
+      "volume": 10.0,
+      "trade_count": 1.0,
+      "vwap": 32.87,
+      "symbol": "CAT251031C00557500"
+    },
+    {
+      "timestamp": "2025-10-29T17:39:00+00:00",
+      "open": 31.75,
+      "high": 31.75,
+      "low": 31.75,
+      "close": 31.75,
+      "volume": 1.0,
+      "trade_count": 1.0,
+      "vwap": 31.75,
+      "symbol": "CAT251031C00557500"
+    },
+    {
+      "timestamp": "2025-10-29T17:53:00+00:00",
+      "open": 31.54,
+      "high": 31.54,
+      "low": 31.54,
+      "close": 31.54,
+      "volume": 1.0,
+      "trade_count": 1.0,
+      "vwap": 31.54,
+      "symbol": "CAT251031C00557500"
+    },
+    {
+      "timestamp": "2025-10-29T18:25:00+00:00",
+      "open": 31.97,
+      "high": 31.97,
+      "low": 31.97,
+      "close": 31.97,
+      "volume": 1.0,
+      "trade_count": 1.0,
+      "vwap": 31.97,
+      "symbol": "CAT251031C00557500"
+    },
+    {
+      "timestamp": "2025-10-29T19:31:00+00:00",
+      "open": 27.98,
+      "high": 27.98,
+      "low": 27.98,
+      "close": 27.98,
+      "volume": 2.0,
+      "trade_count": 2.0,
+      "vwap": 27.98,
+      "symbol": "CAT251031C00557500"
+    }
+  ]
+}

@@ -110,3 +110,30 @@ class OptionsSnapshot(db.Model):
             trade_tape=latest_trade.get('tape'),
             trade_timestamp=parse_timestamp(latest_trade.get('timestamp'))
         )
+
+
+class FreshPlay(db.Model):
+    __tablename__ = 'fresh_plays'
+
+    id = db.Column(db.Integer, primary_key=True)
+    symbol = db.Column(db.String(20), nullable=False, index=True)
+    price = db.Column(db.Float, nullable=False)  # Strike price
+    expiration = db.Column(db.String(20), nullable=False)  # e.g., "weekly"
+    type = db.Column(db.String(10), nullable=False)  # "calls" or "puts"
+    play_date = db.Column(db.Date, nullable=False, index=True)  # Date from filename
+    created_at = db.Column(db.DateTime, default=datetime.utcnow, nullable=False)
+
+    def __repr__(self):
+        return f'<FreshPlay {self.symbol} {self.price} {self.type} on {self.play_date}>'
+
+    def to_dict(self):
+        """Convert to dictionary format"""
+        return {
+            'id': self.id,
+            'symbol': self.symbol,
+            'price': self.price,
+            'expiration': self.expiration,
+            'type': self.type,
+            'play_date': self.play_date.isoformat() if self.play_date else None,
+            'created_at': self.created_at.isoformat()
+        }

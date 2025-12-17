@@ -1,0 +1,96 @@
+{
+  "symbol": "LTM251121C00045000",
+  "start_time": "2025-11-10T18:25:38.390998+00:00",
+  "end_time": "2025-11-17T18:10:38.390998+00:00",
+  "bar_count": 8,
+  "bars": [
+    {
+      "timestamp": "2025-11-11T18:00:00+00:00",
+      "open": 2.0,
+      "high": 2.0,
+      "low": 2.0,
+      "close": 2.0,
+      "volume": 1.0,
+      "trade_count": 1.0,
+      "vwap": 2.0,
+      "symbol": "LTM251121C00045000"
+    },
+    {
+      "timestamp": "2025-11-13T15:00:00+00:00",
+      "open": 2.25,
+      "high": 2.25,
+      "low": 2.25,
+      "close": 2.25,
+      "volume": 1.0,
+      "trade_count": 1.0,
+      "vwap": 2.25,
+      "symbol": "LTM251121C00045000"
+    },
+    {
+      "timestamp": "2025-11-13T20:30:00+00:00",
+      "open": 1.7,
+      "high": 1.7,
+      "low": 1.7,
+      "close": 1.7,
+      "volume": 3.0,
+      "trade_count": 1.0,
+      "vwap": 1.7,
+      "symbol": "LTM251121C00045000"
+    },
+    {
+      "timestamp": "2025-11-14T14:30:00+00:00",
+      "open": 0.9,
+      "high": 0.9,
+      "low": 0.9,
+      "close": 0.9,
+      "volume": 3.0,
+      "trade_count": 3.0,
+      "vwap": 0.9,
+      "symbol": "LTM251121C00045000"
+    },
+    {
+      "timestamp": "2025-11-14T20:30:00+00:00",
+      "open": 1.4,
+      "high": 1.4,
+      "low": 1.4,
+      "close": 1.4,
+      "volume": 1.0,
+      "trade_count": 1.0,
+      "vwap": 1.4,
+      "symbol": "LTM251121C00045000"
+    },
+    {
+      "timestamp": "2025-11-17T14:30:00+00:00",
+      "open": 1.7,
+      "high": 2.7,
+      "low": 1.7,
+      "close": 2.5,
+      "volume": 5.0,
+      "trade_count": 3.0,
+      "vwap": 2.46,
+      "symbol": "LTM251121C00045000"
+    },
+    {
+      "timestamp": "2025-11-17T15:00:00+00:00",
+      "open": 2.15,
+      "high": 2.15,
+      "low": 2.15,
+      "close": 2.15,
+      "volume": 1.0,
+      "trade_count": 1.0,
+      "vwap": 2.15,
+      "symbol": "LTM251121C00045000"
+    },
+    {
+      "timestamp": "2025-11-17T15:30:00+00:00",
+      "open": 1.95,
+      "high": 1.95,
+      "low": 1.95,
+      "close": 1.95,
+      "volume": 18.0,
+      "trade_count": 8.0,
+      "vwap": 1.95,
+      "symbol": "LTM251121C00045000"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "symbol": "INTU",
+        "price": 660.0,
+        "expiration": "weekly",
+        "type": "calls"
+    },
+    {
+        "symbol": "INTU",
+        "price": 665.0,
+        "expiration": "weekly",
+        "type": "calls"
+    },
+    {
+        "symbol": "ROST",
+        "price": 165.0,
+        "expiration": "weekly",
+        "type": "calls"
+    },
+    {
+        "symbol": "GAP",
+        "price": 24.5,
+        "expiration": "weekly",
+        "type": "calls"
+    },
+    {
+        "symbol": "BJ",
+        "price": 90.0,
+        "expiration": "weekly",
+        "type": "calls"
+    }
+]

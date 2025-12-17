@@ -1,0 +1,44 @@
+[
+    {
+        "symbol": "SPY",
+        "price": 688.0,
+        "expiration": "10/29",
+        "type": "calls"
+    },
+    {
+        "symbol": "SPY",
+        "price": 689.0,
+        "expiration": "10/29",
+        "type": "calls"
+    },
+    {
+        "symbol": "CAT",
+        "price": 555.0,
+        "expiration": "weekly",
+        "type": "calls"
+    },
+    {
+        "symbol": "CAT",
+        "price": 557.5,
+        "expiration": "weekly",
+        "type": "calls"
+    },
+    {
+        "symbol": "VZ",
+        "price": 40.0,
+        "expiration": "weekly",
+        "type": "calls"
+    },
+    {
+        "symbol": "VZ",
+        "price": 41.0,
+        "expiration": "weekly",
+        "type": "calls"
+    },
+    {
+        "symbol": "STX",
+        "price": 237.5,
+        "expiration": "weekly",
+        "type": "calls"
+    }
+]

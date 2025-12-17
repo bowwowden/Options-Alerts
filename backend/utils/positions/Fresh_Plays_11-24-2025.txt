@@ -1,0 +1,38 @@
+[
+    {
+        "symbol": "SPY",
+        "price": 662.0,
+        "expiration": "11/24",
+        "type": "calls"
+    },
+    {
+        "symbol": "SPY",
+        "price": 663.0,
+        "expiration": "11/24",
+        "type": "calls"
+    },
+    {
+        "symbol": "TSLA",
+        "price": 395.0,
+        "expiration": "weekly",
+        "type": "calls"
+    },
+    {
+        "symbol": "TSLA",
+        "price": 400.0,
+        "expiration": "weekly",
+        "type": "calls"
+    },
+    {
+        "symbol": "INSP",
+        "price": 100.0,
+        "expiration": "12/19",
+        "type": "calls"
+    },
+    {
+        "symbol": "INSP",
+        "price": 110.0,
+        "expiration": "12/19",
+        "type": "calls"
+    }
+]

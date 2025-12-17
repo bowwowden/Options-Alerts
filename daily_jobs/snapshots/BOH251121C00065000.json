@@ -1,0 +1,6097 @@
+[
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:00:07.745376",
+    "quote": {
+      "timestamp": "2025-10-27T15:58:00.721291+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.08,
+      "bid_size": 39.0,
+      "ask_size": 49.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4404,
+      "gamma": 0.0799,
+      "theta": -0.0419,
+      "vega": 0.066,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:03:55.230252",
+    "quote": {
+      "timestamp": "2025-10-27T16:03:08.665338+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.07,
+      "bid_size": 39.0,
+      "ask_size": 51.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4349,
+      "gamma": 0.0784,
+      "theta": -0.0424,
+      "vega": 0.0657,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:05:29.593127",
+    "quote": {
+      "timestamp": "2025-10-27T16:04:28.181312+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.029,
+      "bid_size": 37.0,
+      "ask_size": 51.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4356,
+      "gamma": 0.0809,
+      "theta": -0.0413,
+      "vega": 0.0658,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:06:29.973220",
+    "quote": {
+      "timestamp": "2025-10-27T16:05:52.071867+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.02,
+      "bid_size": 21.0,
+      "ask_size": 22.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4391,
+      "gamma": 0.0823,
+      "theta": -0.0407,
+      "vega": 0.0659,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:07:30.333512",
+    "quote": {
+      "timestamp": "2025-10-27T16:05:52.071867+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.02,
+      "bid_size": 21.0,
+      "ask_size": 22.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4393,
+      "gamma": 0.0823,
+      "theta": -0.0408,
+      "vega": 0.0659,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:08:30.689658",
+    "quote": {
+      "timestamp": "2025-10-27T16:05:52.071867+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.02,
+      "bid_size": 21.0,
+      "ask_size": 22.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4393,
+      "gamma": 0.0823,
+      "theta": -0.0408,
+      "vega": 0.0659,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:09:31.095193",
+    "quote": {
+      "timestamp": "2025-10-27T16:05:52.071867+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.02,
+      "bid_size": 21.0,
+      "ask_size": 22.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4361,
+      "gamma": 0.0813,
+      "theta": -0.0411,
+      "vega": 0.0658,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:10:31.507624",
+    "quote": {
+      "timestamp": "2025-10-27T16:05:52.071867+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.02,
+      "bid_size": 21.0,
+      "ask_size": 22.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4362,
+      "gamma": 0.0813,
+      "theta": -0.0411,
+      "vega": 0.0658,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:11:31.839647",
+    "quote": {
+      "timestamp": "2025-10-27T16:05:52.071867+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.02,
+      "bid_size": 21.0,
+      "ask_size": 22.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4361,
+      "gamma": 0.0813,
+      "theta": -0.0411,
+      "vega": 0.0658,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:12:32.204049",
+    "quote": {
+      "timestamp": "2025-10-27T16:05:52.071867+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.02,
+      "bid_size": 21.0,
+      "ask_size": 22.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4375,
+      "gamma": 0.0817,
+      "theta": -0.041,
+      "vega": 0.0659,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:13:32.683028",
+    "quote": {
+      "timestamp": "2025-10-27T16:13:20.110597+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.09,
+      "bid_size": 57.0,
+      "ask_size": 69.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4367,
+      "gamma": 0.0796,
+      "theta": -0.042,
+      "vega": 0.0658,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:14:32.990607",
+    "quote": {
+      "timestamp": "2025-10-27T16:14:23.523808+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.07,
+      "bid_size": 56.0,
+      "ask_size": 69.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4395,
+      "gamma": 0.0799,
+      "theta": -0.0419,
+      "vega": 0.0659,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:15:33.339389",
+    "quote": {
+      "timestamp": "2025-10-27T16:14:23.523808+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.07,
+      "bid_size": 56.0,
+      "ask_size": 69.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4395,
+      "gamma": 0.0799,
+      "theta": -0.0419,
+      "vega": 0.0659,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:16:33.699554",
+    "quote": {
+      "timestamp": "2025-10-27T16:16:21.199840+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.07,
+      "bid_size": 56.0,
+      "ask_size": 69.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4313,
+      "gamma": 0.0773,
+      "theta": -0.0428,
+      "vega": 0.0656,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:17:34.147896",
+    "quote": {
+      "timestamp": "2025-10-27T16:17:03.825993+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.029,
+      "bid_size": 57.0,
+      "ask_size": 69.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4276,
+      "gamma": 0.0783,
+      "theta": -0.0421,
+      "vega": 0.0654,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:18:34.457701",
+    "quote": {
+      "timestamp": "2025-10-27T16:18:33.480140+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.02,
+      "bid_size": 55.0,
+      "ask_size": 69.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4284,
+      "gamma": 0.0777,
+      "theta": -0.0425,
+      "vega": 0.0654,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:19:34.857660",
+    "quote": {
+      "timestamp": "2025-10-27T16:19:13.574192+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.02,
+      "bid_size": 55.0,
+      "ask_size": 69.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4284,
+      "gamma": 0.0777,
+      "theta": -0.0425,
+      "vega": 0.0654,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:20:35.172817",
+    "quote": {
+      "timestamp": "2025-10-27T16:20:25.240738+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.07,
+      "bid_size": 41.0,
+      "ask_size": 69.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4157,
+      "gamma": 0.0725,
+      "theta": -0.0447,
+      "vega": 0.0647,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:21:35.537106",
+    "quote": {
+      "timestamp": "2025-10-27T16:21:16.830940+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.07,
+      "bid_size": 16.0,
+      "ask_size": 69.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4171,
+      "gamma": 0.0739,
+      "theta": -0.044,
+      "vega": 0.0648,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:22:35.866354",
+    "quote": {
+      "timestamp": "2025-10-27T16:22:29.935594+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.08,
+      "bid_size": 16.0,
+      "ask_size": 69.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4168,
+      "gamma": 0.0726,
+      "theta": -0.0447,
+      "vega": 0.0648,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:23:36.233840",
+    "quote": {
+      "timestamp": "2025-10-27T16:23:35.318854+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.09,
+      "bid_size": 27.0,
+      "ask_size": 74.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.425,
+      "gamma": 0.0748,
+      "theta": -0.0439,
+      "vega": 0.0652,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:24:36.570560",
+    "quote": {
+      "timestamp": "2025-10-27T16:24:20.831998+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.029,
+      "bid_size": 38.0,
+      "ask_size": 74.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4221,
+      "gamma": 0.0766,
+      "theta": -0.0428,
+      "vega": 0.0651,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:25:36.940195",
+    "quote": {
+      "timestamp": "2025-10-27T16:25:32.132436+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.029,
+      "bid_size": 38.0,
+      "ask_size": 74.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4261,
+      "gamma": 0.0778,
+      "theta": -0.0424,
+      "vega": 0.0653,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:26:37.337069",
+    "quote": {
+      "timestamp": "2025-10-27T16:25:55.704837+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.029,
+      "bid_size": 43.0,
+      "ask_size": 74.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4277,
+      "gamma": 0.0773,
+      "theta": -0.0427,
+      "vega": 0.0654,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:27:37.716638",
+    "quote": {
+      "timestamp": "2025-10-27T16:25:55.704837+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.029,
+      "bid_size": 43.0,
+      "ask_size": 74.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4275,
+      "gamma": 0.0772,
+      "theta": -0.0427,
+      "vega": 0.0654,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:28:38.042889",
+    "quote": {
+      "timestamp": "2025-10-27T16:25:55.704837+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.029,
+      "bid_size": 43.0,
+      "ask_size": 74.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4277,
+      "gamma": 0.0773,
+      "theta": -0.0427,
+      "vega": 0.0654,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:29:38.402718",
+    "quote": {
+      "timestamp": "2025-10-27T16:25:55.704837+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.029,
+      "bid_size": 43.0,
+      "ask_size": 74.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.428,
+      "gamma": 0.0774,
+      "theta": -0.0427,
+      "vega": 0.0654,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:30:38.762864",
+    "quote": {
+      "timestamp": "2025-10-27T16:25:55.704837+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.029,
+      "bid_size": 43.0,
+      "ask_size": 74.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.428,
+      "gamma": 0.0774,
+      "theta": -0.0427,
+      "vega": 0.0654,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:31:39.131812",
+    "quote": {
+      "timestamp": "2025-10-27T16:25:55.704837+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.029,
+      "bid_size": 43.0,
+      "ask_size": 74.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4278,
+      "gamma": 0.0773,
+      "theta": -0.0427,
+      "vega": 0.0654,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:32:39.459840",
+    "quote": {
+      "timestamp": "2025-10-27T16:25:55.704837+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.029,
+      "bid_size": 43.0,
+      "ask_size": 74.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4278,
+      "gamma": 0.0773,
+      "theta": -0.0427,
+      "vega": 0.0654,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:33:39.767196",
+    "quote": {
+      "timestamp": "2025-10-27T16:25:55.704837+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.029,
+      "bid_size": 43.0,
+      "ask_size": 74.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.428,
+      "gamma": 0.0774,
+      "theta": -0.0427,
+      "vega": 0.0654,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:34:40.121728",
+    "quote": {
+      "timestamp": "2025-10-27T16:25:55.704837+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.029,
+      "bid_size": 43.0,
+      "ask_size": 74.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4326,
+      "gamma": 0.0788,
+      "theta": -0.0421,
+      "vega": 0.0656,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:35:40.485554",
+    "quote": {
+      "timestamp": "2025-10-27T16:35:24.834072+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.029,
+      "bid_size": 43.0,
+      "ask_size": 74.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.453,
+      "gamma": 0.0853,
+      "theta": -0.0398,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:36:40.804150",
+    "quote": {
+      "timestamp": "2025-10-27T16:35:41.138036+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.08,
+      "bid_size": 43.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4336,
+      "gamma": 0.0788,
+      "theta": -0.0422,
+      "vega": 0.0657,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:37:41.170933",
+    "quote": {
+      "timestamp": "2025-10-27T16:35:41.138036+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.08,
+      "bid_size": 43.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4459,
+      "gamma": 0.0827,
+      "theta": -0.0408,
+      "vega": 0.0662,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:38:41.528063",
+    "quote": {
+      "timestamp": "2025-10-27T16:35:41.138036+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.08,
+      "bid_size": 43.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4463,
+      "gamma": 0.0828,
+      "theta": -0.0408,
+      "vega": 0.0662,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:39:41.907452",
+    "quote": {
+      "timestamp": "2025-10-27T16:35:41.138036+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.08,
+      "bid_size": 43.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4447,
+      "gamma": 0.0823,
+      "theta": -0.0409,
+      "vega": 0.0661,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:40:42.379834",
+    "quote": {
+      "timestamp": "2025-10-27T16:35:41.138036+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.08,
+      "bid_size": 43.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4575,
+      "gamma": 0.0864,
+      "theta": -0.0395,
+      "vega": 0.0666,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:41:42.737061",
+    "quote": {
+      "timestamp": "2025-10-27T16:35:41.138036+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.08,
+      "bid_size": 43.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4575,
+      "gamma": 0.0864,
+      "theta": -0.0395,
+      "vega": 0.0666,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:42:43.093870",
+    "quote": {
+      "timestamp": "2025-10-27T16:35:41.138036+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.08,
+      "bid_size": 43.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4544,
+      "gamma": 0.0854,
+      "theta": -0.0399,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:43:43.455845",
+    "quote": {
+      "timestamp": "2025-10-27T16:35:41.138036+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.08,
+      "bid_size": 43.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4544,
+      "gamma": 0.0854,
+      "theta": -0.0399,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:44:43.824685",
+    "quote": {
+      "timestamp": "2025-10-27T16:35:41.138036+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.08,
+      "bid_size": 43.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4609,
+      "gamma": 0.0875,
+      "theta": -0.0392,
+      "vega": 0.0667,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:45:44.155098",
+    "quote": {
+      "timestamp": "2025-10-27T16:35:41.138036+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.08,
+      "bid_size": 43.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4544,
+      "gamma": 0.0854,
+      "theta": -0.0399,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:46:44.515925",
+    "quote": {
+      "timestamp": "2025-10-27T16:35:41.138036+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.08,
+      "bid_size": 43.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4544,
+      "gamma": 0.0854,
+      "theta": -0.0399,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:47:44.882928",
+    "quote": {
+      "timestamp": "2025-10-27T16:35:41.138036+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.08,
+      "bid_size": 43.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4544,
+      "gamma": 0.0854,
+      "theta": -0.0399,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:48:45.187683",
+    "quote": {
+      "timestamp": "2025-10-27T16:35:41.138036+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.08,
+      "bid_size": 43.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4596,
+      "gamma": 0.0871,
+      "theta": -0.0393,
+      "vega": 0.0667,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:49:45.583945",
+    "quote": {
+      "timestamp": "2025-10-27T16:35:41.138036+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.08,
+      "bid_size": 43.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4544,
+      "gamma": 0.0854,
+      "theta": -0.0399,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:50:45.983258",
+    "quote": {
+      "timestamp": "2025-10-27T16:35:41.138036+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.08,
+      "bid_size": 43.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.449,
+      "gamma": 0.0837,
+      "theta": -0.0405,
+      "vega": 0.0663,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:51:46.300491",
+    "quote": {
+      "timestamp": "2025-10-27T16:35:41.138036+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.08,
+      "bid_size": 43.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4508,
+      "gamma": 0.0843,
+      "theta": -0.0403,
+      "vega": 0.0664,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:52:46.690567",
+    "quote": {
+      "timestamp": "2025-10-27T16:35:41.138036+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.08,
+      "bid_size": 43.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4592,
+      "gamma": 0.087,
+      "theta": -0.0394,
+      "vega": 0.0667,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:53:47.060239",
+    "quote": {
+      "timestamp": "2025-10-27T16:35:41.138036+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.08,
+      "bid_size": 43.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4585,
+      "gamma": 0.0867,
+      "theta": -0.0394,
+      "vega": 0.0666,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:54:47.472440",
+    "quote": {
+      "timestamp": "2025-10-27T16:35:41.138036+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.08,
+      "bid_size": 43.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4585,
+      "gamma": 0.0867,
+      "theta": -0.0394,
+      "vega": 0.0666,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:55:47.847625",
+    "quote": {
+      "timestamp": "2025-10-27T16:35:41.138036+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.08,
+      "bid_size": 43.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4727,
+      "gamma": 0.0913,
+      "theta": -0.0379,
+      "vega": 0.067,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:56:48.203588",
+    "quote": {
+      "timestamp": "2025-10-27T16:35:41.138036+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.08,
+      "bid_size": 43.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4738,
+      "gamma": 0.0917,
+      "theta": -0.0378,
+      "vega": 0.0671,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:57:48.564374",
+    "quote": {
+      "timestamp": "2025-10-27T16:35:41.138036+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.08,
+      "bid_size": 43.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4738,
+      "gamma": 0.0917,
+      "theta": -0.0378,
+      "vega": 0.0671,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:58:48.937263",
+    "quote": {
+      "timestamp": "2025-10-27T16:35:41.138036+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.08,
+      "bid_size": 43.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4742,
+      "gamma": 0.0918,
+      "theta": -0.0378,
+      "vega": 0.0671,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T16:59:49.258880",
+    "quote": {
+      "timestamp": "2025-10-27T16:35:41.138036+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.08,
+      "bid_size": 43.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4731,
+      "gamma": 0.0914,
+      "theta": -0.0379,
+      "vega": 0.0671,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:00:49.639676",
+    "quote": {
+      "timestamp": "2025-10-27T17:00:33.488191+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.09,
+      "bid_size": 42.0,
+      "ask_size": 54.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4738,
+      "gamma": 0.0901,
+      "theta": -0.0384,
+      "vega": 0.0671,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:01:50.006708",
+    "quote": {
+      "timestamp": "2025-10-27T17:01:10.476136+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.029,
+      "bid_size": 51.0,
+      "ask_size": 59.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4764,
+      "gamma": 0.0928,
+      "theta": -0.0374,
+      "vega": 0.0671,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:02:50.371357",
+    "quote": {
+      "timestamp": "2025-10-27T17:02:06.919876+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.009,
+      "bid_size": 51.0,
+      "ask_size": 64.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4761,
+      "gamma": 0.0934,
+      "theta": -0.0372,
+      "vega": 0.0671,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:03:50.684744",
+    "quote": {
+      "timestamp": "2025-10-27T17:03:27.269001+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.02,
+      "bid_size": 62.0,
+      "ask_size": 64.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4861,
+      "gamma": 0.0963,
+      "theta": -0.0364,
+      "vega": 0.0673,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:04:51.059998",
+    "quote": {
+      "timestamp": "2025-10-27T17:04:50.427652+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.029,
+      "bid_size": 62.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4883,
+      "gamma": 0.098,
+      "theta": -0.0358,
+      "vega": 0.0674,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:05:51.620722",
+    "quote": {
+      "timestamp": "2025-10-27T17:05:50.119813+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.02,
+      "bid_size": 63.0,
+      "ask_size": 62.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4886,
+      "gamma": 0.0985,
+      "theta": -0.0357,
+      "vega": 0.0674,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:06:51.928521",
+    "quote": {
+      "timestamp": "2025-10-27T17:06:34.887661+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.029,
+      "bid_size": 62.0,
+      "ask_size": 62.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4788,
+      "gamma": 0.0936,
+      "theta": -0.0372,
+      "vega": 0.0672,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:07:52.291822",
+    "quote": {
+      "timestamp": "2025-10-27T17:07:42.883984+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.02,
+      "bid_size": 62.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4777,
+      "gamma": 0.0948,
+      "theta": -0.0367,
+      "vega": 0.0672,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:08:52.652815",
+    "quote": {
+      "timestamp": "2025-10-27T17:08:00.851046+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.009,
+      "bid_size": 62.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4775,
+      "gamma": 0.0952,
+      "theta": -0.0366,
+      "vega": 0.0672,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:09:52.991985",
+    "quote": {
+      "timestamp": "2025-10-27T17:08:00.851046+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.009,
+      "bid_size": 62.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.464,
+      "gamma": 0.0907,
+      "theta": -0.038,
+      "vega": 0.0668,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:10:53.358592",
+    "quote": {
+      "timestamp": "2025-10-27T17:10:44.274350+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.08,
+      "bid_size": 62.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4652,
+      "gamma": 0.0889,
+      "theta": -0.0387,
+      "vega": 0.0668,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:11:53.692173",
+    "quote": {
+      "timestamp": "2025-10-27T17:10:44.274350+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.08,
+      "bid_size": 62.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4649,
+      "gamma": 0.0888,
+      "theta": -0.0388,
+      "vega": 0.0668,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:12:54.064146",
+    "quote": {
+      "timestamp": "2025-10-27T17:12:52.995527+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.009,
+      "bid_size": 63.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.455,
+      "gamma": 0.0878,
+      "theta": -0.0389,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:13:54.416002",
+    "quote": {
+      "timestamp": "2025-10-27T17:13:18.323552+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.08,
+      "bid_size": 62.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4564,
+      "gamma": 0.0861,
+      "theta": -0.0396,
+      "vega": 0.0666,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:14:54.735054",
+    "quote": {
+      "timestamp": "2025-10-27T17:13:18.323552+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.08,
+      "bid_size": 62.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4564,
+      "gamma": 0.0861,
+      "theta": -0.0396,
+      "vega": 0.0666,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:15:55.054782",
+    "quote": {
+      "timestamp": "2025-10-27T17:15:28.889205+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.02,
+      "bid_size": 62.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.456,
+      "gamma": 0.0865,
+      "theta": -0.0394,
+      "vega": 0.0666,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:16:55.419210",
+    "quote": {
+      "timestamp": "2025-10-27T17:15:28.889205+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.02,
+      "bid_size": 62.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.449,
+      "gamma": 0.0843,
+      "theta": -0.0402,
+      "vega": 0.0663,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:17:55.778167",
+    "quote": {
+      "timestamp": "2025-10-27T17:17:00.310238+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.029,
+      "bid_size": 62.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4365,
+      "gamma": 0.0812,
+      "theta": -0.0412,
+      "vega": 0.0658,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:18:56.157372",
+    "quote": {
+      "timestamp": "2025-10-27T17:18:53.967542+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.07,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4375,
+      "gamma": 0.0803,
+      "theta": -0.0416,
+      "vega": 0.0658,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:19:56.490607",
+    "quote": {
+      "timestamp": "2025-10-27T17:19:45.532750+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.08,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.438,
+      "gamma": 0.0792,
+      "theta": -0.0422,
+      "vega": 0.0658,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:20:56.851886",
+    "quote": {
+      "timestamp": "2025-10-27T17:20:45.579567+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.029,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4359,
+      "gamma": 0.081,
+      "theta": -0.0413,
+      "vega": 0.0658,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:21:57.208681",
+    "quote": {
+      "timestamp": "2025-10-27T17:21:24.764974+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.029,
+      "bid_size": 59.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4359,
+      "gamma": 0.081,
+      "theta": -0.0413,
+      "vega": 0.0658,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:22:57.574192",
+    "quote": {
+      "timestamp": "2025-10-27T17:22:20.460882+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.08,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4371,
+      "gamma": 0.0799,
+      "theta": -0.0418,
+      "vega": 0.0658,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:23:58.011784",
+    "quote": {
+      "timestamp": "2025-10-27T17:23:57.659605+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.07,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4369,
+      "gamma": 0.0801,
+      "theta": -0.0417,
+      "vega": 0.0658,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:24:58.359090",
+    "quote": {
+      "timestamp": "2025-10-27T17:24:50.793456+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.009,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4437,
+      "gamma": 0.0829,
+      "theta": -0.0406,
+      "vega": 0.0661,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:25:58.715828",
+    "quote": {
+      "timestamp": "2025-10-27T17:25:20.666413+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.029,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4558,
+      "gamma": 0.0874,
+      "theta": -0.0391,
+      "vega": 0.0666,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:26:59.078709",
+    "quote": {
+      "timestamp": "2025-10-27T17:26:58.016632+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.09,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4506,
+      "gamma": 0.084,
+      "theta": -0.0404,
+      "vega": 0.0664,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:27:59.444903",
+    "quote": {
+      "timestamp": "2025-10-27T17:27:32.562602+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.07,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4511,
+      "gamma": 0.0835,
+      "theta": -0.0406,
+      "vega": 0.0664,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:28:59.799369",
+    "quote": {
+      "timestamp": "2025-10-27T17:28:44.918787+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.029,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.453,
+      "gamma": 0.0865,
+      "theta": -0.0394,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:30:00.163499",
+    "quote": {
+      "timestamp": "2025-10-27T17:29:43.132535+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.07,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4539,
+      "gamma": 0.0856,
+      "theta": -0.0398,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:31:00.536745",
+    "quote": {
+      "timestamp": "2025-10-27T17:30:15.579452+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.07,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4547,
+      "gamma": 0.0847,
+      "theta": -0.0402,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:32:00.931400",
+    "quote": {
+      "timestamp": "2025-10-27T17:31:52.755035+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.07,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4547,
+      "gamma": 0.0847,
+      "theta": -0.0402,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:33:01.361209",
+    "quote": {
+      "timestamp": "2025-10-27T17:32:57.661630+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.07,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4539,
+      "gamma": 0.0856,
+      "theta": -0.0398,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:34:01.671226",
+    "quote": {
+      "timestamp": "2025-10-27T17:33:48.859236+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.07,
+      "bid_size": 59.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.458,
+      "gamma": 0.0869,
+      "theta": -0.0394,
+      "vega": 0.0666,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:35:01.989315",
+    "quote": {
+      "timestamp": "2025-10-27T17:34:34.061729+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.029,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4579,
+      "gamma": 0.0869,
+      "theta": -0.0394,
+      "vega": 0.0666,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:36:02.352102",
+    "quote": {
+      "timestamp": "2025-10-27T17:35:20.429469+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.08,
+      "bid_size": 59.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4589,
+      "gamma": 0.0857,
+      "theta": -0.0399,
+      "vega": 0.0666,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:37:02.671292",
+    "quote": {
+      "timestamp": "2025-10-27T17:36:34.173121+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.07,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4587,
+      "gamma": 0.0859,
+      "theta": -0.0398,
+      "vega": 0.0666,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:38:02.998710",
+    "quote": {
+      "timestamp": "2025-10-27T17:37:45.753827+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.029,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4593,
+      "gamma": 0.0885,
+      "theta": -0.0387,
+      "vega": 0.0667,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:39:03.309396",
+    "quote": {
+      "timestamp": "2025-10-27T17:38:28.986731+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.029,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4545,
+      "gamma": 0.0858,
+      "theta": -0.0397,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:40:03.649447",
+    "quote": {
+      "timestamp": "2025-10-27T17:40:01.200839+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.08,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4555,
+      "gamma": 0.0846,
+      "theta": -0.0402,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:41:04.028197",
+    "quote": {
+      "timestamp": "2025-10-27T17:40:48.535518+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.07,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4545,
+      "gamma": 0.0858,
+      "theta": -0.0397,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:42:04.431660",
+    "quote": {
+      "timestamp": "2025-10-27T17:41:28.447908+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.029,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4524,
+      "gamma": 0.0863,
+      "theta": -0.0395,
+      "vega": 0.0664,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:43:04.802918",
+    "quote": {
+      "timestamp": "2025-10-27T17:42:47.208367+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.08,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4504,
+      "gamma": 0.0842,
+      "theta": -0.0403,
+      "vega": 0.0664,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:44:05.208985",
+    "quote": {
+      "timestamp": "2025-10-27T17:43:50.014756+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.08,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4474,
+      "gamma": 0.0821,
+      "theta": -0.0411,
+      "vega": 0.0662,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:45:05.587263",
+    "quote": {
+      "timestamp": "2025-10-27T17:45:03.751335+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.08,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4453,
+      "gamma": 0.0814,
+      "theta": -0.0414,
+      "vega": 0.0661,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:46:05.958341",
+    "quote": {
+      "timestamp": "2025-10-27T17:45:53.317178+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.07,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4423,
+      "gamma": 0.0819,
+      "theta": -0.0411,
+      "vega": 0.066,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:47:06.339070",
+    "quote": {
+      "timestamp": "2025-10-27T17:47:06.015528+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.07,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4432,
+      "gamma": 0.081,
+      "theta": -0.0415,
+      "vega": 0.0661,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:48:06.648205",
+    "quote": {
+      "timestamp": "2025-10-27T17:48:00.658300+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.07,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4423,
+      "gamma": 0.0819,
+      "theta": -0.0411,
+      "vega": 0.066,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:49:07.077819",
+    "quote": {
+      "timestamp": "2025-10-27T17:49:01.395874+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.07,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4426,
+      "gamma": 0.082,
+      "theta": -0.041,
+      "vega": 0.0661,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:50:07.439934",
+    "quote": {
+      "timestamp": "2025-10-27T17:49:52.075957+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.02,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4415,
+      "gamma": 0.083,
+      "theta": -0.0405,
+      "vega": 0.066,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:51:07.797538",
+    "quote": {
+      "timestamp": "2025-10-27T17:51:07.387395+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.08,
+      "bid_size": 59.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4395,
+      "gamma": 0.0807,
+      "theta": -0.0415,
+      "vega": 0.0659,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:52:08.190035",
+    "quote": {
+      "timestamp": "2025-10-27T17:52:00.502035+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.07,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4423,
+      "gamma": 0.0819,
+      "theta": -0.0411,
+      "vega": 0.066,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:53:08.570157",
+    "quote": {
+      "timestamp": "2025-10-27T17:52:30.285334+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.09,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4421,
+      "gamma": 0.0802,
+      "theta": -0.0419,
+      "vega": 0.066,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:54:08.968984",
+    "quote": {
+      "timestamp": "2025-10-27T17:53:45.964017+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.07,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4408,
+      "gamma": 0.0814,
+      "theta": -0.0412,
+      "vega": 0.066,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:55:09.340561",
+    "quote": {
+      "timestamp": "2025-10-27T17:54:14.533097+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.029,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4413,
+      "gamma": 0.0827,
+      "theta": -0.0406,
+      "vega": 0.066,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:56:09.714392",
+    "quote": {
+      "timestamp": "2025-10-27T17:56:08.845598+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.02,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4446,
+      "gamma": 0.0829,
+      "theta": -0.0407,
+      "vega": 0.0661,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:57:10.091819",
+    "quote": {
+      "timestamp": "2025-10-27T17:57:06.669147+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.029,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4439,
+      "gamma": 0.0835,
+      "theta": -0.0404,
+      "vega": 0.0661,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:58:10.404417",
+    "quote": {
+      "timestamp": "2025-10-27T17:58:02.512806+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.029,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4448,
+      "gamma": 0.0827,
+      "theta": -0.0408,
+      "vega": 0.0661,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T17:59:10.780982",
+    "quote": {
+      "timestamp": "2025-10-27T17:58:28.591039+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.02,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4437,
+      "gamma": 0.0837,
+      "theta": -0.0403,
+      "vega": 0.0661,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:00:11.164585",
+    "quote": {
+      "timestamp": "2025-10-27T18:00:10.134306+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.07,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4448,
+      "gamma": 0.0827,
+      "theta": -0.0408,
+      "vega": 0.0661,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:01:11.518444",
+    "quote": {
+      "timestamp": "2025-10-27T18:00:39.246015+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.029,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4417,
+      "gamma": 0.0828,
+      "theta": -0.0406,
+      "vega": 0.066,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:02:11.899663",
+    "quote": {
+      "timestamp": "2025-10-27T18:02:02.926143+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.009,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4447,
+      "gamma": 0.0844,
+      "theta": -0.04,
+      "vega": 0.0662,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:03:12.247182",
+    "quote": {
+      "timestamp": "2025-10-27T18:03:01.919079+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.08,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4459,
+      "gamma": 0.0827,
+      "theta": -0.0408,
+      "vega": 0.0662,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:04:12.569910",
+    "quote": {
+      "timestamp": "2025-10-27T18:03:59.863520+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.07,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4457,
+      "gamma": 0.083,
+      "theta": -0.0407,
+      "vega": 0.0662,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:05:12.983804",
+    "quote": {
+      "timestamp": "2025-10-27T18:05:01.180480+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.07,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4331,
+      "gamma": 0.0789,
+      "theta": -0.0421,
+      "vega": 0.0656,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:06:13.486100",
+    "quote": {
+      "timestamp": "2025-10-27T18:06:11.708257+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.02,
+      "bid_size": 59.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4328,
+      "gamma": 0.0791,
+      "theta": -0.042,
+      "vega": 0.0656,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:07:13.822877",
+    "quote": {
+      "timestamp": "2025-10-27T18:07:01.047734+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.029,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4371,
+      "gamma": 0.0813,
+      "theta": -0.0411,
+      "vega": 0.0658,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:08:14.129271",
+    "quote": {
+      "timestamp": "2025-10-27T18:07:49.590814+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.08,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4395,
+      "gamma": 0.0796,
+      "theta": -0.042,
+      "vega": 0.0659,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:09:14.498436",
+    "quote": {
+      "timestamp": "2025-10-27T18:09:00.014904+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.029,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4374,
+      "gamma": 0.0814,
+      "theta": -0.0411,
+      "vega": 0.0659,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:10:14.989671",
+    "quote": {
+      "timestamp": "2025-10-27T18:10:06.058769+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.029,
+      "bid_size": 59.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4306,
+      "gamma": 0.0793,
+      "theta": -0.0419,
+      "vega": 0.0656,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:11:15.365912",
+    "quote": {
+      "timestamp": "2025-10-27T18:11:11.114414+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.02,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4317,
+      "gamma": 0.0788,
+      "theta": -0.0421,
+      "vega": 0.0656,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:12:15.696781",
+    "quote": {
+      "timestamp": "2025-10-27T18:12:03.304210+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.07,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4329,
+      "gamma": 0.0778,
+      "theta": -0.0427,
+      "vega": 0.0656,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:13:16.041061",
+    "quote": {
+      "timestamp": "2025-10-27T18:12:53.241232+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.07,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4334,
+      "gamma": 0.079,
+      "theta": -0.0421,
+      "vega": 0.0657,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:14:16.406726",
+    "quote": {
+      "timestamp": "2025-10-27T18:14:02.447313+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.02,
+      "bid_size": 59.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4314,
+      "gamma": 0.0787,
+      "theta": -0.0422,
+      "vega": 0.0656,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:15:16.730123",
+    "quote": {
+      "timestamp": "2025-10-27T18:14:02.447313+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.02,
+      "bid_size": 59.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4314,
+      "gamma": 0.0787,
+      "theta": -0.0422,
+      "vega": 0.0656,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:16:17.089203",
+    "quote": {
+      "timestamp": "2025-10-27T18:16:10.268475+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.029,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4306,
+      "gamma": 0.0793,
+      "theta": -0.0419,
+      "vega": 0.0656,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:17:17.460119",
+    "quote": {
+      "timestamp": "2025-10-27T18:17:13.302522+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.02,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4304,
+      "gamma": 0.0795,
+      "theta": -0.0418,
+      "vega": 0.0655,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:18:17.842784",
+    "quote": {
+      "timestamp": "2025-10-27T18:17:58.889471+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.029,
+      "bid_size": 58.0,
+      "ask_size": 60.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4223,
+      "gamma": 0.0766,
+      "theta": -0.0428,
+      "vega": 0.0651,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:19:18.221243",
+    "quote": {
+      "timestamp": "2025-10-27T18:19:09.200061+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.02,
+      "bid_size": 58.0,
+      "ask_size": 73.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4283,
+      "gamma": 0.0777,
+      "theta": -0.0425,
+      "vega": 0.0654,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:20:18.587531",
+    "quote": {
+      "timestamp": "2025-10-27T18:19:09.200061+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.02,
+      "bid_size": 58.0,
+      "ask_size": 73.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4255,
+      "gamma": 0.0768,
+      "theta": -0.0429,
+      "vega": 0.0653,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:21:18.951373",
+    "quote": {
+      "timestamp": "2025-10-27T18:21:16.323635+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.09,
+      "bid_size": 59.0,
+      "ask_size": 70.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4577,
+      "gamma": 0.0862,
+      "theta": -0.0396,
+      "vega": 0.0666,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:22:19.424405",
+    "quote": {
+      "timestamp": "2025-10-27T18:22:08.769591+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.07,
+      "bid_size": 61.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4809,
+      "gamma": 0.093,
+      "theta": -0.0375,
+      "vega": 0.0672,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:23:19.732625",
+    "quote": {
+      "timestamp": "2025-10-27T18:22:08.769591+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.07,
+      "bid_size": 61.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4672,
+      "gamma": 0.0886,
+      "theta": -0.0389,
+      "vega": 0.0669,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:24:20.146714",
+    "quote": {
+      "timestamp": "2025-10-27T18:24:19.846753+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.02,
+      "bid_size": 61.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4592,
+      "gamma": 0.0876,
+      "theta": -0.0391,
+      "vega": 0.0667,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:25:20.530073",
+    "quote": {
+      "timestamp": "2025-10-27T18:24:21.568196+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.07,
+      "bid_size": 61.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4601,
+      "gamma": 0.0864,
+      "theta": -0.0396,
+      "vega": 0.0667,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:26:20.911099",
+    "quote": {
+      "timestamp": "2025-10-27T18:26:19.136356+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.08,
+      "bid_size": 52.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4915,
+      "gamma": 0.0974,
+      "theta": -0.0361,
+      "vega": 0.0674,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:27:21.282025",
+    "quote": {
+      "timestamp": "2025-10-27T18:27:10.185258+00:00",
+      "bid_price": 0.98,
+      "ask_price": 2.02,
+      "bid_size": 61.0,
+      "ask_size": 51.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4706,
+      "gamma": 0.0925,
+      "theta": -0.0375,
+      "vega": 0.067,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:28:21.652704",
+    "quote": {
+      "timestamp": "2025-10-27T18:28:08.721860+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.09,
+      "bid_size": 61.0,
+      "ask_size": 38.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4675,
+      "gamma": 0.0881,
+      "theta": -0.0391,
+      "vega": 0.0669,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:29:22.017419",
+    "quote": {
+      "timestamp": "2025-10-27T18:29:20.522135+00:00",
+      "bid_price": 1.02,
+      "ask_price": 2.09,
+      "bid_size": 61.0,
+      "ask_size": 61.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4657,
+      "gamma": 0.0876,
+      "theta": -0.0393,
+      "vega": 0.0669,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:30:22.374710",
+    "quote": {
+      "timestamp": "2025-10-27T18:30:15.830699+00:00",
+      "bid_price": 1.23,
+      "ask_price": 2.28,
+      "bid_size": 63.0,
+      "ask_size": 12.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.5204,
+      "gamma": 0.0925,
+      "theta": -0.0379,
+      "vega": 0.0677,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:31:22.721334",
+    "quote": {
+      "timestamp": "2025-10-27T18:31:02.721391+00:00",
+      "bid_price": 1.27,
+      "ask_price": 2.32,
+      "bid_size": 63.0,
+      "ask_size": 16.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.5174,
+      "gamma": 0.0896,
+      "theta": -0.039,
+      "vega": 0.0677,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:32:23.049639",
+    "quote": {
+      "timestamp": "2025-10-27T18:31:57.798213+00:00",
+      "bid_price": 1.27,
+      "ask_price": 2.26,
+      "bid_size": 63.0,
+      "ask_size": 16.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.5227,
+      "gamma": 0.0926,
+      "theta": -0.0379,
+      "vega": 0.0677,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:33:23.408289",
+    "quote": {
+      "timestamp": "2025-10-27T18:31:57.798213+00:00",
+      "bid_price": 1.27,
+      "ask_price": 2.26,
+      "bid_size": 63.0,
+      "ask_size": 16.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.5121,
+      "gamma": 0.0897,
+      "theta": -0.039,
+      "vega": 0.0676,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:34:23.750745",
+    "quote": {
+      "timestamp": "2025-10-27T18:34:16.923108+00:00",
+      "bid_price": 1.27,
+      "ask_price": 2.32,
+      "bid_size": 63.0,
+      "ask_size": 12.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.5359,
+      "gamma": 0.0947,
+      "theta": -0.0371,
+      "vega": 0.0677,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:35:24.123653",
+    "quote": {
+      "timestamp": "2025-10-27T18:35:04.162694+00:00",
+      "bid_price": 1.23,
+      "ask_price": 2.32,
+      "bid_size": 63.0,
+      "ask_size": 13.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.533,
+      "gamma": 0.095,
+      "theta": -0.037,
+      "vega": 0.0677,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:36:24.452798",
+    "quote": {
+      "timestamp": "2025-10-27T18:36:24.153218+00:00",
+      "bid_price": 1.27,
+      "ask_price": 2.26,
+      "bid_size": 62.0,
+      "ask_size": 13.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.5264,
+      "gamma": 0.0937,
+      "theta": -0.0375,
+      "vega": 0.0677,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:37:24.786389",
+    "quote": {
+      "timestamp": "2025-10-27T18:37:05.783708+00:00",
+      "bid_price": 1.27,
+      "ask_price": 2.26,
+      "bid_size": 62.0,
+      "ask_size": 12.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.5351,
+      "gamma": 0.0961,
+      "theta": -0.0366,
+      "vega": 0.0677,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:38:25.174646",
+    "quote": {
+      "timestamp": "2025-10-27T18:37:31.402381+00:00",
+      "bid_price": 1.27,
+      "ask_price": 2.33,
+      "bid_size": 62.0,
+      "ask_size": 16.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.5349,
+      "gamma": 0.0941,
+      "theta": -0.0373,
+      "vega": 0.0677,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:39:25.566159",
+    "quote": {
+      "timestamp": "2025-10-27T18:39:06.718151+00:00",
+      "bid_price": 1.27,
+      "ask_price": 2.32,
+      "bid_size": 62.0,
+      "ask_size": 16.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.5349,
+      "gamma": 0.0944,
+      "theta": -0.0372,
+      "vega": 0.0677,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:40:25.930727",
+    "quote": {
+      "timestamp": "2025-10-27T18:39:06.718151+00:00",
+      "bid_price": 1.27,
+      "ask_price": 2.32,
+      "bid_size": 62.0,
+      "ask_size": 16.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.5078,
+      "gamma": 0.0869,
+      "theta": -0.0401,
+      "vega": 0.0676,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:41:26.304260",
+    "quote": {
+      "timestamp": "2025-10-27T18:40:36.241767+00:00",
+      "bid_price": 1.23,
+      "ask_price": 2.32,
+      "bid_size": 62.0,
+      "ask_size": 17.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.5182,
+      "gamma": 0.0909,
+      "theta": -0.0385,
+      "vega": 0.0677,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:42:26.673800",
+    "quote": {
+      "timestamp": "2025-10-27T18:41:45.812478+00:00",
+      "bid_price": 1.27,
+      "ask_price": 2.32,
+      "bid_size": 62.0,
+      "ask_size": 17.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.509,
+      "gamma": 0.0873,
+      "theta": -0.04,
+      "vega": 0.0676,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:43:27.046708",
+    "quote": {
+      "timestamp": "2025-10-27T18:42:52.485778+00:00",
+      "bid_price": 1.23,
+      "ask_price": 2.28,
+      "bid_size": 62.0,
+      "ask_size": 17.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.5245,
+      "gamma": 0.0937,
+      "theta": -0.0375,
+      "vega": 0.0677,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:44:27.392126",
+    "quote": {
+      "timestamp": "2025-10-27T18:44:17.506216+00:00",
+      "bid_price": 1.32,
+      "ask_price": 2.27,
+      "bid_size": 49.0,
+      "ask_size": 17.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.5301,
+      "gamma": 0.0931,
+      "theta": -0.0377,
+      "vega": 0.0677,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:45:27.745231",
+    "quote": {
+      "timestamp": "2025-10-27T18:45:25.951921+00:00",
+      "bid_price": 1.33,
+      "ask_price": 2.28,
+      "bid_size": 20.0,
+      "ask_size": 12.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.5448,
+      "gamma": 0.0965,
+      "theta": -0.0363,
+      "vega": 0.0676,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:46:28.105340",
+    "quote": {
+      "timestamp": "2025-10-27T18:46:12.864995+00:00",
+      "bid_price": 1.33,
+      "ask_price": 2.34,
+      "bid_size": 50.0,
+      "ask_size": 9.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.547,
+      "gamma": 0.0955,
+      "theta": -0.0367,
+      "vega": 0.0676,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:47:28.540418",
+    "quote": {
+      "timestamp": "2025-10-27T18:47:05.443067+00:00",
+      "bid_price": 1.37,
+      "ask_price": 2.33,
+      "bid_size": 54.0,
+      "ask_size": 17.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.5356,
+      "gamma": 0.0916,
+      "theta": -0.0382,
+      "vega": 0.0677,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:48:28.912629",
+    "quote": {
+      "timestamp": "2025-10-27T18:47:50.552643+00:00",
+      "bid_price": 1.33,
+      "ask_price": 2.34,
+      "bid_size": 54.0,
+      "ask_size": 12.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.5246,
+      "gamma": 0.0895,
+      "theta": -0.0391,
+      "vega": 0.0677,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:49:29.375979",
+    "quote": {
+      "timestamp": "2025-10-27T18:49:08.097560+00:00",
+      "bid_price": 1.37,
+      "ask_price": 2.34,
+      "bid_size": 54.0,
+      "ask_size": 12.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.519,
+      "gamma": 0.087,
+      "theta": -0.0401,
+      "vega": 0.0677,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:50:29.744080",
+    "quote": {
+      "timestamp": "2025-10-27T18:50:23.861080+00:00",
+      "bid_price": 1.33,
+      "ask_price": 2.34,
+      "bid_size": 54.0,
+      "ask_size": 12.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.5194,
+      "gamma": 0.0881,
+      "theta": -0.0396,
+      "vega": 0.0677,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:51:30.093766",
+    "quote": {
+      "timestamp": "2025-10-27T18:51:29.323630+00:00",
+      "bid_price": 1.37,
+      "ask_price": 2.32,
+      "bid_size": 54.0,
+      "ask_size": 9.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.5356,
+      "gamma": 0.0919,
+      "theta": -0.0381,
+      "vega": 0.0677,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:52:30.450618",
+    "quote": {
+      "timestamp": "2025-10-27T18:52:27.469672+00:00",
+      "bid_price": 1.33,
+      "ask_price": 2.32,
+      "bid_size": 54.0,
+      "ask_size": 9.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.5357,
+      "gamma": 0.093,
+      "theta": -0.0377,
+      "vega": 0.0677,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:53:30.801787",
+    "quote": {
+      "timestamp": "2025-10-27T18:53:26.568034+00:00",
+      "bid_price": 1.33,
+      "ask_price": 2.32,
+      "bid_size": 54.0,
+      "ask_size": 8.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.5436,
+      "gamma": 0.0951,
+      "theta": -0.0368,
+      "vega": 0.0676,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:54:31.175016",
+    "quote": {
+      "timestamp": "2025-10-27T18:54:21.381974+00:00",
+      "bid_price": 1.37,
+      "ask_price": 2.34,
+      "bid_size": 54.0,
+      "ask_size": 9.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.5433,
+      "gamma": 0.0934,
+      "theta": -0.0374,
+      "vega": 0.0676,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:55:31.550254",
+    "quote": {
+      "timestamp": "2025-10-27T18:54:55.205978+00:00",
+      "bid_price": 1.37,
+      "ask_price": 2.32,
+      "bid_size": 54.0,
+      "ask_size": 18.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.5394,
+      "gamma": 0.0929,
+      "theta": -0.0377,
+      "vega": 0.0676,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:56:31.913142",
+    "quote": {
+      "timestamp": "2025-10-27T18:56:21.074933+00:00",
+      "bid_price": 1.33,
+      "ask_price": 2.26,
+      "bid_size": 54.0,
+      "ask_size": 19.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.5196,
+      "gamma": 0.0902,
+      "theta": -0.0388,
+      "vega": 0.0677,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:57:32.246824",
+    "quote": {
+      "timestamp": "2025-10-27T18:57:19.119629+00:00",
+      "bid_price": 1.37,
+      "ask_price": 2.28,
+      "bid_size": 54.0,
+      "ask_size": 19.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.5138,
+      "gamma": 0.0871,
+      "theta": -0.04,
+      "vega": 0.0676,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:58:32.660296",
+    "quote": {
+      "timestamp": "2025-10-27T18:58:03.814848+00:00",
+      "bid_price": 1.32,
+      "ask_price": 2.32,
+      "bid_size": 54.0,
+      "ask_size": 18.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4918,
+      "gamma": 0.0813,
+      "theta": -0.0425,
+      "vega": 0.0674,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T18:59:33.034874",
+    "quote": {
+      "timestamp": "2025-10-27T18:59:24.172358+00:00",
+      "bid_price": 1.33,
+      "ask_price": 2.32,
+      "bid_size": 53.0,
+      "ask_size": 18.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4926,
+      "gamma": 0.0813,
+      "theta": -0.0425,
+      "vega": 0.0674,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:00:33.414984",
+    "quote": {
+      "timestamp": "2025-10-27T19:00:20.011095+00:00",
+      "bid_price": 1.33,
+      "ask_price": 2.32,
+      "bid_size": 53.0,
+      "ask_size": 21.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4836,
+      "gamma": 0.0789,
+      "theta": -0.0436,
+      "vega": 0.0672,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:01:33.809493",
+    "quote": {
+      "timestamp": "2025-10-27T19:01:33.163363+00:00",
+      "bid_price": 1.33,
+      "ask_price": 2.28,
+      "bid_size": 54.0,
+      "ask_size": 21.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4869,
+      "gamma": 0.0807,
+      "theta": -0.0427,
+      "vega": 0.0673,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:02:34.144692",
+    "quote": {
+      "timestamp": "2025-10-27T19:02:29.009904+00:00",
+      "bid_price": 1.37,
+      "ask_price": 2.34,
+      "bid_size": 50.0,
+      "ask_size": 21.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.488,
+      "gamma": 0.0787,
+      "theta": -0.0437,
+      "vega": 0.0673,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:03:34.511229",
+    "quote": {
+      "timestamp": "2025-10-27T19:03:29.221324+00:00",
+      "bid_price": 1.37,
+      "ask_price": 2.28,
+      "bid_size": 54.0,
+      "ask_size": 12.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.497,
+      "gamma": 0.0825,
+      "theta": -0.042,
+      "vega": 0.0674,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:04:34.879414",
+    "quote": {
+      "timestamp": "2025-10-27T19:04:20.172016+00:00",
+      "bid_price": 1.33,
+      "ask_price": 2.32,
+      "bid_size": 54.0,
+      "ask_size": 22.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.497,
+      "gamma": 0.0825,
+      "theta": -0.042,
+      "vega": 0.0674,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:05:35.242792",
+    "quote": {
+      "timestamp": "2025-10-27T19:05:23.910718+00:00",
+      "bid_price": 1.37,
+      "ask_price": 2.33,
+      "bid_size": 54.0,
+      "ask_size": 22.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.5038,
+      "gamma": 0.0831,
+      "theta": -0.0417,
+      "vega": 0.0675,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:06:35.789458",
+    "quote": {
+      "timestamp": "2025-10-27T19:06:29.624993+00:00",
+      "bid_price": 1.33,
+      "ask_price": 2.28,
+      "bid_size": 54.0,
+      "ask_size": 22.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4959,
+      "gamma": 0.0832,
+      "theta": -0.0417,
+      "vega": 0.0674,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:07:36.157041",
+    "quote": {
+      "timestamp": "2025-10-27T19:07:31.057156+00:00",
+      "bid_price": 1.33,
+      "ask_price": 2.34,
+      "bid_size": 54.0,
+      "ask_size": 22.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4921,
+      "gamma": 0.0807,
+      "theta": -0.0428,
+      "vega": 0.0674,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:08:36.510418",
+    "quote": {
+      "timestamp": "2025-10-27T19:08:04.783703+00:00",
+      "bid_price": 1.33,
+      "ask_price": 2.28,
+      "bid_size": 54.0,
+      "ask_size": 21.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4915,
+      "gamma": 0.0819,
+      "theta": -0.0422,
+      "vega": 0.0674,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:09:36.865578",
+    "quote": {
+      "timestamp": "2025-10-27T19:08:42.166920+00:00",
+      "bid_price": 1.33,
+      "ask_price": 2.32,
+      "bid_size": 54.0,
+      "ask_size": 22.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4919,
+      "gamma": 0.0811,
+      "theta": -0.0426,
+      "vega": 0.0674,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:10:37.193700",
+    "quote": {
+      "timestamp": "2025-10-27T19:10:29.081890+00:00",
+      "bid_price": 1.33,
+      "ask_price": 2.32,
+      "bid_size": 54.0,
+      "ask_size": 22.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4912,
+      "gamma": 0.0809,
+      "theta": -0.0427,
+      "vega": 0.0673,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:11:37.585199",
+    "quote": {
+      "timestamp": "2025-10-27T19:11:21.614358+00:00",
+      "bid_price": 1.37,
+      "ask_price": 2.34,
+      "bid_size": 54.0,
+      "ask_size": 22.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.49,
+      "gamma": 0.0792,
+      "theta": -0.0435,
+      "vega": 0.0673,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:12:37.952855",
+    "quote": {
+      "timestamp": "2025-10-27T19:12:00.339604+00:00",
+      "bid_price": 1.33,
+      "ask_price": 2.26,
+      "bid_size": 54.0,
+      "ask_size": 11.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.5014,
+      "gamma": 0.0852,
+      "theta": -0.0408,
+      "vega": 0.0675,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:13:38.257648",
+    "quote": {
+      "timestamp": "2025-10-27T19:13:02.196641+00:00",
+      "bid_price": 1.37,
+      "ask_price": 2.32,
+      "bid_size": 50.0,
+      "ask_size": 16.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.5022,
+      "gamma": 0.0829,
+      "theta": -0.0418,
+      "vega": 0.0675,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:14:38.600140",
+    "quote": {
+      "timestamp": "2025-10-27T19:14:19.490323+00:00",
+      "bid_price": 1.33,
+      "ask_price": 2.28,
+      "bid_size": 50.0,
+      "ask_size": 19.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4879,
+      "gamma": 0.081,
+      "theta": -0.0426,
+      "vega": 0.0673,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:15:38.907869",
+    "quote": {
+      "timestamp": "2025-10-27T19:14:47.374781+00:00",
+      "bid_price": 1.37,
+      "ask_price": 2.32,
+      "bid_size": 51.0,
+      "ask_size": 18.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4847,
+      "gamma": 0.0783,
+      "theta": -0.0439,
+      "vega": 0.0672,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:16:39.287064",
+    "quote": {
+      "timestamp": "2025-10-27T19:16:36.007360+00:00",
+      "bid_price": 1.33,
+      "ask_price": 2.27,
+      "bid_size": 50.0,
+      "ask_size": 19.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4837,
+      "gamma": 0.08,
+      "theta": -0.043,
+      "vega": 0.0672,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:17:39.622428",
+    "quote": {
+      "timestamp": "2025-10-27T19:17:24.010097+00:00",
+      "bid_price": 1.37,
+      "ask_price": 2.28,
+      "bid_size": 50.0,
+      "ask_size": 21.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4849,
+      "gamma": 0.0792,
+      "theta": -0.0434,
+      "vega": 0.0672,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:18:40.014515",
+    "quote": {
+      "timestamp": "2025-10-27T19:18:38.851590+00:00",
+      "bid_price": 1.37,
+      "ask_price": 2.32,
+      "bid_size": 50.0,
+      "ask_size": 22.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4905,
+      "gamma": 0.0798,
+      "theta": -0.0432,
+      "vega": 0.0673,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:19:40.405518",
+    "quote": {
+      "timestamp": "2025-10-27T19:18:50.447001+00:00",
+      "bid_price": 1.33,
+      "ask_price": 2.34,
+      "bid_size": 50.0,
+      "ask_size": 22.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4903,
+      "gamma": 0.0802,
+      "theta": -0.043,
+      "vega": 0.0673,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:20:40.807937",
+    "quote": {
+      "timestamp": "2025-10-27T19:20:14.087019+00:00",
+      "bid_price": 1.33,
+      "ask_price": 2.33,
+      "bid_size": 50.0,
+      "ask_size": 21.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4871,
+      "gamma": 0.0796,
+      "theta": -0.0433,
+      "vega": 0.0673,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:21:41.274792",
+    "quote": {
+      "timestamp": "2025-10-27T19:21:08.855296+00:00",
+      "bid_price": 1.32,
+      "ask_price": 2.32,
+      "bid_size": 50.0,
+      "ask_size": 21.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4897,
+      "gamma": 0.0807,
+      "theta": -0.0427,
+      "vega": 0.0673,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:22:41.632400",
+    "quote": {
+      "timestamp": "2025-10-27T19:22:08.745344+00:00",
+      "bid_price": 1.33,
+      "ask_price": 2.32,
+      "bid_size": 50.0,
+      "ask_size": 21.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4866,
+      "gamma": 0.0797,
+      "theta": -0.0432,
+      "vega": 0.0673,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:23:41.996942",
+    "quote": {
+      "timestamp": "2025-10-27T19:23:13.144139+00:00",
+      "bid_price": 1.37,
+      "ask_price": 2.33,
+      "bid_size": 50.0,
+      "ask_size": 22.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4875,
+      "gamma": 0.0788,
+      "theta": -0.0437,
+      "vega": 0.0673,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:24:42.372530",
+    "quote": {
+      "timestamp": "2025-10-27T19:24:38.304434+00:00",
+      "bid_price": 1.33,
+      "ask_price": 2.28,
+      "bid_size": 50.0,
+      "ask_size": 22.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4897,
+      "gamma": 0.0815,
+      "theta": -0.0424,
+      "vega": 0.0673,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:25:42.701957",
+    "quote": {
+      "timestamp": "2025-10-27T19:25:37.972313+00:00",
+      "bid_price": 1.37,
+      "ask_price": 2.34,
+      "bid_size": 50.0,
+      "ask_size": 22.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4907,
+      "gamma": 0.0794,
+      "theta": -0.0434,
+      "vega": 0.0673,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:26:43.061040",
+    "quote": {
+      "timestamp": "2025-10-27T19:26:06.509738+00:00",
+      "bid_price": 1.33,
+      "ask_price": 2.33,
+      "bid_size": 50.0,
+      "ask_size": 22.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4864,
+      "gamma": 0.0794,
+      "theta": -0.0434,
+      "vega": 0.0673,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:27:43.384158",
+    "quote": {
+      "timestamp": "2025-10-27T19:27:18.754035+00:00",
+      "bid_price": 1.33,
+      "ask_price": 2.27,
+      "bid_size": 50.0,
+      "ask_size": 12.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4868,
+      "gamma": 0.0809,
+      "theta": -0.0426,
+      "vega": 0.0673,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:28:43.779483",
+    "quote": {
+      "timestamp": "2025-10-27T19:28:24.109420+00:00",
+      "bid_price": 1.33,
+      "ask_price": 2.28,
+      "bid_size": 50.0,
+      "ask_size": 22.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4817,
+      "gamma": 0.0793,
+      "theta": -0.0433,
+      "vega": 0.0672,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:29:44.171094",
+    "quote": {
+      "timestamp": "2025-10-27T19:29:30.740565+00:00",
+      "bid_price": 1.33,
+      "ask_price": 2.32,
+      "bid_size": 50.0,
+      "ask_size": 22.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4891,
+      "gamma": 0.0803,
+      "theta": -0.0429,
+      "vega": 0.0673,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:30:44.518617",
+    "quote": {
+      "timestamp": "2025-10-27T19:30:42.154870+00:00",
+      "bid_price": 1.33,
+      "ask_price": 2.26,
+      "bid_size": 40.0,
+      "ask_size": 11.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4928,
+      "gamma": 0.0828,
+      "theta": -0.0418,
+      "vega": 0.0674,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:31:44.912448",
+    "quote": {
+      "timestamp": "2025-10-27T19:31:35.728614+00:00",
+      "bid_price": 1.33,
+      "ask_price": 2.28,
+      "bid_size": 51.0,
+      "ask_size": 21.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.5031,
+      "gamma": 0.0851,
+      "theta": -0.0408,
+      "vega": 0.0675,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:32:45.284079",
+    "quote": {
+      "timestamp": "2025-10-27T19:31:35.728614+00:00",
+      "bid_price": 1.33,
+      "ask_price": 2.28,
+      "bid_size": 51.0,
+      "ask_size": 21.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.5024,
+      "gamma": 0.0849,
+      "theta": -0.0409,
+      "vega": 0.0675,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:33:45.667710",
+    "quote": {
+      "timestamp": "2025-10-27T19:32:54.489884+00:00",
+      "bid_price": 1.33,
+      "ask_price": 2.27,
+      "bid_size": 50.0,
+      "ask_size": 22.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.5149,
+      "gamma": 0.0886,
+      "theta": -0.0394,
+      "vega": 0.0676,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:34:46.043719",
+    "quote": {
+      "timestamp": "2025-10-27T19:34:42.191147+00:00",
+      "bid_price": 1.37,
+      "ask_price": 2.25,
+      "bid_size": 50.0,
+      "ask_size": 12.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.506,
+      "gamma": 0.0857,
+      "theta": -0.0406,
+      "vega": 0.0676,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:35:46.365997",
+    "quote": {
+      "timestamp": "2025-10-27T19:35:41.893409+00:00",
+      "bid_price": 1.38,
+      "ask_price": 2.34,
+      "bid_size": 48.0,
+      "ask_size": 22.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.5225,
+      "gamma": 0.0877,
+      "theta": -0.0398,
+      "vega": 0.0677,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:36:46.756432",
+    "quote": {
+      "timestamp": "2025-10-27T19:36:24.178684+00:00",
+      "bid_price": 1.33,
+      "ask_price": 2.32,
+      "bid_size": 48.0,
+      "ask_size": 22.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.5172,
+      "gamma": 0.088,
+      "theta": -0.0397,
+      "vega": 0.0677,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:37:47.128766",
+    "quote": {
+      "timestamp": "2025-10-27T19:37:23.157015+00:00",
+      "bid_price": 1.37,
+      "ask_price": 2.34,
+      "bid_size": 50.0,
+      "ask_size": 22.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.5093,
+      "gamma": 0.0844,
+      "theta": -0.0412,
+      "vega": 0.0676,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:38:47.509149",
+    "quote": {
+      "timestamp": "2025-10-27T19:38:31.824538+00:00",
+      "bid_price": 1.37,
+      "ask_price": 2.26,
+      "bid_size": 50.0,
+      "ask_size": 22.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4987,
+      "gamma": 0.0834,
+      "theta": -0.0416,
+      "vega": 0.0675,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:39:47.885216",
+    "quote": {
+      "timestamp": "2025-10-27T19:39:46.187320+00:00",
+      "bid_price": 1.33,
+      "ask_price": 2.32,
+      "bid_size": 51.0,
+      "ask_size": 21.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4959,
+      "gamma": 0.0822,
+      "theta": -0.0421,
+      "vega": 0.0674,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:40:48.254210",
+    "quote": {
+      "timestamp": "2025-10-27T19:40:08.180743+00:00",
+      "bid_price": 1.37,
+      "ask_price": 2.26,
+      "bid_size": 50.0,
+      "ask_size": 21.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4957,
+      "gamma": 0.0826,
+      "theta": -0.0419,
+      "vega": 0.0674,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:41:48.642985",
+    "quote": {
+      "timestamp": "2025-10-27T19:41:23.168054+00:00",
+      "bid_price": 1.33,
+      "ask_price": 2.28,
+      "bid_size": 51.0,
+      "ask_size": 23.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4908,
+      "gamma": 0.0818,
+      "theta": -0.0423,
+      "vega": 0.0673,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:42:48.966088",
+    "quote": {
+      "timestamp": "2025-10-27T19:42:47.858400+00:00",
+      "bid_price": 1.37,
+      "ask_price": 2.32,
+      "bid_size": 51.0,
+      "ask_size": 21.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4888,
+      "gamma": 0.0794,
+      "theta": -0.0434,
+      "vega": 0.0673,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:43:49.313195",
+    "quote": {
+      "timestamp": "2025-10-27T19:43:49.306507+00:00",
+      "bid_price": 1.37,
+      "ask_price": 2.32,
+      "bid_size": 51.0,
+      "ask_size": 21.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4807,
+      "gamma": 0.0772,
+      "theta": -0.0444,
+      "vega": 0.0671,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:44:49.624866",
+    "quote": {
+      "timestamp": "2025-10-27T19:44:44.575236+00:00",
+      "bid_price": 1.33,
+      "ask_price": 2.32,
+      "bid_size": 50.0,
+      "ask_size": 22.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4849,
+      "gamma": 0.0792,
+      "theta": -0.0434,
+      "vega": 0.0672,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:45:49.968194",
+    "quote": {
+      "timestamp": "2025-10-27T19:44:44.575236+00:00",
+      "bid_price": 1.33,
+      "ask_price": 2.32,
+      "bid_size": 50.0,
+      "ask_size": 22.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4809,
+      "gamma": 0.0781,
+      "theta": -0.0439,
+      "vega": 0.0671,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:46:50.335716",
+    "quote": {
+      "timestamp": "2025-10-27T19:46:39.916700+00:00",
+      "bid_price": 1.33,
+      "ask_price": 2.28,
+      "bid_size": 50.0,
+      "ask_size": 12.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4858,
+      "gamma": 0.0804,
+      "theta": -0.0429,
+      "vega": 0.0672,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:47:50.731752",
+    "quote": {
+      "timestamp": "2025-10-27T19:47:30.297785+00:00",
+      "bid_price": 1.33,
+      "ask_price": 2.27,
+      "bid_size": 51.0,
+      "ask_size": 12.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4932,
+      "gamma": 0.0827,
+      "theta": -0.0419,
+      "vega": 0.0674,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:48:51.107518",
+    "quote": {
+      "timestamp": "2025-10-27T19:48:44.062487+00:00",
+      "bid_price": 1.33,
+      "ask_price": 2.26,
+      "bid_size": 50.0,
+      "ask_size": 12.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4877,
+      "gamma": 0.0814,
+      "theta": -0.0424,
+      "vega": 0.0673,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:49:51.477636",
+    "quote": {
+      "timestamp": "2025-10-27T19:49:50.184493+00:00",
+      "bid_price": 1.32,
+      "ask_price": 2.33,
+      "bid_size": 31.0,
+      "ask_size": 21.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4729,
+      "gamma": 0.076,
+      "theta": -0.0449,
+      "vega": 0.0669,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:50:51.814692",
+    "quote": {
+      "timestamp": "2025-10-27T19:50:47.417420+00:00",
+      "bid_price": 0.88,
+      "ask_price": 2.32,
+      "bid_size": 44.0,
+      "ask_size": 7.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4655,
+      "gamma": 0.0849,
+      "theta": -0.0404,
+      "vega": 0.0668,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:51:52.144142",
+    "quote": {
+      "timestamp": "2025-10-27T19:51:46.651555+00:00",
+      "bid_price": 1.07,
+      "ask_price": 2.28,
+      "bid_size": 20.0,
+      "ask_size": 14.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4798,
+      "gamma": 0.0852,
+      "theta": -0.0406,
+      "vega": 0.0672,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:52:52.567262",
+    "quote": {
+      "timestamp": "2025-10-27T19:52:46.023936+00:00",
+      "bid_price": 1.03,
+      "ask_price": 2.28,
+      "bid_size": 46.0,
+      "ask_size": 14.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4845,
+      "gamma": 0.0876,
+      "theta": -0.0396,
+      "vega": 0.0673,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:53:52.920478",
+    "quote": {
+      "timestamp": "2025-10-27T19:53:43.028477+00:00",
+      "bid_price": 1.07,
+      "ask_price": 2.32,
+      "bid_size": 46.0,
+      "ask_size": 14.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4754,
+      "gamma": 0.0828,
+      "theta": -0.0415,
+      "vega": 0.067,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:54:53.292169",
+    "quote": {
+      "timestamp": "2025-10-27T19:54:52.449091+00:00",
+      "bid_price": 1.03,
+      "ask_price": 2.33,
+      "bid_size": 46.0,
+      "ask_size": 20.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4746,
+      "gamma": 0.0834,
+      "theta": -0.0413,
+      "vega": 0.067,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:55:53.673033",
+    "quote": {
+      "timestamp": "2025-10-27T19:55:11.905853+00:00",
+      "bid_price": 1.07,
+      "ask_price": 2.34,
+      "bid_size": 23.0,
+      "ask_size": 1.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4703,
+      "gamma": 0.0808,
+      "theta": -0.0424,
+      "vega": 0.0669,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:56:54.052700",
+    "quote": {
+      "timestamp": "2025-10-27T19:55:11.905853+00:00",
+      "bid_price": 1.07,
+      "ask_price": 2.34,
+      "bid_size": 23.0,
+      "ask_size": 1.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4651,
+      "gamma": 0.0793,
+      "theta": -0.043,
+      "vega": 0.0668,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:57:54.399604",
+    "quote": {
+      "timestamp": "2025-10-27T19:55:11.905853+00:00",
+      "bid_price": 1.07,
+      "ask_price": 2.34,
+      "bid_size": 23.0,
+      "ask_size": 1.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4607,
+      "gamma": 0.0781,
+      "theta": -0.0435,
+      "vega": 0.0666,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:58:54.748974",
+    "quote": {
+      "timestamp": "2025-10-27T19:58:09.145004+00:00",
+      "bid_price": 1.03,
+      "ask_price": 2.34,
+      "bid_size": 23.0,
+      "ask_size": 11.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4575,
+      "gamma": 0.0781,
+      "theta": -0.0434,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T19:59:55.120828",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:54.648624+00:00",
+      "bid_price": 1.03,
+      "ask_price": 2.28,
+      "bid_size": 16.0,
+      "ask_size": 13.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.457,
+      "gamma": 0.0795,
+      "theta": -0.0427,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T20:00:55.487802",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:54.648624+00:00",
+      "bid_price": 1.03,
+      "ask_price": 2.28,
+      "bid_size": 16.0,
+      "ask_size": 13.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4564,
+      "gamma": 0.0793,
+      "theta": -0.0428,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T20:01:55.825835",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:54.648624+00:00",
+      "bid_price": 1.03,
+      "ask_price": 2.28,
+      "bid_size": 16.0,
+      "ask_size": 13.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4564,
+      "gamma": 0.0793,
+      "theta": -0.0428,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T20:02:56.221886",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:54.648624+00:00",
+      "bid_price": 1.03,
+      "ask_price": 2.28,
+      "bid_size": 16.0,
+      "ask_size": 13.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4564,
+      "gamma": 0.0793,
+      "theta": -0.0428,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T20:03:56.572574",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:54.648624+00:00",
+      "bid_price": 1.03,
+      "ask_price": 2.28,
+      "bid_size": 16.0,
+      "ask_size": 13.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4564,
+      "gamma": 0.0793,
+      "theta": -0.0428,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T20:04:56.906757",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:54.648624+00:00",
+      "bid_price": 1.03,
+      "ask_price": 2.28,
+      "bid_size": 16.0,
+      "ask_size": 13.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4564,
+      "gamma": 0.0793,
+      "theta": -0.0428,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T20:05:57.328919",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:54.648624+00:00",
+      "bid_price": 1.03,
+      "ask_price": 2.28,
+      "bid_size": 16.0,
+      "ask_size": 13.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4564,
+      "gamma": 0.0793,
+      "theta": -0.0428,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T20:06:57.880083",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:54.648624+00:00",
+      "bid_price": 1.03,
+      "ask_price": 2.28,
+      "bid_size": 16.0,
+      "ask_size": 13.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4564,
+      "gamma": 0.0793,
+      "theta": -0.0428,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T20:07:58.245212",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:54.648624+00:00",
+      "bid_price": 1.03,
+      "ask_price": 2.28,
+      "bid_size": 16.0,
+      "ask_size": 13.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4564,
+      "gamma": 0.0793,
+      "theta": -0.0428,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T20:08:58.581552",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:54.648624+00:00",
+      "bid_price": 1.03,
+      "ask_price": 2.28,
+      "bid_size": 16.0,
+      "ask_size": 13.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4564,
+      "gamma": 0.0793,
+      "theta": -0.0428,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T20:09:58.973822",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:54.648624+00:00",
+      "bid_price": 1.03,
+      "ask_price": 2.28,
+      "bid_size": 16.0,
+      "ask_size": 13.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4564,
+      "gamma": 0.0793,
+      "theta": -0.0428,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T20:10:59.342346",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:54.648624+00:00",
+      "bid_price": 1.03,
+      "ask_price": 2.28,
+      "bid_size": 16.0,
+      "ask_size": 13.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4564,
+      "gamma": 0.0793,
+      "theta": -0.0428,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T20:11:59.717554",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:54.648624+00:00",
+      "bid_price": 1.03,
+      "ask_price": 2.28,
+      "bid_size": 16.0,
+      "ask_size": 13.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4564,
+      "gamma": 0.0793,
+      "theta": -0.0428,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T20:13:00.100844",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:54.648624+00:00",
+      "bid_price": 1.03,
+      "ask_price": 2.28,
+      "bid_size": 16.0,
+      "ask_size": 13.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4564,
+      "gamma": 0.0793,
+      "theta": -0.0428,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T20:14:00.428488",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:54.648624+00:00",
+      "bid_price": 1.03,
+      "ask_price": 2.28,
+      "bid_size": 16.0,
+      "ask_size": 13.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4564,
+      "gamma": 0.0793,
+      "theta": -0.0428,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T20:15:00.844895",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:54.648624+00:00",
+      "bid_price": 1.03,
+      "ask_price": 2.28,
+      "bid_size": 16.0,
+      "ask_size": 13.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4564,
+      "gamma": 0.0793,
+      "theta": -0.0428,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T20:16:01.241842",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:54.648624+00:00",
+      "bid_price": 1.03,
+      "ask_price": 2.28,
+      "bid_size": 16.0,
+      "ask_size": 13.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4564,
+      "gamma": 0.0793,
+      "theta": -0.0428,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T20:17:01.558165",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:54.648624+00:00",
+      "bid_price": 1.03,
+      "ask_price": 2.28,
+      "bid_size": 16.0,
+      "ask_size": 13.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4564,
+      "gamma": 0.0793,
+      "theta": -0.0428,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T20:18:01.905656",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:54.648624+00:00",
+      "bid_price": 1.03,
+      "ask_price": 2.28,
+      "bid_size": 16.0,
+      "ask_size": 13.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4564,
+      "gamma": 0.0793,
+      "theta": -0.0428,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T20:19:02.275730",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:54.648624+00:00",
+      "bid_price": 1.03,
+      "ask_price": 2.28,
+      "bid_size": 16.0,
+      "ask_size": 13.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4564,
+      "gamma": 0.0793,
+      "theta": -0.0428,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T20:20:02.631489",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:54.648624+00:00",
+      "bid_price": 1.03,
+      "ask_price": 2.28,
+      "bid_size": 16.0,
+      "ask_size": 13.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4564,
+      "gamma": 0.0793,
+      "theta": -0.0428,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T20:21:02.978190",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:54.648624+00:00",
+      "bid_price": 1.03,
+      "ask_price": 2.28,
+      "bid_size": 16.0,
+      "ask_size": 13.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4564,
+      "gamma": 0.0793,
+      "theta": -0.0428,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T20:22:03.355478",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:54.648624+00:00",
+      "bid_price": 1.03,
+      "ask_price": 2.28,
+      "bid_size": 16.0,
+      "ask_size": 13.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4564,
+      "gamma": 0.0793,
+      "theta": -0.0428,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T20:23:03.723572",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:54.648624+00:00",
+      "bid_price": 1.03,
+      "ask_price": 2.28,
+      "bid_size": 16.0,
+      "ask_size": 13.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4564,
+      "gamma": 0.0793,
+      "theta": -0.0428,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T20:24:04.084813",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:54.648624+00:00",
+      "bid_price": 1.03,
+      "ask_price": 2.28,
+      "bid_size": 16.0,
+      "ask_size": 13.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4564,
+      "gamma": 0.0793,
+      "theta": -0.0428,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T20:25:04.410229",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:54.648624+00:00",
+      "bid_price": 1.03,
+      "ask_price": 2.28,
+      "bid_size": 16.0,
+      "ask_size": 13.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4564,
+      "gamma": 0.0793,
+      "theta": -0.0428,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T20:26:04.962187",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:54.648624+00:00",
+      "bid_price": 1.03,
+      "ask_price": 2.28,
+      "bid_size": 16.0,
+      "ask_size": 13.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4564,
+      "gamma": 0.0793,
+      "theta": -0.0428,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T20:27:05.308825",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:54.648624+00:00",
+      "bid_price": 1.03,
+      "ask_price": 2.28,
+      "bid_size": 16.0,
+      "ask_size": 13.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4564,
+      "gamma": 0.0793,
+      "theta": -0.0428,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T20:28:05.696218",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:54.648624+00:00",
+      "bid_price": 1.03,
+      "ask_price": 2.28,
+      "bid_size": 16.0,
+      "ask_size": 13.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4564,
+      "gamma": 0.0793,
+      "theta": -0.0428,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  },
+  {
+    "symbol": "BOH251121C00065000",
+    "timestamp": "2025-10-27T20:29:06.093820",
+    "quote": {
+      "timestamp": "2025-10-27T19:59:54.648624+00:00",
+      "bid_price": 1.03,
+      "ask_price": 2.28,
+      "bid_size": 16.0,
+      "ask_size": 13.0
+    },
+    "trade": {
+      "timestamp": "2025-10-27T14:57:08.862211+00:00",
+      "price": 1.6,
+      "size": 1.0
+    },
+    "greeks": {
+      "delta": 0.4564,
+      "gamma": 0.0793,
+      "theta": -0.0428,
+      "vega": 0.0665,
+      "implied_volatility": null
+    }
+  }
+]

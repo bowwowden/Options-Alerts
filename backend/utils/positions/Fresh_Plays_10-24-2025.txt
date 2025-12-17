@@ -26,6 +26,7 @@
     {
         "symbol": "INTC",
         "price": 40.5,
+        
         "expiration": "weekly",
         "type": "calls"
     },

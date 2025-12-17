@@ -6,9 +6,10 @@ type PostProps = {
   title: string;
   content: string;
   symbol: string;
+  plays?: any[];
 };
 
-const Post: React.FC<PostProps> = ({ id, title, content, symbol }) => {
+const Post: React.FC<PostProps> = ({ id, title, content, symbol, plays }) => {
   const [isHovered, setIsHovered] = useState(false);
 
   return (
@@ -27,6 +28,7 @@ const Post: React.FC<PostProps> = ({ id, title, content, symbol }) => {
     >
       <Link
         to={`/post/${id}`}
+        state={{ title, content, symbol, plays }}
         style={{
           textDecoration: "none",
           color: "inherit"
